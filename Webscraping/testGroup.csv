@@ -1,0 +1,214 @@
+first ,last,discipline,Dept. ,title,CSU/UC,campus,#proj
+Yize,Li,Condensed Matter Physics,Physics and Engineering,Assistant Professor,CSU,Bakersfield,
+Chengwei,Lei,Computer Science,Department of Computer & Electrical Engineering/Computer Science,Assistant Professor,CSU,Bakersfield,5
+Bilin,Zeng,Statistics,Department of Mathematics,Assistant Professor,CSU,Bakersfield,7
+Alan,Fuchs,Chemical Engineering,Physics and Engineering,Full Professor,CSU,Bakersfield,80
+David,Gove,Mathematics,Mathematics,Full Professor,CSU,Bakersfield,1
+Krishna,Prasai,Ph.D (Physics),Physics and Engineering,Lecturer,CSU,Bakersfield,1
+Hunter,Gehlbach,Educational Psychology,Education,Associate Professor,UC,Berkeley,
+Justin,Remais,Environmental Health Sciences,Environmental Health Sciences,Associate Professor,UC,Berkeley,6
+Gail,Brager,Mechanical Engineering,Architecture,Full Professor,UC,Berkeley,30
+Yoonjung,Lee,Political Science,School of Information,Post-Doctoral Scholar,UC,Berkeley,5
+Changhua,Mu,PhD in Biomedical Inorganic Chemistry,Department of Bioengineering,Post-Doctoral Scholar,UC,Berkeley,5
+Elke,Eichelmann,Environmental Science,"Environmental Science, Policy and Management",Post-Doctoral Scholar,UC,Berkeley,1
+Ellen,Kersten,"Environmental Science, Policy, and Management",Psychiatry,Post-Doctoral Scholar,UC,Berkeley,2
+Miguel,Arratia,PhD Physics,Physics,Post-Doctoral Scholar,UC,Berkeley,
+Mariam,Kiran,Computer Science,Lawrence Berkeley National Lab,Research Scientist,UC,Berkeley,2
+Kathryn,Leonard,Mathematics,Mathematics,Associate Professor,CSU,Channel Islands,2
+Dana Lee,Baker,Public Policy,Political Science,Associate Professor,CSU,Channel Islands,4
+Michael,Soltys,Computer Science,Computer Science,Full Professor,CSU,Channel Islands,
+Garrett,Liles,Soil Science ,College of Agriculture,Assistant Professor,CSU,Chico,5
+Jaime,Raigoza,Computer Science,Computer Science Department,Assistant Professor,CSU,Chico,
+Noriyuki,Sato,Geography,Department of Geography and Planning,Associate Professor,CSU,Chico,1
+Lisa,Ott,Chemistry,Chemistry and Biochemistry,Associate Professor,CSU,Chico,3
+Jennifer,Rosenthal,"MD: Pediatrics, Health Services Research",Pediatrics,Assistant Professor,UC,Davis,4
+Samuel,Sandoval,Environmental and Water Resources Engineering ,"Land, Air and Water Resources",Assistant Professor,UC,Davis,3
+Catherine,Brinkley,"Urban Planning, Public Health",Human Ecology,Assistant Professor,UC,Davis,6
+Peter,Hernes,Chemical Oceanography/Aqueous Biogeochemistry,"Land, Air and Water Resources",Full Professor,UC,Davis,6
+Moyar,Qing Ge,Immunology,Internal medicine,Post-Doctoral Scholar,UC,Davis,2
+Prasant,Kumar Jena,Biotechnology,Pathology and Laboratory Medicine,Post-Doctoral Scholar,UC,Davis,
+Ygal,Achmon,Biotechnology and Food Engineering,Food Science and Technology,Post-Doctoral Scholar,UC,Davis,
+Elvira,de Lange,Chemical Ecology,Entomology and Nematology,Post-Doctoral Scholar,UC,Davis,1
+Pamela,Reynolds,Biological Sciences (Ecology),Evolution and Ecology,Post-Doctoral Scholar,UC,Davis,2
+Rose,Kagawa,Epidemiology,Emergency Medicine,Post-Doctoral Scholar,UC,Davis,5
+Karen,LeGrand,Microbiology,International Programs,Post-Doctoral Scholar,UC,Davis,2
+Patrick,Still,Medicinal Chemistry,Chemistry,Assistant Professor,CSU,Dominguez Hills,2
+Bin,Tang,Computer Science,Computer Science Department,Assistant Professor,CSU,Dominguez Hills,0
+Philip,Vieira,Psychology,Psychology,Assistant Professor,CSU,Dominguez Hills,3
+Karin,Kram,Microbiology,Biology,Assistant Professor,CSU,Dominguez Hills,2
+Kathryn,Theiss,Ecology & Evolutionary Biology,Biology,Assistant Professor,CSU,Dominguez Hills,2
+Sarah,Lacy,Biological Anthropology,Anthropology,Assistant Professor,CSU,Dominguez Hills,1
+Ximena,Cid,Physics,Physics,Assistant Professor,CSU,Dominguez Hills,5
+Terry,McGlynn,Ecology and Evolutionary Biology,Biology,Full Professor,CSU,Dominguez Hills,5
+Chandra,Srinivasan,Chemistry,Graduate Studies and Research,Full Professor & Faculty Director for Research Development,CSU,Dominguez Hills,8
+Ayona,Chatterjee,Phd in Statistics,Statistics and Biostatistics,Assistant Professor,CSU,East Bay,7
+Nidhi,Khosla,Public Health,Department of Health Sciences,Assistant Professor,CSU,East Bay,2
+Arnab,Mukherjea,Public Health,Health Sciences,Assistant Professor,CSU,East Bay,5
+Natalie,Ingraham,Sociology,Sociology,Assistant Professor,CSU,East Bay,2
+Kathryn,Grimm,Physics,Physics,Assistant Professor,CSU,East Bay,1
+Ryan,Smith,Physics,Physics,Assistant Professor,CSU,East Bay,2
+Fadi,Castronovo,PhD in Architectural Engineering,"School of Engineering, Construction Management Program",Assistant Professor,CSU,East Bay,4
+James,Murray,Zoology,Biological Sciences,Associate Professor,CSU,East Bay,4
+Erik,Helgren,Physics,Dept. of Physics,Associate Professor,CSU,East Bay,3
+Levent,Ertaul,Computer Science: Cyber Security,Computer Science,Full Professor,CSU,East Bay,5
+Steve,Chung,Statistics,Department of Mathematics,Assistant Professor,CSU,Fresno,7
+Joshua,Reece,Ecology and Evolution,Biology,Assistant Professor,CSU,Fresno,4
+Hubert,Cecotti,Computer Science,Department of Computer Science,Assistant Professor,CSU,Fresno,5
+Chelsey,Juarez,Biological anthropology/ forensics,Anthropology,Assistant Professor,CSU,Fresno,5
+Cory,Brooks,Biochemistry,Chemistry,Assistant Professor,CSU,Fresno,4
+David,Lent,Neuroscience,Biology,Associate Professor,CSU,Fresno,1
+Pei-Chun,Ho,Physics,Physics,Full Professor,CSU,Fresno,2
+Austin,Nation,Nursing,School of Nursing,Assistant Professor,CSU,Fullerton,4
+Alice,Lee,Epidemiology,Health Science,Assistant Professor,CSU,Fullerton,3
+Veronica,Jimenez,Biomedical Science,Biological Science,Assistant Professor,CSU,Fullerton,2
+Maria Soledad,Ramirez,PhD,Biological Science,Assistant Professor,CSU,Fullerton,3
+Parvin,Shahrestani,Biology,Biological Science,Assistant Professor,CSU,Fullerton,5
+Gergana,Todorova,Organizational Behavior and Theory,Department of Management,Associate Professor,CSU,Fullerton,5
+Nikolas,Nikolaidis,Biology,Biological Science,Associate Professor,CSU,Fullerton,1
+Madeline,Rasche,Biochemistry,Chemistry and Biochemistry,Full Professor,CSU,Fullerton,5
+CHARLES,LEE,MATHEMATICS,MATHEMATICS,Full Professor,CSU,Fullerton,5
+Maria,Rendon,Sociology,Urban Planning and Public Policy,Assistant Professor,UC,Irvine,
+Heather,Crawford,Nuclear Chemistry,Nuclear Science Division,Assistant Researcher,UC,Lawrence Berkeley National Laboratory,1
+Jennifer,Soong,Ecology,Earth and Environmental Sciences,Post-Doctoral Scholar,UC,Lawrence Berkeley National Laboratory,3
+Hang,Deng,Civil and Environmental Engineering,Energy Geosciences Division,Full Researcher,UC,Lawrence Berkeley National Laboratory ,3
+Amber,Johnson,Community Health Education,Health Science,Assistant Professor,CSU,Long Beach,2
+Belinda,Daughrity,Education with a specialization in Human Development and Psychology,Speech-Language Pathology,Assistant Professor,CSU,Long Beach,1
+Pitiporn,Asvapathanagul,Engineering,Civil Engineering and Construction Engineering Managment,Assistant Professor,CSU,Long Beach,1
+Suzie,Weng,Social Work,School of Social Work,Assistant Professor,CSU,Long Beach,4
+Douglas,Pace,Marine Biology,Biological Sciences,Assistant Professor,CSU,Long Beach,2
+Virginia,Gray,Nutrition,Family and Consumer Sciences,Assistant Professor,CSU,Long Beach,10
+Joshua,Cotter,Exercise Physiology,Kinesiology,Assistant Professor,CSU,Long Beach,11
+Kristina,Lovato,Social Welfare,Social Work,Assistant Professor,CSU,Long Beach,1
+Sara,Nourazari,Industrial Engineering and Operations Research,Health Care Administeration,Assistant Professor,CSU,Long Beach,4
+May Ling,Halim,Psychology,Psychology,Associate Professor,CSU,Long Beach,4
+Arturo,Zavala,Behavioral Neuroscience,Psychology,Associate Professor,CSU,Long Beach,
+Gwen,Shaffer,Communications  (focus on telecommunications policy),Journalism and Public Relations,Associate Professor,CSU,Long Beach,4
+Paul,Laris,Geography,Geography,Full Professor,CSU,Long Beach,4
+Iveris,Martinez,Anthropology and Public Health,"Center for Successful Aging/Family and Consumer Sciences, Division of Gerontology",Full Professor,CSU,Long Beach,5
+Jingjing,Li,Civil Engineering,Geosciences and Environment,Assistant Professor,CSU,Los Angeles,3
+Ximin,He,Chemistry,Materials Science and Engineering,Assistant Professor,UC,Los Angeles,5
+Jennie,Grammer,Psychology,The Graduate School of Education and Information Studies,Assistant Professor,UC,Los Angeles,3
+Nicole,Valenzuela,Cellular and Molecular Pathology,Pathology and Laboratory Medicine,Assistant Professor,UC,Los Angeles,
+Susanne,Nicholas,"MD, MPH,PhD- Medicine/Nephrology, Public Health, Physiology",Medicine,Associate Professor,UC,Los Angeles,5
+Ulrike,Seibt,Geosciences,Atmospheric and Oceanic Sciences,Associate Professor,UC,Los Angeles,4
+Richard,Wirz,"PhD, Engineering & Applied Sciences (Caltech)",Mechanical & Aerospace Engineering,Associate Professor,UC,Los Angeles,20
+Jessica,Gipson,Public Health,Community Health Sciences,Associate Professor,UC,Los Angeles,2
+Daniela,Cusack,PhD in Ecosystem Ecology,Geography,Associate Professor,UC,Los Angeles,2
+Shih Lung,Woo,PhD in Nutrition,Center for Human Nutrition,Post-Doctoral Scholar,UC,Los Angeles,1
+SONGYI,BAE,Natural Product Sciences,Bioengineering,Post-Doctoral Scholar,UC,Los Angeles,7
+Gordana,Halec,PhD in Biology,Department of Pediatrics,Post-Doctoral Scholar,UC,Los Angeles,4
+Raleigh,Martin,Geology,Atmospheric and Oceanic Sciences,Post-Doctoral Scholar,UC,Los Angeles,4
+David,Goodman-Meza,"MD, MAS in clinical research",Infectious Diseases,Post-Doctoral Scholar,UC,Los Angeles,2
+Katherine,Sammler,Geography,Global Studies & Maritime Affaris,Assistant Professor,CSU,Maritime,4
+Joshua,Shackman,Economics,ABS School of Martime Policy and Management,Assistant Professor,CSU,Maritime,14
+Sharla,Alegria,Sociology,Sociology,Assistant Professor,UC,Merced,2
+Whitney,Pirtle,Sociology,Sociology,Assistant Professor,UC,Merced,3
+Yue (Jessica),Wang,Inorganic Chemistry,Materials Science and Engineering,Assistant Professor,UC,Merced,15
+Emily,Moran,Biology,Life and Environmental Sciences,Assistant Professor,UC,Merced,4
+Dalia,Magana,Spanish Linguistics,Literatures and Languages,Assistant Professor,UC,Merced,0
+LILIAN,DAVILA,MATERIALS SCIENCE AND ENGINEERING,School of Engineering,Assistant Professor,UC,Merced,4
+Emily Jane,McTavish,Biology,Life and Environmental Sciences,Assistant Professor,UC,Merced,3
+Asmeret Asefaw,Berhe,"Environmental Science, Policy, and Management (Biogeochemistry)",Life and Environmental Sciences,Associate Professor,UC,Merced,4
+Teamrat,Ghezzehei,Soil Science (Soil Physics),Life and Environmental Sciences,Associate Professor,UC,Merced,4
+Kathleen,Hull,Anthropology,Anthropology,Associate Professor,UC,Merced,
+"Theofanis ""Fanis""",Tsoulouhas,Economics,Social Sciences and Management,Full Professor,UC,Merced,7
+Edbertho,Leal-Quiros,PhD in Nuclear Engineering,Mechanical Engineering,Full Researcher,UC,Merced,3
+Jesus,Sandoval,PhD  International economics,SSM Economics,Lecturer with Potential Security of Employmen (LPSOE),UC,Merced,0
+Deepti,Chittamuru,Communication,"School Of Social Sciences, Humanities And Arts",Post-Doctoral Scholar,UC,Merced,9
+Dannise,Ruiz,Biology,School of Natural Sciences,Post-Doctoral Scholar,UC,Merced,2
+Kevin,Grobman,Psychology (PhD),Psychology,Assistant Professor,CSU,Monterey Bay,0
+Judith,Canner,Biomathematics and Zoology,Mathematics and Statistics,Associate Professor,CSU,Monterey Bay,9
+Ruting,Jia,Electrical and Computer Engineering,Electrical and Computer Engineering,Assistant Professor,CSU,Northridge,3
+Meeta,Banerjee,Ph.D.,Psychology,Assistant Professor,CSU,Northridge,
+Kerry,Nickols,Ecology,Biology,Assistant Professor,CSU,Northridge,6
+Nhut,Ho,Systems and human factors engineering,Mechanical Engineering,Full Professor,CSU,Northridge,17
+Kyung,In Huh,Geography,Geography and Anthropology,Assistant Professor,CSU,Pomona,2
+Yao,Olive Li,Chemical/Food Engineering,Human Nutrition & Food Science,Assistant Professor,CSU,Pomona,3
+Cord,Brundage,"PhD: Integrative Physiology, DVM: Veterinary Medicine",Animal & Veterinary Sciences,Assistant Professor,CSU,Pomona,1
+Monica,Palomo,PhD,Civil Engineering,Associate Professor,CSU,Pomona,All my projects are multidisciplinary
+Lin,Wu,Geography - climatology,Geography and Anthropology,Full Professor,CSU,Pomona,5
+Subodh,Bhandari,Aerospace Engineering,Aerospace Engineering,Full Professor,CSU,Pomona,6
+Winny,Dong,Materials Science and Engineering,Office of Undergraduate Research,Full Professor,CSU,Pomona,3
+Mahnaz,Moradi Nargesi,Mathematics,,Lecturer,CSU,Pomona,
+Jade,Sasser,Environmental Science & Policy Management,Gender & Sexuality Studies,Assistant Professor,UC,Riverside,
+Samantha,Ying,Soil Geochemistry,Environmental Sciences,Assistant Professor,UC,Riverside,3
+Chen,Li,Materials Science,Materials Science and Engineering/Mechanical Engineering,Assistant Professor,UC,Riverside,3
+Holly,Bik,Biological Sciences,Nematology,Assistant Professor,UC,Riverside,2
+Sarah,Woodard,Biology,Department of Entomology,Assistant Professor,UC,Riverside,2
+Margarita,Curras-Collazo,Physiology,"Cell, Molecular and Systems Biology",Associate Professor,UC,Riverside,2
+Melissa,McTernan,Quantitative Psychology,Psychology,Assistant Professor,CSU,Sacramento,4
+Joseph,Bahlman,Biology,Biology,Assistant Professor,CSU,Sacramento,5
+Milica,Markovic,Electrical Engineering,Electrical and Electronic Engineering,Full Professor,CSU,Sacramento,0
+Sara,Callori,Physics,Department of Physics,Assistant Professor,CSU,San Bernardino,10
+Brett,Goforth,Earth Sciences,Geography and Environmental Studies,Assistant Professor,CSU,San Bernardino,1
+Donna,Garcia,Social Psychology,Psychology,Associate Professor,CSU,San Bernardino,4
+Alicia,Kinoshita,Civil Engineering,"Civil, Construction, Environmental Engineering",Assistant Professor,CSU,San Diego,6
+Wenwu,Xu,Materials Science and Engineering,Mechanical Engineering,Assistant Professor,CSU,San Diego,5
+Xiaofeng,Liu,Aerospace Engineering,Department of Aerospace Engineering,Assistant Professor,CSU,San Diego,4
+Sahar,Ghanipoor Machiani,PhD in Civil Engineering,"Civil, Construction, and Environmental Engineering",Assistant Professor,CSU,San Diego,7
+Erica,Forsberg,Chemical Biology,Chemistry and Biochemistry,Assistant Professor,CSU,San Diego,4
+Jillian,Maloney,Earth Science,Geological Sciences,Assistant Professor,CSU,San Diego,3
+Melody K,Schiaffino,Health Services Research,School of Public Health,Assistant Professor,CSU,San Diego,0
+Felisha,Herrera Villarreal,STEM Education,Postsecondary Education,Assistant Professor,CSU,San Diego,
+Yawen,Li,PhD in social work,School of Social Work,Associate Professor,CSU,San Diego,
+Tracy,Finlayson,Public Health,", Division of Health Management and Policy in the School of Public Health",Associate Professor,CSU,San Diego,10
+Eyal,Oren,Epidemiology,Graduate School of Public Health,Associate Professor,CSU,San Diego,4
+Heather,Corliss,Epidemiology,Graduate School of Public Health,Full Professor,CSU,San Diego,5
+Violet,Bumah,Biochemistry,Department of Chemistry and Biochemistry,Full Researcher,CSU,San Diego,3
+Shannon Klotsko,Klotsko,Earth Sciences,Geological Sciences,Post-Doctoral Scholar,CSU,San Diego,4
+Tse Nga Tina,Ng,Physical Chemistry,Electrical and Computer Engineering,Associate Professor,UC,San Diego,2
+Robina,Shaheen,Atmospheric Chemistry,Chemistry and Biochemistry,Associate Researcher,UC,San Diego,
+AlisonC,Coil,Astrophysics,Physics,Full Professor,UC,San Diego,5
+Ekaterina,Evdokimenko,Materials Science and Engineering,Mechanical and Aerospace Engineering,Post-Doctoral Scholar,UC,San Diego,5
+Andrew,Johnson,Marine fisheries ecology,Marine Biology Research Division,Post-Doctoral Scholar,UC,San Diego,3
+Somayeh,Sabouri,Immunology,,Post-Doctoral Scholar,UC,San Diego,2
+Stephanie,Rogers,"MD, MPH, MS",Medicine,Assistant Professor,UC,San Francisco,3
+Stacy,Torres,Sociology,Sociology,Assistant Professor,UC,San Francisco,0
+Jae,Sevelius,Clinical Psychology,Medicine,Associate Professor,UC,San Francisco,5
+Dorie,Apollonio,Political Science/Health Policy,Clinical Pharmacy,Associate Professor,UC,San Francisco,7
+Juleen,Lam,Environmental public health,"Obstetrics, Gynecology and Reproductive Sciences",Associate Researcher,UC,San Francisco,7
+James,Buckwalter,Electrical Engineering,Electrical and Computer Engineering,Full Professor,UC,San Francisco,
+Odessa,Yabut,Developmental Biology,Neurology,Instructor,UC,San Francisco,2
+Sarine,Markossian,Molecular Genetics,Department of Pharmaceutical Chemistry,Other - Full Specialist,UC,San Francisco,2
+Timothy,Galan,Orthopaedic Surgery Residendy Program,Orthopaedic Surgery,Other - UCSF Fresno Resident,UC,San Francisco,
+Navneet,Matharu,Molecular biology,Bioengineering and therapeutics Sciences,Post-Doctoral Scholar,UC,San Francisco,
+Kelly,Bennion,Psychology (concentration in Cognitive Neuroscience),Psychology and Child Development,Assistant Professor,CSU,San Luis Obispo,5
+STHANU,MAHADEV,Mechanical Engineering,Mechanical Engineering,Assistant Professor,CSU,San Luis Obispo,2
+Jean,Peterson,Viticulture,Wine and Viticulture,Assistant Professor,CSU,San Luis Obispo,4
+Ashley,Ringer McDonald,Physical Chemistry,Chemistry and Biochemistry,Assistant Professor,CSU,San Luis Obispo,3
+Ike,Kang,,Animal Science,Associate Professor,CSU,San Luis Obispo,0
+Lizabeth,Schlemer,Education,Industrial and Manufacurting Engineering,Full Professor,CSU,San Luis Obispo,10
+Saeed,Niku,Mechanical Engineering,Mechanical Engineering,Full Professor,CSU,San Luis Obispo,
+Elinne,Becket,Molecular Biology,Biological Sciences,Assistant Professor,CSU,San Marcos,12
+Robert,Iafe,Organic chemistry,Chemistry & Biochemistry,Assistant Professor,CSU,San Marcos,1
+Stephen,Tsui,Condensed Matter Physics,Physics,Associate Professor,CSU,San Marcos,4
+Zachary,Eilon,Geophysics (Earth Science),Earth Science,Assistant Professor,UC,Santa Barbara,1
+Julia,Lowndes,Biology,NCEAS,Assistant Researcher,UC,Santa Barbara,1
+Carrie,Kappel,PhD,NCEAS,Associate Researcher,UC,Santa Barbara,16
+Michael,Nava,PhD Statistics,Statistics & Applied Probability,Lecturer,UC,Santa Barbara,1
+Jane,Mi,"MFA - Design Media Arts, MSE - Ocean Engineering",Art,Lecturer,UC,Santa Barbara,10
+Siddharth,Narayan,Coastal Engineering and Flood Risk Assessments,Institute of Marine Sciences,Post-Doctoral Scholar,UC,Santa Barbara,3
+Anna,Kim,Chemistry and Chemical Engineering,Mechanical Engineering,Post-Doctoral Scholar,UC,Santa Barbara,1
+Heather,Hodges,Political Science,Bren School of Env. Sci. & Mgmt.,Post-Doctoral Scholar,UC,Santa Barbara,7
+Jennifer,Mobberley,Microbiology and Cell Science,Chemistry and Biochemistry,Post-Doctoral Scholar,UC,Santa Barbara,4
+Yu,Zhang,Electrical Engineering,Electrical Engineering,Assistant Professor,UC,Santa Cruz,3
+Margaret,Zimmer,Hydrology,Earth and Planetary Sciences,Assistant Professor,UC,Santa Cruz,5
+Kevin,Jones,Accounting,Economics,Assistant Professor,UC,Santa Cruz,0
+Kathleen,Kay,"Ecology, Evolution and Behavior; Plant Biology",Ecology and Evolutionary Biology,Associate Professor,UC,Santa Cruz,0
+Ricardo,Sanfelice,Electrical Engineering/Control Systems,Computer Engineering,Associate Professor,UC,Santa Cruz,1
+Donald,Wiberg,Engineering,Electrical Engineering,Full Professor,UC,Santa Cruz,100
+JJ,Garcia-Luna-Aceves,,Computer Engineering,Full Professor,UC,Santa Cruz,0
+Melissa,Viola Eitzel Solera,"Environmental Science, Policy, and Management",Sociology,Post-Doctoral Scholar,UC,Santa Cruz,5
+Karin,Jaffe,Anthropology,Anthropology,Full Professor,CSU,Sonoma,10
+JOSE,DIAZ-GARAYUA,Ph.D. in Geography,Geography,Assistant Professor,CSU,Stanislaus,0
+Wing,To,Physics,Physics and Geology,Assistant Professor,CSU,Stanislaus,2
+Alison,McNally,Geography,"Department of Anthropology, Geography, and Ethnic Studies",Assistant Professor,CSU,Stanislaus,2
+Iris,Ruiz,Ethnic Studies,Ethnic Studies,Lecturer,CSU,Stanislaus,0
+Christian,Kohler,Masters in Building Physics,Building Technologies and Urban Systems,Other - Principal Scientific Engineering Associate,"Lawrence Berkeley National Lab, managed by UC",,3
+Haruko,Wainwright,Nuclear Engineering (with minor in Civil and Environmental Engineering),Climate and Ecosystem Sciences Division,Assistant Researcher,Lawrence Berkeley National Laboratory,,5
+Daniel,Feldman,Environmental Science and Engineering,Climate Sciences,Associate Researcher,Lawrence Berkeley National Laboratory,,3
+Ulas,Karaoz,Bioinformatics and Systems Biology,Ecology Department,Full Researcher,Lawrence Berkeley National Laboratory,,3
+Robert,Streubel,Physics,"Materials Sciences Division, Lawrence Berkeley National Laboratory",Post-Doctoral Scholar,Lawrence Berkeley National Laboratory,,10
+Neslihan,Tas Baas,Microbial Ecology,Ecology Department,Project Scientist,Lawrence Berkeley National Laboratory,,5
+Jenny,Mortimer,Plant Physiology,"Environmental Genomics and Systems Biology, Biosciences",Research Scientist,LBNL,,4
+Virginia,Bolshakova,Insect Ecology,UC Cooperative Extension San Mateo &San Francisco Counties,Other - UCANR Advisor/Director,UC Agriculture and Natural Resources,,ALL

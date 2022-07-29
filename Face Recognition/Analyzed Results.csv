@@ -1,0 +1,150 @@
+First Name,Last Name,White,Black,East Asian,Other,Highest Prob. Score,Eyeball correctness,Eyeball guess,Valid photo?,Photo quality,Image Address
+Yize,Li,0.2160084099,0.008779630996,0.4100011885,0.3652107553,East Asian,1,N/A,Y,Very small ,https://www.csub.edu/physics/_images/Li.jpg
+Bilin,Zeng,0.1091773659,0.05195034295,0.0386303775,0.8002420012,Other,Unsure,East Asian or Other,Y,"Low quality, but okay",https://www.csub.edu/~bzeng/images/bzeng.jpg
+Alan,Fuchs,0.07256197184,0.09233952314,0.2367313951,0.5983670801,Other,3,White,Y,Blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8NUj7xQAAAAJ&citpid=2
+Hunter,Gehlbach,0.2743046284,0.01784679852,0.1005376652,0.6073109694,Other,2,White,Y,Very small ,https://edpolicyinca.org/sites/default/files/styles/author_cropped/public/people-photos/Hunter_Gehlbach.jpg?h=2a9573c7&itok=esENIu8-
+Justin,Remais,0.170006156,0.1219097301,0.1247349605,0.5833490863,Other,2,White,Y,Blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8DuoSE4AAAAJ&citpid=4
+Gail,Brager,0.3816819191,0.06809955835,0.03788742796,0.5123310983,Other,2,White,Y,Good,https://cbe.berkeley.edu/wp-content/uploads/2018/08/Gail-Brager.jpg
+Elke,Eichelmann,0.1178666949,0.07711736858,0.1807425469,0.6242733337,Other,3,White,Y,Barely shows face,https://ourenvironment.berkeley.edu/sites/ourenvironment.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-14329-1453861184.jpg?itok=EIBYMJZ6
+Ellen,Kersten,0.3051817119,0.05451470241,0.1339402199,0.5063633807,Other,2,White,Y,Good,https://ourenvironment.berkeley.edu/sites/ourenvironment.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-14248-1449693570.jpg?itok=rzy378CD
+Miguel,Arratia,0.02110147104,0.07052431256,0.2506546676,0.6577196177,Other,1,N/A,Y,Good,https://www.cambridgetrust.org/assets/cache/4615267e6c99db49c8bd7e5f780a53b79b075f44.jpg
+Kathryn,Leonard,0.1508162171,0.09322357178,0.1016184166,0.6543417647,Other,1,N/A,Y,Good,https://archive.vcstar.com/Services/image.ashx?domain=www.vcstar.com&file=leonard07_4495256_ver1.0_640_480.jpg&resize=200*271
+Michael,Soltys,0.6529923677,0.01282528322,0.02521773614,0.3089646176,White,1,N/A,Y,Good,https://i0.wp.com/prof.msoltys.com/wp-content/uploads/2013/07/Michael-Soltys-CS-2-230x300.jpeg?resize=230%2C300
+Garrett,Liles,0.6649039984,0.01926830783,0.03551485762,0.2803128008,White,1,N/A,Y,Good,https://www.csuchico.edu/ag/_assets/images/faculty-staff/liles-garrett.jpeg
+Jaime,Raigoza,0.003663041862,0.02162248455,0.3427262604,0.6319881744,Other,1,N/A,Y,Good,https://www.csuchico.edu/csci/_assets/images/jaime-raigoza.jpg
+Noriyuki,Sato,0.5107460022,0.01686419919,0.1185638607,0.3538259901,White,Unsure,East Asian or Other,Y,Good,https://www.csuchico.edu/cwe/_assets/images/sato-noriyuki.jpg
+Lisa,Ott,0.06689424813,0.3619075119,0.02307764441,0.5481205913,Other,Unsure,Black or Other,Y,Good,https://www.csuchico.edu/cwe/_assets/images/ott-lisa.jpg
+Jennifer,Rosenthal,0.658308208,0.003815591335,0.1204977632,0.2173785046,White,1,White or Other,Y,Very small ,https://physicians.ucdavis.edu/Custom/Photos/21924.jpg
+Samuel,Sandoval,0.1176767126,0.05791442469,0.2953749299,0.5290339123,Other,1,N/A,Y,Good,http://internal.metro.ucdavis.edu/profiles/images/5549-sandoval-solis.jpg
+Catherine,Brinkley,0.04443376511,0.1593012065,0.161691308,0.6345736501,Other,4,White,Y,Good,https://humanecology.ucdavis.edu/sites/g/files/dgvnsk161/files/styles/sf_profile/public/images/person/crd_brinkley_catherine.jpg?h=74f1cb4c&itok=GNqZ7x9_
+Peter,Hernes,0.5518396497,0.04140449315,0.05139373615,0.3553621583,White,1,N/A,Y,Good,http://internal.metro.ucdavis.edu/profiles/images/12-hernes.jpg
+Ygal,Achmon,0.4717801213,0.00022152171,0.001524920925,0.5264733954,Other,1,N/A,Y,Good,https://www.bftv.ucdavis.edu/sites/g/files/dgvnsk1346/files/styles/sf_profile/public/images/person/Ygal%20Achmon.jpeg?h=55541bb6&itok=XcmbMm2R
+Rose,Kagawa,0.3810892701,0.05021573603,0.1199666709,0.4487283304,Other,2,N/A,Y,Small,https://poverty.ucdavis.edu/sites/main/files/imagecache/profile/main-images/kagawa.jpg?1621110608
+Karen,LeGrand,0.3992852271,0.08633615822,0.04998094216,0.46439768,Other,2,N/A,Y,Good,https://horticulture.ucdavis.edu/sites/g/files/dgvnsk1816/files/styles/profile_smaller/public/images/hort_person/karen-legrand-Cambodia-02-%28141%29-eds-crop-forWeb-600pw.jpg?itok=fxUek2sc
+Patrick,Still,0.008828744292,0.1389160007,0.08249079436,0.7697644508,Other,2,Black  ,Y,Good,https://www.csudh.edu/Assets/csudh-sites/chemistry/images/faculty/patrick-still.jpg
+Bin,Tang,0.01061723754,0.1368812323,0.1037736386,0.7487279065,Other,1,East Asian or Other,Y,Blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=z69VQMAAAAAJ&citpid=2
+Philip,Vieira,0.1372916549,0.1032455489,0.2551884651,0.5042742863,Other,1,White or Other,Y,Good,https://www.csudh.edu/Assets/csudh-sites/psychology/images/faculty/Philip-Vieira02.jpg
+Karin,Kram,0.2537285984,0.2216129005,0.09576784074,0.4288906679,Other,2,White,Y,Small,https://www.csudh.edu/Assets/csudh-sites/biology/images/faculty-and-staff/karin-kram.jpg
+Kathryn,Theiss,0.3016391397,0.06668468565,0.1221712232,0.5095049646,Other,2,White,Y,Small,https://www.csudh.edu/Assets/csudh-sites/biology/images/faculty-and-staff/kathryn-theiss.jpg
+Sarah,Lacy,0.1732280552,0.1062459946,0.07908424735,0.6414418295,Other,2,White,Y,Side-profile,https://www.csudh.edu/Assets/csudh-sites/anthropology/images/faculty/SLacy.jpg
+Ximena,Cid,0.1146365479,0.1958342046,0.06518983096,0.6243394315,Other,1,N/A,Y,Good,https://357h4a1tedstsbee1xvf35r5-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/XimenaCid027_News.jpg
+Terry,McGlynn,0.2418994009,0.02766787447,0.01556061488,0.7148721311,Other,2,White,Y,Very small ,https://www.csudh.edu/Assets/csudh-sites/biology/images/faculty-and-staff/terry-mcglynn.jpg
+Arnab,Mukherjea,0.0008534576627,0.9060579538,0.004782687873,0.08830594172,Black,2,Other,Y,Good,https://www.csueastbay.edu/directory/profiles/files/images/nurs/arnab-mukherjea.jpg
+Natalie,Ingraham,0.3479053974,0.01820406504,0.2843445539,0.3495459724,Other,2,White,Y,Good,https://www.csueastbay.edu/directory/profiles/files/images/soc/ingraham_smheadshot_sept19.jpg
+Ryan,Smith,0.6831417084,0.03737356141,0.01434316859,0.2651415141,White,1,N/A,Y,Good,https://www.csueastbay.edu/directory/profiles/files/images/phys/RPS-new.jpg
+Fadi,Castronovo,0.1407155991,0.1493901759,0.1677495837,0.5421446934,Other,4,White,Y,Good,https://www.calstate.edu/csu-system/why-the-csu-matters/graduation-initiative-2025/FILA/2020-21-awardees/PublishingImages/EastBay-Fadi-Castronovo.jpg
+James,Murray,0.2436466813,0.1275788993,0.08121144772,0.5475629047,Other,2,White,Y,Black & White,https://www.csueastbay.edu/directory/profiles/files/images/biol/murray%202.jpg
+Erik,Helgren,0.5268152356,0.05051673949,0.146901682,0.2757663326,White,1,N/A,Y,Good,https://www.csueastbay.edu/directory/profiles/vitae/phys/helgren-csueb-headshot-2018.jpg
+Levent,Ertaul,0.3104283214,0.1741731912,0.1703075767,0.3450909201,Other,2,White,Y,Bad lighting/angle,https://www.csueastbay.edu/directory/profiles/files/images/cs/levent-ertaul.jpg
+Steve,Chung,0.1488520056,0.3607848287,0.1006164774,0.3897466753,Other,4,East Asian or Other,Y,Far away,https://csm.fresnostate.edu/math/images/faculty-photos/stevech.jpeg
+Joshua,Reece,0.558427453,0.1378038973,0.0408635065,0.2629051656,White,1,N/A,Y,Good,https://colibri-ecology.com/wp-content/uploads/2020/08/joshua-reece.jpg
+Chelsey,Juarez,0.1292801201,0.01744249836,0.06424817443,0.7890292406,Other,2,White,Y,Small,https://socialsciences.fresnostate.edu/anthropology/images/faculty/ChelseyJuarezProfile.jpg
+David,Lent,0.1978598237,0.01017705537,0.004241330549,0.7877218463,Other,1,N/A,Y,Good,https://csm.fresnostate.edu/biology/images/faculty-staff/David%20Lent.jpg
+Pei-Chun,Ho,0.3707498908,0.0541684553,0.09961350262,0.4754681587,Other,1,N/A,Y,Small,https://csm.fresnostate.edu/physics/images/Pei-ChunHo.JPG
+Austin,Nation,0.006589035038,0.8717914224,0.01107569598,0.1105438927,Black,1,N/A,Y,Good,https://news.fullerton.edu/app/uploads/2020/11/Austin-Nation-800x500.jpg
+Alice,Lee,0.04583022371,0.1414398402,0.1779678762,0.6347620301,Other,1,N/A,Y,Small,http://hhd.fullerton.edu/pubh/_resources/images/hhd/faculty/fulltimefaculty/leealice.jpg
+Parvin,Shahrestani,0.09660735726,0.2697308958,0.02546826378,0.6081934944,Other,3,White,Y,Good,https://www.fullerton.edu/biology/_resources/images/fac_page_images/ShahrestaniParvin_Small.jpg
+Nikolas,Nikolaidis,0.9712586999,2.35E-05,0.0003938638547,0.02832399677,White,1,N/A,Y,Very small ,https://www.fullerton.edu/biology/_resources/images/fac_page_images/Nikolas_Nikolaidis.jpg
+Madeline,Rasche,0.1032688171,0.04010425881,0.08310098946,0.7735259421,Other,1,N/A,Y,Good,http://www.fullerton.edu/chemistry/_resources/images/faculty/Madeline-Rasche.JPG
+CHARLES,LEE,0.2054202706,0.03798343614,0.3741391897,0.3824570701,Other,2,East Asian  ,Y,Very small ,https://media.homelight.com/uploads/agent/picture/1299467/normal_charles_lee_photo.jpg
+Maria,Rendon,0.06503017247,0.0670575425,0.066739887,0.801172331,Other,1,Black or Other,Y,Blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uF5PRRcAAAAJ&citpid=2
+Heather,Crawford,0.6001811028,0.04642225429,0.03428630903,0.31911036,White,1,N/A,Y,Good,https://www.ohio.edu/cas/sites/ohio.edu.cas/files/styles/max_650x650/public/2019-02/thumbnail.jpg?itok=QWxhF7Px
+Jennifer,Soong,0.1771561354,0.03009155206,0.2146207243,0.5781315789,Other,1,N/A,Y,Good,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HKTdXtwAAAAJ&citpid=2
+Hang,Deng,0.06649442017,0.3557580411,0.02878035605,0.548967123,Other,4,East Asian,Y,Blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XVHbv7YAAAAJ&citpid=1
+Amber,Johnson,0.006919819862,0.8674177527,0.0003544777283,0.1253078846,Black,1,N/A,Y,Good,http://www.carpenterarts.org/sites/cpac/files/groups/carpenter-performing-arts-center/images-blog/blog_-_dr._amber_johnson.png
+Belinda,Daughrity,0.1606362015,0.2188197374,0.1802250445,0.4403189644,Other,2,Black,Y,Good,https://www.csulb.edu/sites/default/files/styles/profile_image/public/profile/belinda_daughrity_headshot.jpg?itok=c08qHpFz
+Suzie,Weng,0.08789054304,0.1047045216,0.3173164427,0.4900885262,Other,2,East Asian or Other,Y,Good,https://www.csulb.edu/sites/default/files/styles/profile_image/public/profile/professionalphoto.jpg?itok=vgg93b0Q
+Douglas,Pace,0.3130770028,0.08252642304,0.1161961034,0.4882004727,Other,2,White,Y,Very small ,https://scontent-sjc3-1.xx.fbcdn.net/v/t31.18172-1/12783613_569611029858174_5922857235628033158_o.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=107&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=KI8VgVTCQKgAX-Tblth&_nc_ht=scontent-sjc3-1.xx&oh=00_AT-GQEdzFMF4TjiJsOlcKpMCF5J9PVT_FOLah88k4fxiew&oe=628BE3AE
+Virginia,Gray,0.4681822062,0.008921394125,0.2926195264,0.2302768212,White,1,N/A,Y,Good,https://www.csulb.edu/sites/default/files/styles/profile_image/public/profile/virginia_gray.jpg?itok=OE2uVfsu
+Joshua,Cotter,0.1350743175,0.04390899464,0.04522579536,0.7757908516,Other,2,White,Y,Good,https://www.csulb.edu/sites/default/files/groups/instructional-design/joshua-cotter.png
+Kristina,Lovato,0.1783033609,0.08322404325,0.1554314047,0.5830411464,Other,1,N/A,Y,Good,https://www.csulb.edu/sites/default/files/styles/profile_image/public/profile/hermann_portrait_img_0897-3.jpg?itok=OFzU3XF6
+Sara,Nourazari,0.1110719144,0.02699141204,0.1095527261,0.7523839287,Other,1,N/A,Y,Good,https://www.csulb.edu/sites/default/files/styles/profile_image/public/profile/sara_nourazari-chhs.jpg?itok=Yc6xSejl
+Arturo,Zavala,0.08451842517,0.1097516641,0.4840067327,0.3217231259,East Asian,Unsure,Other,Y,Good,https://www.the-nhsn.org/members/images/zavala%20headshot.jpg
+Gwen,Shaffer,0.3862678409,0.1011144295,0.2093880624,0.3032297455,White,1,N/A,Y,Good,https://cla.csulb.edu/departments/journalism/wp-content/uploads/2018/08/Dr-Gwen-Shaffer-Copy-256x300.jpg
+Iveris,Martinez,0.9043310881,0.00248457538,0.02339314111,0.06979125319,White,1,White or Other,Y,Good,https://www.csulb.edu/sites/default/files/styles/profile_image/public/profile/iveris_martinez.jpg?itok=xLgfZd2D
+Jingjing,Li,0.01087946538,0.01427303068,0.3415012062,0.6333463057,Other,1,East Asian or Other,Y,Good,https://www.calstatela.edu/sites/default/files/images/profiles/li090414_01_copy.jpg
+Ximin,He,0.3197601438,0.1033243537,0.2670592964,0.3098562695,White,2,East Asian or Other,Y,Far away,https://samueli.ucla.edu/wp-content/uploads/samueli/he_ximin_hero.jpg
+Jennie,Grammer,0.3270354271,0.09330607951,0.04624184221,0.5334166996,Other,2,White or Other,Y,Good,https://arch.gseis.ucla.edu/media/Grammer.jpg
+Nicole,Valenzuela,0.2309442312,0.2565140724,0.1345340014,0.3780077621,Other,3,White or Other,Y,Good,https://www.uclahealth.org/pathology/images/Research%20Services/NicoleValenzuela.jpg
+Susanne,Nicholas,0.007224080153,0.05987923965,0.2608792782,0.672017308,Other,3,Black,Y,Good,https://www.uclahealth.org/sites/default/files/styles/portrait_3x4_008000_240x320/public/images/nicholas-susanne-1972523512.jpg?h=8a019425&itok=7Tqary0f
+Ulrike,Seibt,0.04221699759,0.01434529386,0.03553882986,0.9078988805,Other,1,N/A,Y,Good,https://atmos.ucla.edu/sites/default/files/styles/person_full/public/person_images/useibt.jpg?itok=5bngiys4
+Richard,Wirz,0.3390039504,0.1378591806,0.2231877893,0.2999490928,White,1,N/A,Y,Far away,https://samueli.ucla.edu/wp-content/uploads/samueli/wirz-in-lab-photo-hero.png
+Jessica,Gipson,0.01104873419,0.5900185108,0.06029416993,0.3386385045,Black,4,White,Y,Good,https://ph.ucla.edu/sites/default/files/styles/medium_left/public/images/faculty/2019-9-3-Provided%20by%20Gipson.jpg?itok=1M04dCzw
+Gordana,Halec,0.4003220201,0.08867068589,0.1372225434,0.3737847526,White,1,N/A,Y,Blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=R6AFCdUAAAAJ&citpid=3
+Raleigh,Martin,0.3102833927,0.1742730439,0.156695053,0.3587485291,Other,Unsure,Unsure,Y,"Very small, blurry",https://0.academia-photos.com/26743527/7461453/8384071/s200_raleigh.martin.jpg_oh_b6b3e8f0b718db91b499dcab7000b9a8_oe_5591cb8a___gda___1435233051_86aa919f0f1443cca84061cba6ea6ebc
+David,Goodman-Meza,0.1373301893,0.1125992984,0.07836992294,0.6717005223,Other,1,White or Other,Y,Good,https://chipts.ucla.edu/wp-content/uploads/2019/02/David-Goodman-Meza-e1611172476429.jpg
+Katherine,Sammler,0.4973065555,0.1173376516,0.01891322993,0.3664425565,White,1,N/A,Y,Good,https://hifmb.de/wp-content/uploads/2021/01/Sammler.png
+Joshua,Shackman,0.5979349017,0.001452215598,0.02877506055,0.3718378395,White,1,N/A,Y,Good,https://www.csum.edu/business/media/shackman-joshua.jpg
+Sharla,Alegria,0.02131101675,0.4302366674,0.0667097345,0.4817426149,Other,1,N/A,Y,Bad lighting/angle,https://sociology.ucmerced.edu/sites/sociology.ucmerced.edu/files/styles/medium/public/news/image/cropped-soc-grad-head-photo1.jpeg?itok=FkhWLCaM
+Whitney,Pirtle,0.01575346291,0.01247090753,0.3954441249,0.5763315437,Other,4,Black or Other,Y,Small,https://0.academia-photos.com/9928601/3082319/28470282/s200_whitney.laster_pirtle.jpg
+Emily,Moran,0.3677007258,0.03262446448,0.2164442688,0.3832305595,Other,1,N/A,Y,Very small,https://www.ucmerced.edu/sites/ucmerced.edu/files/faculty/images/140804-moran-emily.jpg
+Dalia,Magana,0.1708733439,0.0558238253,0.05066357553,0.7226392291,Other,1,N/A,Y,Small,https://0.academia-photos.com/484215/78727613/67283149/s200_dalia.magana.jpeg
+LILIAN,DAVILA,0.02166682109,0.003539750585,0.2930194139,0.6817739927,Other,1,N/A,Y,Good,https://engineering.ucmerced.edu/sites/engineering.ucmerced.edu/files/people/photos/150davila_lilian_090128_3.jpg
+Asmeret Asefaw,Berhe,0.02440424263,0.1287534982,0.09228629619,0.7545558924,Other,2,Black,Y,Good,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Berhe.jpg/220px-Berhe.jpg
+Teamrat,Ghezzehei,0.1651854664,0.2013271153,0.03012351505,0.6033639498,Other,1,N/A,Y,Good,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oa0AFwcAAAAJ&citpid=6
+Kathleen,Hull,0.2328553349,0.09834717214,0.107328549,0.5614689924,Other,Unsure,Unsure,Y,"Very small, blurry",https://0.academia-photos.com/145948/38650/35509/s200_kathleen_l..hull.jpg
+Dannise,Ruiz,0.1260356158,0.05878320709,0.2291343808,0.5860467106,Other,Unsure,Unsure,Y,Very small,https://i1.rgstatic.net/ii/profile.image/272789840068624-1442049574519_Q128/Dannise-Ruiz-Ramos.jpg
+Judith,Canner,0.7203916311,0.02561637759,0.0379540883,0.216037916,White,1,N/A,Y,Good,https://www.calstate.edu/csu-system/faculty-staff/wang-award/awardees/PublishingImages/2021/Canner_Judith_Award.jpg
+Meeta,Banerjee,0.0317873545,0.002051464282,0.2140289247,0.7521322952,Other,1,N/A,Y,Very small,https://www.csun.edu/sites/default/files/styles/person_teaser_thumb/public/field_image/person/banerjee_m_120x150_2.png?itok=zOHVce-e
+Kerry,Nickols,0.2001363337,0.1652955711,0.169877246,0.4646908715,Other,Unsure,Unsure,Y,Very blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=UFdGCugAAAAJ&citpid=1
+Nhut,Ho,0.08696065098,0.02357501909,0.03521411866,0.8542502448,Other,1,N/A,Y,Good,https://www.csun.edu/sites/default/files/styles/person_teaser_thumb/public/field_image/person/me_ho.png?itok=w0jadBHr
+Cord,Brundage,0.100892894,0.1069303676,0.05066888034,0.7415079176,Other,2,White,Y,Good,https://www.cpp.edu/studentsuccess/oss/img/iamfirst/profiles/brundage.jpg
+Monica,Palomo,0.03588726744,0.1719086915,0.1000515223,0.6921525523,Other,1,N/A,Y,Good,"https://www.cpp.edu/faculty/mpalomo/17palomo,-monica5.jpg"
+Lin,Wu,0.1681272537,0.02093508281,0.1356959194,0.6752416939,Other,3,East Asian or Other,Y,Good,https://www.cpp.edu/faculty/lwu/lin_wu1.jpg
+Subodh,Bhandari,0.004380425438,0.7373821139,0.01822639629,0.240011096,Black,2,Other,Y,Good,https://www.cpp.edu/faculty/sbhandari/bhandari_003.jpg
+Winny,Dong,0.07533552498,0.3689709008,0.06258781999,0.4931057841,Other,1,East Asian or Other,Y,Good,https://experts.cpp.edu/wp-content/uploads/2019/09/dong1.jpg
+Samantha,Ying,0.001195007586,0.006545376498,0.6230813861,0.3691782972,East Asian,1,N/A,Y,Good,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=dFgTIRQAAAAJ&citpid=5
+Chen,Li,0.01123117283,0.3471975029,0.007096641231,0.6344746845,Other,1,East Asian or Other,Y,Blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jhGhiCwAAAAJ&citpid=4
+Holly,Bik,0.04937135056,0.01497782767,0.16445373,0.7711971067,Other,3,White,Y,Very Small,"https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/v1488012727/tyqju9qd3fa0amnyv8he.png"
+Sarah,Woodard,0.9033147693,0.001645357814,0.03809469193,0.05694520799,White,1,N/A,Y,Good,https://cnas.ucr.edu/sites/g/files/rcwecm2606/files/styles/form_preview/public/c-ucr-woodard_sarah-450px.jpg?itok=qCQ7sSnZ
+Donna,Garcia,0.04729222879,0.05022341013,0.7266049981,0.1758793112,East Asian,4,White,Y,Small,https://0.academia-photos.com/1211219/436913/543258/s200_donna.garcia.jpg
+Alicia,Kinoshita,0.04931416735,0.04776767269,0.5847259164,0.3181922119,East Asian,1,N/A,Y,Very small,https://ccee.sdsu.edu/faculty_and_staff/_images/cceephotokinoshita2.jpg
+Wenwu,Xu,0.09622391313,0.1082735062,0.09966106713,0.6958415322,Other,3,East Asian or Other,Y,Very small,https://mechanical.sdsu.edu/_resources/images/wenwu_xu.jpg
+Xiaofeng,Liu,0.2195528746,0.09432986379,0.1752614528,0.5108557642,Other,3,East Asian or Other,Y,Bad lighting/angle,https://aerospace.sdsu.edu/_resources/images/_faculty/liu.png
+Erica,Forsberg,0.02745508216,0.3315650523,0.08381748945,0.557162297,Other,4,White,Y,Very blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=j5ESzOkAAAAJ&citpid=1
+Jillian,Maloney,0.2387402952,0.1547237188,0.1903832555,0.4161527641,Other,2,White,Y,Small,https://geology.sdsu.edu/wp-content/uploads/2014/02/Jillian-Maloney-2-300x225.jpg
+Melody K,Schiaffino,0.1984975636,0.009161956608,0.5655777454,0.2267627441,East Asian,2,Other,Y,Small,https://ph.ucsd.edu/_images/jdp/sdsu-faculty/schiaffino.jpg
+Yawen,Li,0.0001453879959,0.5355829597,0.02427712642,0.4399945431,Black,2,Other,Y,Very small,https://socialwork.sdsu.edu/wp-content/uploads/2011/11/yawen-li-sm.jpg
+Tracy,Finlayson,0.583419323,0.01429172885,0.1328361332,0.2694527893,White,1,N/A,Y,Very small,https://publichealth.sdsu.edu/wp-content/uploads/2013/06/finlayson-tracy-2014-sm-110x150.jpg
+Eyal,Oren,0.2318856418,0.1534214616,0.1867379695,0.4279549792,Other,2,White,Y,Blurry,https://publichealth.sdsu.edu/wp-content/uploads/2017/08/eyal-e1501690777319-300x300.png
+Heather,Corliss,0.04200896248,0.0002542227157,0.7760841846,0.1816526094,East Asian,3,White,Y,Very small,https://publichealth.sdsu.edu/wp-content/uploads/2013/10/corliss.jpg
+Robina,Shaheen,0.08659793437,0.1699362546,0.04304491356,0.7004209757,Other,1,N/A,Y,Good,https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/shaheen.PNG?itok=HJ9mrwQh
+AlisonC,Coil,0.8770470619,0.0001185300789,0.1016926989,0.02114171481,White,1,N/A,Y,Good,https://www.benefunder.com/sites/default/files/content/cause/picture/Alison%20Coil.jpg
+Somayeh,Sabouri,0.5858770013,0.02520200238,0.1569233388,0.2319976632,White,2,Other,Y,Barely shows face,https://www.lji.org/wp-content/uploads/2017/10/Somayeh-Sabouri-IM-1.png
+Jae,Sevelius,0.8753993511,0.0007742716116,0.01556886639,0.1082574748,White,1,N/A,Y,Good,https://lsa.umich.edu/content/michigan-lsa/ncid/en/people/diversity-scholars-directory/jae-m-sevelius/jcr:content/profileImage.transform/profile_portrait/image.jpg
+Juleen,Lam,0.01702686958,0.1240724027,0.1639116704,0.6949890386,Other,1,N/A,Y,Good,https://www.csueastbay.edu/directory/profiles/files/images/hsc/juleen-lam.jpg
+James,Buckwalter,0.2161289155,0.00317546865,0.02314702794,0.7575485157,Other,2,White,Y,Small,https://engineering.ucsb.edu/sites/default/files/styles/people_thumb_small/public/people/images/JamesBuckwalter.jpg?itok=RfBeWdLb&c=87e135a113d343388f0766b41238da5c
+Odessa,Yabut,0.2024548501,0.396925211,0.02973883227,0.3708810639,Black,3,Other,Y,Very blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=SMpHWccAAAAJ&citpid=1
+Navneet,Matharu,0.08651827276,0.0333917588,0.1204817444,0.7596082389,Other,1,N/A,Y,Good,https://innovativegenomics.org/wp-content/uploads/2019/06/Navneet-Matharu-IGIheadshot-300x300.jpg
+Kelly,Bennion,0.1302253008,0.2331187874,0.2349684387,0.4016874321,Other,1,N/A,Y,Very blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nDnwDiQAAAAJ&citpid=2
+Jean,Peterson,0.2461892515,0.03712452576,0.1485468298,0.5681393594,Other,2,White,Y,Good,https://content-calpoly-edu.s3.amazonaws.com/wvit/1/images/faculty_staff/IMG_6486.jpeg
+Ike,Kang,0.135509342,0.05206326395,0.1265582442,0.6858690828,Other,2,East Asian or Other,Y,Far away,https://content-calpoly-edu.s3.amazonaws.com/animalscience/1/images/Ike%20Kang.jpg
+Lizabeth,Schlemer,0.4291312993,0.05774686486,0.1281975061,0.3849242963,White,1,N/A,Y,Good,https://content-calpoly-edu.s3.amazonaws.com/ime/1/images/mezzanine-media/images/liz.png
+Saeed,Niku,0.2656010091,0.05460952222,0.2846322954,0.3951571696,Other,1,N/A,Y,Very small,https://me.calpoly.edu/wp-content/uploads/2021/07/Niku-Saeed.jpg
+Elinne,Becket,0.4348762333,0.08167568594,0.08987293392,0.3935751393,White,1,N/A,Y,Good,https://www.csusm.edu/biology/images/dir/ebecket.jpg
+Robert,Iafe,0.03863318637,0.438328445,0.1235246658,0.3995136991,Black,4,White,Y,Bad lighting/angle,https://faculty.csusm.edu/riafe/images/riafe.jpg
+Stephen,Tsui,0.05925561115,0.3310822546,0.04140194133,0.5682601333,Other,1,N/A,Y,Very small,https://faculty.csusm.edu/tsui/images/tsui.jpg
+Julia,Lowndes,0.9563648701,0.000656880904,0.009690907784,0.03328736778,White,1,N/A,Y,Blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qr9gICIAAAAJ&citpid=3
+Carrie,Kappel,0.7273178697,0.001895473571,0.001799197751,0.2689875198,White,1,N/A,Y,Bad lighting/angle,https://0.academia-photos.com/1274955/468105/1174322/s200_carrie.v._kappel.jpg
+Anna,Kim,0.1384765506,0.05278770253,0.2541929781,0.5545427352,Other,1,N/A,Y,Good,https://bioengineering.ucsb.edu/sites/default/files/styles/big_banner_desktop/public/2020-09/Anna%20Kim_0.jpg?itok=sUenKLdC
+Heather,Hodges,0.1903300732,0.2689191699,0.1427209675,0.3980297819,Other,3,White,Y,Good,https://www.polsci.ucsb.edu/sites/default/files/styles/people_node/public/people/photo/image1.jpeg?itok=14seqa7h
+Yu,Zhang,0.04614318907,0.02701952867,0.2778402567,0.6489970037,Other,1,N/A,Y,Good,https://engineering.ucsc.edu/people/zhangy/photo/1
+Margaret,Zimmer,0.3749800324,0.01807227917,0.1987650245,0.4081826508,Other,2,White,Y,Small,https://eps.ucsc.edu/cache/directory/mzimmer1.jpg
+Kevin,Jones,0.0004592357436,0.9165701866,0.002624619287,0.08034596196,Black,1,N/A,Y,Good,https://economics.ucsc.edu/cache/directory/kekjones.jpg
+Kathleen,Kay,0.3375156522,0.07336687297,0.1262564957,0.4628609493,Other,2,White,Y,Very blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rBm9odgAAAAJ&citpid=3
+Donald,Wiberg,0.7974381447,0.006162247155,0.02530220337,0.1710973801,White,1,N/A,Y,Good,https://engineering.ucsc.edu/people/wiberg/photo/1
+Karin,Jaffe,0.1738316417,0.293803215,0.1085133702,0.4238517284,Other,3,White,Y,Good,https://hd.sonoma.edu/sites/hd/files/styles/faculty_staff/public/jaffe.face3_.jpg?itok=b6275YFT
+Wing,To,0.1057914048,0.3627166748,0.05035520718,0.4811367281,Other,1,N/A,Y,Far away,https://www.csustan.edu/sites/default/files/groups/Physics%20%26%20Physical%20Sciences/images/winginsurf_cropped.png
+Alison,McNally,0.6802745461,0.02179428004,0.05564300343,0.2422881611,White,1,N/A,Y,Good,https://www.csustan.edu/sites/default/files/groups/Geography/Images/mcnally.png
+Iris,Ruiz,0.01367869414,0.4620569944,0.01320810709,0.5110561512,Other,1,N/A,Y,Bad lighting/angle,https://www.csustan.edu/sites/default/files/groups/Ethnic%20Studies/images/custom-custom_size_img_0190.png
+Christian,Kohler,0.1852114201,0.08019872755,0.1540077776,0.5805820823,Other,2,White,Y,Far away,https://www.med.upenn.edu/bbl/assets/user-content/images/faculty/CKohler.png
+Ulas,Karaoz,0.07935032248,0.08574708551,0.1683421284,0.6665604599,Other,1,N/A,Y,Very blurry,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9U5MnXUAAAAJ&citpid=2
+Robert,Streubel,0.1814360619,0.1461616009,0.153553769,0.518848516,Other,2,White,Y,Good,https://www.unl.edu/physics/Robert_Streubel.jpg
+Jenny,Mortimer,0.6196162105,0.004145642743,0.1736191511,0.2026190094,White,1,N/A,Y,Blurry,https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/25040.jpeg?itok=7GlVkC5V
+Virginia,Bolshakova,0.04674736038,0.06029600278,0.5293703675,0.363586351,East Asian,N/A,N/A,Y,Can't see a face,https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2xZr5psAAAAJ&citpid=4
+,,,,,,,,,,,
+,,,,,,,,,,,
+BASIC STATISTICS,,,,,,,,,,,
+"Percent of photos qualified as ""good""",,,37%,,,,,,,,
+"Percent of photos that are ""valid""",,,68%,,,,,,,,
+Percent with an accurate top inference,,,36%,,,,,,,,

@@ -1,0 +1,216 @@
+rowindex,__name,pred_census_ln,race,pred_fl_reg_ln_five_cat,race,pred_fl_reg_name,race,pred_fl_reg_name_five_cat,race,pred_wiki_ln,race,pred_wiki_name,race,NamSor,mostLikelyRaceEthnicity,,Drew Verify Photos
+0,Yize Li,1,asian,1,asian,,white,1,asian,,white,1,asian,1,asian,,asian
+1,Chengwei Lei,,asian,,other,,black,,asian,,asian,,asian,,asian,,
+2,Bilin Zeng,1,asian,1,asian,,black,1,asian,1,asian,1,asian,1,asian,,asian
+3,Alan Fuchs,1,white,,other,,asian,,other,1,white,,black,1,white,,white
+4,David Gove,,white,,white,,black,,other,,white,,white,,white,,
+5,Krishna Prasai,,asian,,asian,,white,,asian,,asian,,asian,,asian,,
+6,Hunter Gehlbach,1,white,,other,,black,,other,1,white,1,white,1,white,,white
+7,Justin Remais,1,white,,other,1,white,,other,1,white,1,white,1,white,,white
+8,Gail Brager,1,white,1,white,1,white,,asian,1,white,1,white,1,white,,white
+9,Yoonjung Lee,,asian,,asian,,white,,asian,,asian,,asian,,asian,,
+10,Changhua Mu,,asian,,asian,,asian,,asian,,white,,asian,,asian,,
+11,Elke Eichelmann,1,white,1,white,1,white,,black,1,white,1,white,1,white,,white
+12,Ellen Kersten,1,white,1,white,1,white,,black,1,white,1,white,1,white,,white
+13,Miguel Arratia,1,other,1,other,,asian,,black,1,other,,white,1,other,,other
+14,Mariam Kiran,,white,,other,,white,,asian,,white,,asian,,asian,,
+15,Kathryn Leonard,1,white,1,white,1,white,,other,1,white,1,white,1,white,,white
+16,Dana Lee Baker,,white,,black,,white,,other,,white,,black,,white,,
+17,Michael Soltys,1,white,,other,1,white,,black,1,white,1,white,1,white,,white
+18,Garrett Liles,1,white,,black,1,white,,other,1,white,1,white,1,white,,white
+19,Jaime Raigoza,1,other,,asian,,asian,,asian,1,other,,asian,1,other,,other
+20,Noriyuki Sato,1,asian,1,asian,,white,1,asian,1,asian,1,asian,1,asian,,asian
+21,Lisa Ott,1,white,1,white,1,white,,asian,1,white,1,white,1,white,,white
+22,Jennifer Rosenthal,,white,,other,,black,,black,,white,,white,,white,,white/other
+23,Samuel Sandoval,1,other,1,other,,black,1,other,,white,,white,1,other,,other
+24,Catherine Brinkley,1,white,1,white,,black,,other,1,white,1,white,,black,,white
+25,Peter Hernes,1,white,,black,1,white,,other,1,white,1,white,1,white,,white
+26,Moyar Qing Ge,,asian,,other,,white,,asian,,white,,asian,,asian,,
+27,Prasant Kumar Jena,,asian,,other,,white,,asian,,black,,asian,,asian,,
+28,Ygal Achmon,,white,,black,,white,,black,,white,,white,,asian,,other?
+29,Elvira De Lange,,white,,black,,white,,asian,,white,,other,,other,,
+30,Pamela Reynolds,,white,,other,,white,,other,,white,,other,,white,,
+31,Rose Kagawa,,asian,,asian,1,white,,asian,,asian,,asian,,asian,,white
+32,Karen Legrand,1,white,,other,1,white,,other,1,white,1,white,1,white,,white
+33,Patrick Still,,white,1,black,,white,,white,,white,,white,,white,,black
+34,Bin Tang,1,asian,1,asian,,white,1,asian,1,asian,1,asian,1,asian,,asian
+35,Philip Vieira,,white,,white,,white,,asian,,other,,white,,asian,,other/white
+36,Karin Kram,1,white,,black,,asian,,other,,asian,,white,1,white,,white
+37,Kathryn Theiss,1,white,1,white,1,white,,asian,1,white,1,white,1,white,,white
+38,Sarah Lacy,1,white,,asian,1,white,,other,1,white,,black,1,white,,white
+39,Ximena Cid,1,other,1,other,1,other,1,other,,white,,white,1,other,,other
+40,Terry Mcglynn,1,white,,other,1,white,,asian,1,white,1,white,1,white,,white
+41,Chandra Srinivasan,,asian,,asian,,white,,asian,,asian,,asian,,asian,,
+42,Ayona Chatterjee,,asian,,asian,,white,,black,,asian,,asian,,asian,,
+43,Nidhi Khosla,,white,,asian,,black,,black,,asian,,asian,,asian,,asian/other
+44,Arnab Mukherjea,1,asian,,black,,white,,black,1,asian,,black,1,asian,,asian
+45,Natalie Ingraham,1,white,,black,,asian,,asian,,white,,asian,,black,,white
+46,Kathryn Grimm,,white,,white,,white,,other,,white,,white,,white,,
+47,Ryan Smith,1,white,1,white,1,white,,asian,1,white,1,white,1,white,,white
+48,Fadi Castronovo,1,white,,other,,black,,asian,1,white,1,white,1,white,,white
+49,James Murray,1,white,,other,,asian,,black,1,white,1,white,,black,,white
+50,Erik Helgren,1,white,,other,1,white,,other,1,white,1,white,1,white,,white
+51,Levent Ertaul,1,white,,other,1,white,,black,1,white,1,white,1,white,,white
+52,Steve Chung,1,asian,1,asian,,white,1,asian,1,asian,1,asian,1,asian,,asian
+53,Joshua Reece,1,white,,black,1,white,,black,1,white,1,white,1,white,,white
+54,Hubert Cecotti,1,white,,other,1,white,,black,1,white,1,white,1,white,,white
+55,Chelsey Juarez,,other,,other,,black,,black,,other,,white,,other,,other/white
+56,Cory Brooks,,white,,other,,white,,other,,white,,white,,black,,
+57,David Lent,,white,,asian,,white,,other,,white,,white,,white,,asian/other
+58,Pei-Chun Ho,1,asian,1,asian,,white,,white,,white,1,asian,1,asian,,asian
+59,Austin Nation,,white,1,black,,white,,white,,white,,white,,white,,black
+60,Alice Lee,1,asian,1,asian,,white,1,asian,1,asian,,white,1,asian,,asian
+61,Veronica Jimenez,1,other,1,other,,white,,asian,1,other,,white,1,other,,other
+62,Maria Soledad Ramirez,,other,,other,,other,,asian,,other,,other,,other,,
+63,Parvin Shahrestani,,white,,asian,,asian,,asian,,white,,white,,asian,,white/asian
+64,Gergana Todorova,,white,,asian,,white,,other,,white,,white,,white,,
+65,Nikolas Nikolaidis,1,white,,other,1,white,,other,1,white,1,white,1,white,,white
+66,Madeline Rasche,,white,,other,,white,,black,,white,,white,,white,,other/white
+67,Charles Lee,1,asian,1,asian,,black,1,asian,1,asian,,white,1,asian,,asian
+68,Maria Rendon,1,other,1,other,,white,1,other,,white,1,other,1,other,,other
+69,Heather Crawford,1,white,,black,1,white,,black,1,white,1,white,1,white,,white
+70,Jennifer Soong,1,asian,1,asian,,white,,black,1,asian,1,asian,1,asian,,asian
+71,Hang Deng,1,asian,1,asian,,white,,asian,1,asian,1,asian,1,asian,,asian
+72,Amber Johnson,,white,1,black,1,black,1,black,,white,,white,1,black,,black
+73,Belinda Daughrity,,white,,other,,white,,other,,white,,white,1,black,,black
+74,Pitiporn Asvapathanagul,1,asian,,other,,white,1,asian,1,asian,1,asian,1,asian,,asian
+75,Suzie Weng,1,asian,1,asian,,white,1,asian,1,asian,,white,1,asian,,asian
+76,Douglas Pace,1,white,,other,1,white,,asian,1,white,1,white,1,white,,white
+77,Virginia Gray,1,white,,black,1,white,,other,1,white,1,white,,black,,white
+78,Joshua Cotter,1,white,1,white,1,white,,black,1,white,1,white,1,white,,white
+79,Kristina Lovato,1,other,1,other,,white,,asian,,white,,white,1,other,,other
+80,Sara Nourazari,,white,,asian,,white,,asian,,black,,black,,white,,other/white
+81,May Ling Halim,,asian,,white,,white,,asian,,black,,white,,asian,,
+82,Arturo Zavala,1,other,1,other,,white,1,other,1,other,1,other,1,other,,other
+83,Gwen Shaffer,,white,,white,,white,,asian,,white,,white,,white,,white
+84,Paul Laris,,white,,other,,other,,asian,,white,,white,,white,,
+85,Iveris Martinez,,other,,other,,white,,other,,other,,white,,other,,white/other
+86,Jingjing Li,1,asian,1,asian,,white,1,asian,,white,1,asian,1,asian,,asian
+87,Ximin He,1,asian,1,asian,,white,1,asian,,white,1,asian,1,asian,,asian
+88,Jennie Grammer,1,white,1,white,1,white,,other,1,white,1,white,1,white,,white
+89,Nicole Valenzuela,,other,,other,,white,,other,,other,,other,,other,,white/other
+90,Susanne Nicholas,,white,,other,,white,,other,,white,,white,,white,,black
+91,Ulrike Seibt,1,white,,asian,,black,,black,1,white,,black,1,white,,white
+92,Richard Wirz,1,white,,other,1,white,,other,1,white,1,white,1,white,,white
+93,Jessica Gipson,1,white,1,white,1,white,,other,1,white,1,white,,black,,white
+94,Daniela Cusack,,white,,other,,white,,asian,,white,,white,,white,,
+95,Shih Lung Woo,,asian,,other,,asian,,asian,,asian,,asian,,asian,,
+96,Songyi Bae,,asian,,asian,,white,,asian,,asian,,asian,,asian,,
+97,Gordana Halec,1,white,1,white,1,white,,asian,1,white,1,white,1,white,,white
+98,Raleigh Martin,1,white,,other,1,white,1,white,1,white,1,white,1,white,,white
+99,David Goodman-Meza,,other,,other,,asian,,other,,white,,white,,other,,other/white
+100,Katherine Sammler,1,white,1,white,1,white,,other,1,white,,asian,1,white,,white
+101,Joshua Shackman,1,white,,asian,1,white,,black,1,white,1,white,1,white,,white
+102,Sharla Alegria,1,other,1,other,,white,1,other,1,other,,white,1,other,,other
+103,Whitney Pirtle,,white,,white,,white,,other,,white,,white,,white,,black
+104,Yue (Jessica) Wang,,asian,,asian,,other,,asian,,asian,,asian,,asian,,
+105,Emily Moran,,white,,other,,black,,black,,white,,white,,white,,white/other
+106,Dalia Magana,1,other,1,other,1,other,1,other,,asian,,asian,1,other,,other
+107,Lilian Davila,1,other,1,other,,black,1,other,1,other,,white,1,other,,other
+108,Emily Jane Mctavish,,white,,white,,black,,asian,,white,,white,,white,,
+109,Asmeret Asefaw Berhe,,white,,other,,white,,asian,,white,1,black,1,black,,black
+110,Teamrat Ghezzehei,,white,,white,1,black,1,black,,white,,white,,asian,,black
+111,Kathleen Hull,1,white,1,white,1,white,,asian,1,white,1,white,1,white,,white
+112,"Theofanis ""Fanis"" Tsoulouhas",,white,,black,,white,,other,,black,,black,,white,,
+113,Edbertho Leal-Quiros,,other,,other,,white,,other,,white,,white,,other,,
+114,Jesus Sandoval,1,other,1,other,,asian,,black,,white,,white,1,other,,other
+115,Deepti Chittamuru,,asian,,asian,,asian,,asian,,black,,asian,,asian,,
+116,Dannise Ruiz,1,other,1,other,,white,,asian,1,other,1,other,1,other,,other
+117,Kevin Grobman,,white,,other,,white,,black,,white,,white,,white,,
+118,Judith Canner,1,white,1,white,1,white,,other,1,white,1,white,1,white,,white
+119,Ruting Jia,,asian,,asian,,white,,other,,asian,,asian,,asian,,
+120,Meeta Banerjee,1,asian,,other,,other,1,asian,1,asian,1,asian,1,asian,,asian
+121,Kerry Nickols,1,white,,black,1,white,,black,1,white,1,white,1,white,,white
+122,Nhut Ho,1,asian,1,asian,,white,,other,,white,,white,1,asian,,asian
+123,Kyung In Huh,,asian,,other,,white,,other,,black,,asian,,asian,,
+124,Yao Olive Li,,white,,white,,other,,asian,,white,,asian,,asian,,
+125,Cord Brundage,1,white,,other,,black,,black,1,white,1,white,1,white,,white
+126,Monica Palomo,,other,,asian,,white,,asian,,other,,white,,other,,other/asian
+127,Lin Wu,1,asian,,other,,white,1,asian,,white,,black,1,asian,,asian
+128,Subodh Bhandari,1,asian,1,asian,,white,1,asian,1,asian,1,asian,1,asian,,asian
+129,Winny Dong,1,asian,1,asian,,white,1,asian,1,asian,,white,1,asian,,asian
+130,Mahnaz Moradi Nargesi,,white,,other,,other,,other,,white,,white,,asian,,
+131,Jade Sasser,,white,,white,,black,,other,,white,,white,,white,,
+132,Samantha Ying,1,asian,1,asian,,white,1,asian,1,asian,1,asian,1,asian,,asian
+133,Chen Li,1,asian,1,asian,1,asian,1,asian,,white,,black,1,asian,,asian
+134,Holly Bik,1,white,,asian,1,white,,black,1,white,1,white,1,white,,white
+135,Sarah Woodard,,white,,black,,white,,black,,white,,asian,,white,,
+136,Margarita Curras-Collazo,1,other,1,other,,asian,,asian,1,other,,white,1,other,,other
+137,Melissa Mcternan,,white,,white,,white,,asian,,white,,white,,white,,
+138,Joseph Bahlman,,white,,black,,white,,other,,white,,white,,white,,
+139,Milica Markovic,,white,,white,,other,,other,,white,,white,,white,,
+140,Sara Callori,,white,,other,,other,,asian,,white,,white,,white,,
+141,Brett Goforth,,white,,white,,white,,other,,white,,white,,white,,
+142,Donna Garcia,1,other,1,other,,white,,black,1,other,,white,1,other,,other
+143,Alicia Kinoshita,1,asian,,black,,black,1,asian,1,asian,1,asian,1,asian,,asian
+144,Wenwu Xu,1,asian,1,asian,1,asian,1,asian,,white,,black,1,asian,,asian
+145,Xiaofeng Liu,1,asian,1,asian,1,asian,1,asian,1,asian,,black,1,asian,,asian
+146,Sahar Ghanipoor Machiani,,asian,,other,,asian,,black,,black,,asian,,asian,,
+147,Erica Forsberg,1,white,,other,1,white,,other,1,white,1,white,1,white,,white
+148,Jillian Maloney,,white,,other,,black,,other,,white,,white,,white,,white/other
+149,Melody K Schiaffino,,white,,other,,white,,black,,other,,white,,white,,white/other
+150,Felisha Herrera Villarreal,,other,,other,,black,,asian,,other,,white,,other,,
+151,Yawen Li,1,asian,1,asian,,white,1,asian,,white,1,asian,1,asian,,asian
+152,Tracy Finlayson,1,white,,other,,black,,asian,1,white,1,white,1,white,,white
+153,Eyal Oren,1,white,,other,1,white,,other,,asian,1,white,1,white,,white
+154,Heather Corliss,1,white,1,white,1,white,,other,1,white,1,white,1,white,,white
+155,Violet Bumah,,white,,other,,white,,black,,black,,white,,black,,
+156,Shannon Klotsko Klotsko,,white,,white,,white,,asian,,white,,white,,white,,
+157,Tse Nga Tina Ng,,asian,,black,,white,,asian,,white,,asian,,asian,,
+158,Robina Shaheen,,white,,asian,,other,,white,,black,,asian,,asian,,asian/other
+159,Alisonc Coil,1,white,,black,1,white,,asian,,asian,1,white,1,white,,white
+160,Ekaterina Evdokimenko,,white,,white,,white,,other,,white,,white,,white,,
+161,Andrew Johnson,,white,,black,,black,,black,,white,,white,,black,,
+162,Somayeh Sabouri,,white,,other,,white,,other,,black,,black,,asian,,asian/other
+163,Stephanie Rogers,,white,,white,,white,,white,,white,,white,,black,,
+164,Stacy Torres,,other,,other,,white,,other,,other,,white,,other,,
+165,Jae Sevelius,1,white,1,white,1,white,,black,1,white,1,white,,asian,,white
+166,Dorie Apollonio,,other,,white,,black,,black,,other,,white,,other,,
+167,Juleen Lam,1,asian,1,asian,,white,,other,,white,,white,1,asian,,asian
+168,James Buckwalter,1,white,1,white,1,white,,black,1,white,1,white,1,white,,white
+169,Odessa Yabut,,white,,black,,white,1,asian,,black,,black,1,asian,,asian
+170,Sarine Markossian,,white,,other,,white,,other,,white,,white,,white,,
+171,Timothy Galan,1,other,1,other,,white,,asian,,black,,white,1,other,,other
+172,Navneet Matharu,,white,,other,,white,,other,1,asian,1,asian,1,asian,,asian
+173,Kelly Bennion,,white,,black,,white,,white,,white,,white,,white,,asian
+174,Sthanu Mahadev,,white,,asian,,white,,other,,black,,asian,,asian,,
+175,Jean Peterson,1,white,1,white,,black,,black,1,white,1,white,,black,,white
+176,Ashley Ringer Mcdonald,,white,,white,,black,,asian,,white,,white,,white,,
+177,Ike Kang,1,asian,1,asian,,black,1,asian,1,asian,1,asian,1,asian,,asian
+178,Lizabeth Schlemer,1,white,1,white,1,white,,asian,1,white,1,white,1,white,,white
+179,Saeed Niku,,white,,other,,white,,other,,asian,,asian,,white,,asian/other
+180,Elinne Becket,,white,,white,,white,,asian,,white,,white,,white,,white
+181,Robert Iafe,1,white,1,white,,black,,other,1,white,1,white,1,white,,white
+182,Stephen Tsui,1,asian,,white,1,asian,,white,1,asian,1,asian,1,asian,,asian
+183,Zachary Eilon,,white,,other,,white,,asian,,white,,white,,white,,
+184,Julia Lowndes,1,white,,black,,other,,asian,1,white,1,white,1,white,,white
+185,Carrie Kappel,1,white,1,white,,black,,other,1,white,1,white,1,white,,white
+186,Michael Nava,,other,,other,,white,,other,,white,,white,,other,,
+187,Jane Mi,,asian,,asian,,white,,asian,,white,,white,,asian,,
+188,Siddharth Narayan,,asian,,other,,asian,,asian,,black,,asian,,asian,,
+189,Anna Kim,1,asian,,other,,white,1,asian,1,asian,1,asian,1,asian,,asian
+190,Heather Hodges,1,white,1,white,1,white,1,white,1,white,1,white,1,white,,white
+191,Jennifer Mobberley,,white,,other,,white,,black,,white,,white,,white,,
+192,Yu Zhang,1,asian,1,asian,,black,,asian,1,asian,,black,1,asian,,asian
+193,Margaret Zimmer,1,white,1,white,1,white,,other,1,white,,black,1,white,,white
+194,Kevin Jones,,white,1,black,,white,,white,,white,,white,1,black,,black
+195,Kathleen Kay,1,white,,black,,asian,,asian,1,white,1,white,1,white,,white
+196,Ricardo Sanfelice,,white,,asian,,white,,other,,white,,white,,other,,white/other
+197,Donald Wiberg,1,white,1,white,1,white,,other,1,white,1,white,1,white,,white
+198,Jj Garcia-Luna-Aceves,,other,,white,,other,,asian,,other,,white,,other,,
+199,Melissa Viola Eitzel Solera,,white,,other,,white,,black,,white,,white,,other,,
+200,Karin Jaffe,1,white,1,white,1,white,,asian,1,white,1,white,1,white,,white
+201,Jose Diaz-Garayua,,asian,,other,,black,,asian,,white,,white,,other,,
+202,Wing To,1,asian,1,asian,,white,1,asian,,white,,white,1,asian,,asian
+203,Alison Mcnally,1,white,,other,,black,,asian,1,white,1,white,1,white,,white
+204,Iris Ruiz,,other,,other,,white,,asian,,other,,other,,other,,white/other
+205,Christian Kohler,1,white,1,white,1,white,,asian,1,white,1,white,1,white,,white
+206,Haruko Wainwright,,white,,black,,white,,black,,white,,black,,black,,
+207,Daniel Feldman,,white,,other,,white,,other,,white,,white,,white,,
+208,Ulas Karaoz,,white,,other,,asian,,other,,other,,asian,,white,,other/white
+209,Robert Streubel,1,white,,other,1,white,,other,1,white,1,white,1,white,,white
+210,Neslihan Tas Baas,,white,,other,,white,,other,,white,,white,,white,,
+211,Jenny Mortimer,1,white,,black,1,white,1,white,1,white,1,white,1,white,,white
+212,Virginia Bolshakova,1,white,,other,1,white,,other,1,white,1,white,1,white,,white
+,,,,,,,,,,,,,,,,,
+,,113,,71,,58,,37,,92,,82,,112,,,128 confident
