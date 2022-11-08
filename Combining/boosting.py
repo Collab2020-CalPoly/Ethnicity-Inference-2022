@@ -34,12 +34,22 @@ def main():
     print(f"Prediction by the model for each of those elements: {y_c_pred[mask]}")
     print(f"Actual value for each of those elements: {np.asarray(y_c_test)[mask]}")
 
-    test_input[mask].to_csv('AdaBoost_errors.csv', encoding='utf-8', index=False)
+
+    df = test_input[mask]
+    df.insert(4, 'Actual', np.asarray(y_c_test)[mask]) #append actual to errors
+
+    df.to_csv('AdaBoost_errors.csv', encoding='utf-8', index=False) #export as csv
+
     #prints confusion matrix for combined dataset, see Random_Forest_1 for description
-    cm = confusion_matrix(y_c_test,y_c_pred)
-    
+    cm = confusion_matrix(y_c_test, np.asarray(test_input['Name']))
+    print('Name Confusion matrix:\n', cm)
+
+    cm = confusion_matrix(y_c_test, np.asarray(test_input['Face']))
+    print('Face Confusion matrix:\n', cm)
+
+    cm = confusion_matrix(y_c_test, y_c_pred)
+    print('Combined Confusion matrix:\n', cm)
     print(classification_report(y_c_test, y_c_pred))
-    print('Confusion matrix:\n', cm)
     
     
     

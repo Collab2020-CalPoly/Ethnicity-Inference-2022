@@ -108,6 +108,7 @@ def writeLineToML(first, last, file_d):
     str = "{\'first\': \'%s\', \'last\': \'%s\'}, " % (first, last)
     file_d.write(str)
     #file_d.write(str+"\n")
+
  
  
 # Press the green button in the gutter to run the script.

@@ -120,7 +120,7 @@ def process_input(inp):
     outp = []
 
     header = ['First Name', 'Last Name', 'White', 'Black', 'Asian', 'Other', 'Highest Prob. Score']
-    f = open('Inferences_78.csv', 'w+', encoding='UTF8', newline='')
+    f = open('69_Inferences.csv', 'w+', encoding='UTF8', newline='')
 
     writer = csv.writer(f)
     writer.writerow(header)
@@ -142,7 +142,7 @@ def process_input(inp):
 
 # Runs the program.
 def main():
-    file = open('78_Photos.csv')
+    file = open('69_Good_Quality_Photos.csv')
     reader = csv.reader(file)
     next(reader)
     process_input(reader)
