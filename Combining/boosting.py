@@ -43,9 +43,14 @@ def main():
     #prints confusion matrix for combined dataset, see Random_Forest_1 for description
     cm = confusion_matrix(y_c_test, np.asarray(test_input['Name']))
     print('Name Confusion matrix:\n', cm)
+    name_mask = np.logical_not(np.equal(y_c_test, np.asarray(test_input['Name'])))
+    print(f"Elements wrong classified:\n {test_input[name_mask]}")
+
 
     cm = confusion_matrix(y_c_test, np.asarray(test_input['Face']))
     print('Face Confusion matrix:\n', cm)
+    face_mask = np.logical_not(np.equal(y_c_test, np.asarray(test_input['Face'])))
+    print(f"Elements wrong classified:\n {test_input[face_mask]}")
 
     cm = confusion_matrix(y_c_test, y_c_pred)
     print('Combined Confusion matrix:\n', cm)
