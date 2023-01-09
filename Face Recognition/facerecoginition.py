@@ -32,6 +32,8 @@ LAST_NAME_COL = 1
 # currently set as the demographics predictor's id. Outputs prediction for one
 # photo.
 def get_demographic_info(image_url):
+    with open(image_url, "rb") as f:
+        file_bytes = f.read()
     post_model_outputs_response = stub.PostModelOutputs(
         service_pb2.PostModelOutputsRequest(
             # This is the model ID of a publicly available General model. You may use any other public or custom model ID.
@@ -39,7 +41,7 @@ def get_demographic_info(image_url):
             user_app_id=resources_pb2.UserAppIDSet(app_id=YOUR_APPLICATION_ID),
             inputs=[
                 resources_pb2.Input(
-                    data=resources_pb2.Data(image=resources_pb2.Image(url=image_url))
+                    data=resources_pb2.Data(image=resources_pb2.Image(base64=file_bytes))
                 )
             ],
         ),
@@ -120,7 +122,7 @@ def process_input(inp):
     outp = []
 
     header = ['First Name', 'Last Name', 'White', 'Black', 'Asian', 'Other', 'Highest Prob. Score']
-    f = open('69_Inferences.csv', 'w+', encoding='UTF8', newline='')
+    f = open('69_Cropped_Inferences.csv', 'w+', encoding='UTF8', newline='')
 
     writer = csv.writer(f)
     writer.writerow(header)
@@ -142,7 +144,7 @@ def process_input(inp):
 
 # Runs the program.
 def main():
-    file = open('69_Good_Quality_Photos.csv')
+    file = open('69_Good_Cropped_Photos.csv')
     reader = csv.reader(file)
     next(reader)
     process_input(reader)

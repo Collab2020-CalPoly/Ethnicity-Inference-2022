@@ -24,7 +24,7 @@ def nb(X, y, typ):
     
     # Create training and testing samples. Probably test 0.8, 0.67, 0.5
     #Splits X (input) and Y (Results/Output) into training and testing sets
-    X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.8, random_state=0)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.5, random_state=42)
 
     # Fit the model
     model = typ

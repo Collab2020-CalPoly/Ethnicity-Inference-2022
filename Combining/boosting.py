@@ -13,7 +13,7 @@ def main():
     x_c = combined.drop(['Actual'], axis = 1) #featured values/categories for face and name
     y_c = combined['Actual'] #target variable for race
     #split 50/50 training and testing
-    X_c_train, X_c_test, y_c_train, y_c_test = train_test_split(x_c, y_c, train_size = 0.5, random_state=42)
+    X_c_train, X_c_test, y_c_train, y_c_test = train_test_split(x_c, y_c, train_size = 0.5, random_state = 7)
 
     # changes classfiers to numerical codes that represent headers{}
     enc = ce.OrdinalEncoder(cols=['First Name', 'Last Name', 'Face', 'Name'])
@@ -21,7 +21,7 @@ def main():
     test_input = X_c_test #so we can see what caused the errors
     X_c_test = enc.transform(X_c_test)
 
-    boosting = AdaBoostClassifier(n_estimators=100)    
+    boosting = AdaBoostClassifier(n_estimators=100)
     boosting.fit(X_c_train, y_c_train) #trains based off the 50% training data
     y_c_pred = boosting.predict(X_c_test)
 
