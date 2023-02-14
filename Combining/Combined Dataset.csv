@@ -11,11 +11,11 @@ Lisa,Ott,White,White,White
 Samuel,Sandoval,White,Other,Other
 Catherine,Brinkley,White,White,White
 Peter,Hernes,White,White,White
-Ygal,Achmon,Other,White,Other
-Karen,Legrand,White,White,White
+Ygal,Achmon,Other,White,White
+Karen,Legrand,White,White,Other
 Patrick,Still,Black,White,Black
 Philip,Vieira,White,White,White
-Ximena,Cid,Other,Other,White
+Ximena,Cid,Other,Other,Other
 Arnab,Mukherjea,Asian,Asian,Asian
 Natalie,Ingraham,White,White,White
 Ryan,Smith,White,White,White
@@ -29,19 +29,19 @@ Madeline,Rasche,Other,White,Other
 Heather,Crawford,White,White,White
 Jennifer,Soong,Asian,Asian,Asian
 Amber,Johnson,Black,White,Black
-Arturo,Zavala,Other,Other,Asian
+Arturo,Zavala,Other,Other,Other
 Gwen,Shaffer,White,White,White
 Jingjing,Li,Asian,Asian,Asian
 Jennie,Grammer,White,White,White
 Nicole,Valenzuela,White,Other,White
-Susanne,Nicholas,Black,White,Other
+Susanne,Nicholas,Black,White,Black
 Ulrike,Seibt,Other,White,White
-David,Goodman-Meza,Other,Other,White
+David,Goodman-Meza,Other,Other,Other
 Katherine,Sammler,White,White,White
 Joshua,Shackman,White,White,White
 LILIAN,Davila,Other,Other,Other
 Asmeret Asefaw,Berhe,Black,White,Black
-Teamrat,Ghezzehei,Other,White,Other
+Teamrat,Ghezzehei,Other,White,Black
 Judith,Canner,White,White,White
 Nhut,Ho,Asian,Asian,Asian
 Cord,Brundage,White,White,White
@@ -65,5 +65,5 @@ Yu,Zhang,Asian,Asian,Asian
 Kevin,Jones,Black,White,Black
 Donald,Wiberg,White,White,White
 Karin,Jaffe,White,White,White
-Alison,Mcnally,White,White,White
+Alison,Mcnally,White,White,Other
 Robert,Streubel,White,White,White
