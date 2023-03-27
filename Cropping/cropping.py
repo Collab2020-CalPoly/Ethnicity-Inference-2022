@@ -103,8 +103,8 @@ will be created.
 def process_csv(csv_reader):
     outp = []
     header = ['First Name', 'Last Name', 'White', 'Black', 'Asian', 'Other', 'Highest Prob. Score', 'Filler', 'Image']
-    # NOTE: Change the destination of the new cropped photos csv file here
-    f = open('./Cropping/69_Cropped_Photos_No_Data.csv', 'w+', encoding='UTF8', newline='')
+    # NOTE: Change the destination of the new csv file here
+    f = open('./Cropping/NBA_Cropped_Photos_No_Data.csv', 'w+', encoding='UTF8', newline='')
     writer = csv.writer(f)
     writer.writerow(header)
 
@@ -112,7 +112,7 @@ def process_csv(csv_reader):
         IMAGE_URL = row[IMAGE_ADDRESS_COL]
         if check_valid_url(IMAGE_URL):
             # NOTE: Change the destination of the cropped images here
-            image_dst = "./Cropping/Automated Cropped Faculty Images/{first_name}_{last_name}.jpg".format(first_name=row[FIRST_NAME_COL], last_name=row[LAST_NAME_COL])
+            image_dst = "./Cropping/NBA Automated Photos/{first_name}_{last_name}.jpg".format(first_name=row[FIRST_NAME_COL], last_name=row[LAST_NAME_COL])
             try:
                 url_to_image(IMAGE_URL, image_dst)
                 crop_face(image_dst)
@@ -126,12 +126,8 @@ def process_csv(csv_reader):
     writer.writerows(outp)
 
 def main():
-    """
-    Need To Do:
-    *check the 50 pixel by 50 pixel quality 
-    """
     # NOTE: Change the csv file being read here
-    file = open('./Cropping/69_Good_Quality_Photos.csv')
+    file = open('./Cropping/NBA_Photos_No_Data.csv')
     reader = csv.reader(file)
     next(reader)
     process_csv(reader)
