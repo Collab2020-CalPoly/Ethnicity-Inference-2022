@@ -3457,7 +3457,7 @@ Version:      0.0.26
                 }
 
 				var xhr = new XMLHttpRequest();
-				var nonce = '4477e7f924';
+				var nonce = '5090fb16b1';
 				var jQueryFunctions = [
 					'andSelf',
 					'browser',
