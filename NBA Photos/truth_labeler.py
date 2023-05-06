@@ -34,14 +34,19 @@ labeled with their true ethnicity. This function helps speed up that process and
 allows us to do that work incrementally by saving our progress. This allows us 
 to label some images and take a break when necessary.
 """
-def process_csv(csv_reader):
+def process_csv(csv_reader, filename, header):
+    # total number of images looked at
+    total = 0 
+    # number of labeled images 
+    labeled = 0
     # flag used to signal that the user is done labeling 
     done = False
-    header = ['First Name', 'Last Name', 'Face', 'Name', 'Actual']
+    # flag used to signal that picture will be skipped
+    skip = False
     ethnicity = {'w':'white', 'b':'black', 'a':'asian', 'o':'other'}
 
     # NOTE: Change the destination of the csv file being updated here
-    filename = './NBA Photos/NBA_Acutal.csv'
+    # filename = './NBA Photos/NBA_Acutal.csv'
     tempfile = NamedTemporaryFile(mode='w', delete=False)
 
     with open(filename, 'r') as csvfile, tempfile:
@@ -51,6 +56,8 @@ def process_csv(csv_reader):
         writer = csv.DictWriter(tempfile, fieldnames=header)
 
         for row in reader:
+            # reset skip flag to false
+            skip = False
             # if the 'Actual' for a player has not yet been labeled
             if row['Actual'] == '' and not done:
                 # search photos csv file for player we are currently labeling 
@@ -63,12 +70,22 @@ def process_csv(csv_reader):
                     if actual == 'done':
                         done = True
                         break
-                if not done:
+                    if actual == 's':
+                        skip = True
+                        break
+                if not done and not skip:
                     row['Actual'] = ethnicity[actual]
             row = {'First Name': row['First Name'], 'Last Name': row['Last Name'], 'Face': row['Face'], 'Name': row['Name'], 'Actual': row['Actual']}
             writer.writerow(row)
+            if row['Actual'] != '':
+                labeled += 1
+            total += 1
     # update original csv to the be the tempfile we were writing to 
     shutil.move(tempfile.name, filename)
+
+    # -1 for the header
+    print("Total images labeled: " + str(labeled - 1))
+    print("{percent:.2f} percent completed".format(percent=float(labeled)/float(total)))
 
 def main():
     # NOTE: Change the csv file being read here
@@ -76,7 +93,13 @@ def main():
     file = open('./NBA Photos/NBA_Cropped_Photos_No_Data.csv')
     reader = csv.reader(file)
     next(reader)
-    process_csv(reader)
+    # TODO: proces_csv only works for a very specific header
+    # as we experiment with new categories, this function
+    # should be able to accomodate for that
+    header = ['First Name', 'Last Name', 'Face', 'Name', 'Actual']
+    # NOTE: Change the new csv file destination here
+    # this csv will hold all the labels for the images
+    process_csv(reader, './NBA Photos/NBA_Acutal.csv', header)
 
 if __name__ == "__main__":
     main()
