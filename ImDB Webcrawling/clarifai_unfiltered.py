@@ -13,8 +13,8 @@ from clarifai_grpc.grpc.api.status import status_code_pb2
 stub = service_pb2_grpc.V2Stub(ClarifaiChannel.get_grpc_channel())
 
 # Personal access tokens. Can be changed if needed, directly from Clarifai website.
-YOUR_CLARIFAI_API_KEY = "6132926d458145c0b54df487722c2cfe"
-YOUR_APPLICATION_ID = "dem_infer"
+YOUR_CLARIFAI_API_KEY = "7256d569b2f74c9da4d4232b4b045545"
+YOUR_APPLICATION_ID = "dem_inference"
 
 
 # Do not change
@@ -76,11 +76,12 @@ def process_input(inp):
         results[0] = row[FIRST_NAME_COL]
         results[1] = row[LAST_NAME_COL]
         #print(row[FIRST_NAME_COL], row[LAST_NAME_COL])
+        max_confidence = 0
+        probable_eth = None
+
         for var in out:
             eth = var.name
             confidence = var.value
-            max_confidence = 0
-            probable_eth = None
 
             # White, Black, East Asian, SEA, Indian, Middle Eastern, Latino/Hispanic
             if eth == 'White':
@@ -113,13 +114,18 @@ def process_input(inp):
                 if confidence > max_confidence:
                     max_confidence = confidence
                     probable_eth = 'Middle Eastern'
-            elif eth == 'Latino Hispanic':
+            elif eth == 'Latino_Hispanic':
                 results[8] = confidence
                 if confidence > max_confidence:
                     max_confidence = confidence
-                    probable_eth = 'Latino Hispanic'
+                    probable_eth = 'Latino_Hispanic'
             results[9] = probable_eth
+            print("Max: " , max_confidence)
+
         outp.append(results)
+        max_confidence = 0
+        probable_eth = None
+        
     writer.writerows(outp)
 
 
