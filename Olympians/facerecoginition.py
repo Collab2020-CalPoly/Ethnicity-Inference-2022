@@ -154,6 +154,5 @@ def main():
     next(reader)
     process_input(reader)
 
-
 if __name__ == "__main__":
     main()
