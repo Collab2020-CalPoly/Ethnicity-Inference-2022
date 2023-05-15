@@ -122,7 +122,7 @@ def process_input(inp):
     outp = []
 
     header = ['First Name', 'Last Name', 'White', 'Black', 'Asian', 'Other', 'Highest Prob. Score']
-    f = open('Olympian_Inferences.csv', 'w+', encoding='UTF8', newline='')
+    f = open('2022_Olympian_Inferences.csv', 'w+', encoding='UTF8', newline='')
 
     writer = csv.writer(f)
     writer.writerow(header)
@@ -149,7 +149,7 @@ def process_input(inp):
 
 # Runs the program.
 def main():
-    file = open('/Users/ethan/Desktop/Research/Ethnicity-Inference-2022/Cropping/Olympians_NoData.csv')
+    file = open('/Users/ethan/Desktop/Research/Ethnicity-Inference-2022/Olympians/2022_Olympians_NoData.csv')
     reader = csv.reader(file)
     next(reader)
     process_input(reader)

@@ -19,13 +19,13 @@ def label_ethnicity(image_path):
         label = input("Enter the ethnicity label for the image (w/b/a/o): ")
         if label in valid_labels:
             if label == 'w':
-                return 'white'
+                return 'White'
             if label == 'b':
-                return 'black'
+                return 'Black'
             if label == 'a':
-                return 'asian'
+                return 'Asian'
             if label == 'o':
-                return 'other'
+                return 'Other'
         
         else:
             print("Invalid label. Please enter 'w' for white, 'b' for black, 'a' for Asian, or 'o' for other.")
@@ -60,5 +60,5 @@ def main(csv_file):
     print(f"Labeled data saved to: {output_file}")
 
 if __name__ == '__main__':
-    csv_file = '/Users/ethan/Desktop/Research/Olympians/Olympians_Data.csv'  # Provide the path to your CSV file here
+    csv_file = '/Users/ethan/Desktop/Research/Ethnicity-Inference-2022/Olympians/2022_Olympians_NoData.csv'  # Provide the path to your CSV file here
     main(csv_file)
