@@ -1,0 +1,138 @@
+1678579169798	geckodriver	INFO	Listening on 127.0.0.1:49337
+1678579172852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "493 ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofilevdJVc9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678579173162	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678579173166	Marionette	INFO	Listening on port 49352
+Read port: 49352
+WebDriver BiDi listening on ws://127.0.0.1:49338
+1678579173264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofilevdJVc9\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49338/devtools/browser/7b92e1c6-fcb7-445b-aea7-9d91f397e371
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/haezTdMeijvNpzpe-iMvzf0waJjhxHRsaf2aRdVkA3o.js line 2 > eval line 7641 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+remote" "-profile" "C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofileNQZsAe"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678586703110	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678586703113	Marionette	INFO	Listening on port 56892
+WebDriver BiDi listening on ws://127.0.0.1:56882
+Read port: 56892
+1678586703298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofileNQZsAe\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56882/devtools/browser/3f080d7f-61b2-4f04-b308-f038ee52a93f
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbdfp665882083486/moatad.js#moatClientLevel1=1010029114&moatClientLevel2=2978736397&moatClientLevel3=5912660639&moatClientLevel4=138422826174&moatClientSlicer1=9417994&moatClientSlicer2=9417994&zMoatST=&zMoatProduct=&zMoatPS=1&zMoatMGV=&zMoatMMV=&zMoatMSafety=&zMoatMData=&zMoatRedesign=&zMoatSlot=slot1&refresh=1&zMoatWD=728&zMoatHT=90&zMoatSZ=728x90, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/haezTdMeijvNpzpe-iMvzf0waJjhxHRsaf2aRdVkA3o.js line 2 > eval line 2146 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ts" "localhost" "-no-remote" "-profile" "C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofileVuLjPo"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678587116651	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678587116654	Marionette	INFO	Listening on port 53878
+WebDriver BiDi listening on ws://127.0.0.1:53868
+Read port: 53878
+1678587116856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofileVuLjPo\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53868/devtools/browser/a463f301-a608-49ad-a64a-50d2cf1086f4
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbdfp665882083486/moatad.js#moatClientLevel1=1010029114&moatClientLevel2=3110589003&moatClientLevel3=6244692154&moatClientLevel4=138425515299&moatClientSlicer1=9417994&moatClientSlicer2=9417994&zMoatST=&zMoatProduct=&zMoatPS=1&zMoatMGV=&zMoatMMV=&zMoatMSafety=&zMoatMData=&zMoatRedesign=&zMoatSlot=slot1&refresh=1&zMoatWD=728&zMoatHT=90&zMoatSZ=728x90, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/haezTdMeijvNpzpe-iMvzf0waJjhxHRsaf2aRdVkA3o.js line 2 > eval line 6507 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ts" "localhost" "-no-remote" "-profile" "C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofileQCcK8i"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678587280896	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678587280900	Marionette	INFO	Listening on port 49705
+WebDriver BiDi listening on ws://127.0.0.1:49695
+Read port: 49705
+1678587281066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofileQCcK8i\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49695/devtools/browser/ec19ec20-b80e-4fc9-acfa-82e8f6f3e7a2
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbdfp665882083486/moatad.js#moatClientLevel1=1010029114&moatClientLevel2=3110589003&moatClientLevel3=6230081988&moatClientLevel4=138424431862&moatClientSlicer1=9417994&moatClientSlicer2=9417994&zMoatST=&zMoatProduct=&zMoatPS=1&zMoatMGV=&zMoatMMV=&zMoatMSafety=&zMoatMData=&zMoatRedesign=&zMoatSlot=slot1&refresh=1&zMoatWD=728&zMoatHT=90&zMoatSZ=728x90, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/haezTdMeijvNpzpe-iMvzf0waJjhxHRsaf2aRdVkA3o.js line 2 > eval line 2798 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ts" "localhost" "-no-remote" "-profile" "C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofileruuCpM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678587314646	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678587314649	Marionette	INFO	Listening on port 64333
+WebDriver BiDi listening on ws://127.0.0.1:64322
+Read port: 64333
+1678587314835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofileruuCpM\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:64322/devtools/browser/0e0a203e-f723-44ac-ad59-d4e8d861dd6c
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/mlbdfp665882083486/moatad.js#moatClientLevel1=1010029114&moatClientLevel2=2925892299&moatClientLevel3=5817615505&moatClientLevel4=138356347567&moatClientSlicer1=9417994&moatClientSlicer2=9417994&zMoatST=&zMoatProduct=&zMoatPS=1&zMoatMGV=&zMoatMMV=&zMoatMSafety=&zMoatMData=&zMoatRedesign=&zMoatSlot=slot1&refresh=1&zMoatWD=728&zMoatHT=90&zMoatSZ=728x90, line 242: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/haezTdMeijvNpzpe-iMvzf0waJjhxHRsaf2aRdVkA3o.js line 2 > eval line 4852 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678587360013	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1683423425830	geckodriver	INFO	Listening on 127.0.0.1:56053
+1683423428899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "560 ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofilejMhIxf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683423429311	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683423429317	Marionette	INFO	Listening on port 56068
+Read port: 56068
+WebDriver BiDi listening on ws://127.0.0.1:56054
+1683423429471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\billc\\AppData\\Local\\Temp\\rust_mozprofilejMhIxf\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56054/devtools/browser/246fe453-96f7-4080-a298-a4c6cfcef3f8
+JavaScript warning: https://www.mlbstatic.com/mlb.com/adobe-analytics/target/2.3.0/at.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGW0ljRHHlLJrtXsuRq4GtWylHJljqnzeCv2B2VFxAk.js line 2 > eval line 82 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WGW0ljRHHlLJrtXsuRq4GtWylHJljqnzeCv2B2VFxAk.js line 2 > eval line 5565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
