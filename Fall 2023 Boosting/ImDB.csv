@@ -1,0 +1,363 @@
+First Name,Last Name,Face,Name,Truth
+Pedro,Pascal,White,Latino_Hispanic,Latino_Hispanic
+Bella,Ramsey,White,Black,White
+Matilda,De Angelis,Middle Eastern,Latino_Hispanic,White
+Rutina,Wesley,Black,Black,Black
+Kathryn,Newton,White,White,White
+Jonathan,Majors,Black,White,Black
+Richard,Belzer,White,White,White
+Annie,Wersching,White,White,White
+Evangeline,Lilly,White,Black,White
+Madelyn,Cline,Middle Eastern,White,White
+Anna,Torv,White,White,White
+Brendan,Fraser,White,White,White
+Natasha,Lyonne,White,Black,White
+Melanie,Lynskey,Middle Eastern,White,White
+Cara,Delevingne,Middle Eastern,Black,White
+Alexandra,Daddario,White,Latino_Hispanic,White
+Jansen,Panettiere,Middle Eastern,White,White
+Elizabeth,Banks,White,Black,White
+Stella,Stevens,White,Black,White
+Mia,Goth,Middle Eastern,White,White
+Nico,Parker,Middle Eastern,White,White
+Jeri,Ryan,Latino_Hispanic,White,White
+Raquel,Welch,White,Latino_Hispanic,White
+Alison,Brie,White,White,White
+Tom,Sizemore,White,White,White
+Brandon,Sklenar,Middle Eastern,White,White
+Charlotte,Ritchie,White,Black,White
+Jennifer Love,Hewitt,White,White,White
+Ashley,Johnson,White,Black,White
+Austin,Butler,White,Black,White
+Cole,Hauser,White,White,White
+Tom,Cruise,White,White,White
+Isabel,May,White,Latino_Hispanic,White
+Christa,Miller,White,White,White
+Alexander,Skarsgard,Asian,White,White
+Paulina,Gaitan,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Margot,Robbie,White,White,White
+Anya,Taylor-Joy,White,Black,White
+Paul,Rudd,White,White,White
+Michelle,Pfeiffer,White,White,White
+Julia,Schlaepfer,White,White,White
+Catherine,Haena Kim,Asian,Asian,Asian
+Emily,Blunt,White,Black,White
+Gabriel,Luna,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Bridget,Regan,White,White,White
+Joey,King,White,Black,White
+Bruce,Willis,White,Black,White
+Kelly,Reilly,White,White,White
+Milo,Ventimiglia,White,White,White
+Brad,Pitt,White,White,White
+Ashley,Greene,White,Black,White
+Murray,Bartlett,White,White,White
+Billy,Crudup,White,Black,White
+Leonardo,DiCaprio,White,Latino_Hispanic,White
+Ashton,Kutcher,Middle Eastern,White,White
+Samara,Weaving,Asian,White,White
+Steven,Spielberg,White,White,White
+Amanda,Plummer,Middle Eastern,White,White
+Cate,Blanchett,White,Black,White
+Harrison,Ford,Middle Eastern,Black,White
+Nicolas,Cage,White,Black,White
+Ana,de Armas,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Reese,Witherspoon,White,Black,White
+Lizzy,Caplan,White,White,White
+Lashana,Lynch,Black,Black,Black
+Victoria,Pedretti,White,Latino_Hispanic,White
+Thuso,Mbedu,Black,Black,Black
+Lukas,Gage,White,White,White
+M.,Night Shyamalan,Asian,Asian,Asian
+Penn,Badgley,White,White,White
+Sadie,Sink,White,White,White
+Jennifer,Connelly,White,White,White
+Michelle,Yeoh,Asian,Asian,Asian
+Colin,Farrell,Middle Eastern,White,White
+Tom,Hanks,White,White,White
+Henry,Cavill,White,White,White
+Miles,Teller,White,White,White
+Ray,Liotta,White,White,White
+Sylvester,Stallone,Middle Eastern,Black,White
+Lily,James,Middle Eastern,Black,White
+Jennifer,Coolidge,White,White,White
+Chase,Stokes,White,Black,White
+Hong,Chau,Asian,Asian,Asian
+Elizabeth,Lail,White,White,White
+Sebastian,Stan,White,White,White
+Jennifer,Lawrence,White,White,White
+Sophie,Turner,White,Black,White
+Riley,Keough,White,White,White
+Emma,Watson,White,Black,White
+Christian,Bale,White,Black,White
+Dakota,Fanning,White,White,White
+Haley,Lu Richardson,White,White,White
+Stefanie,Martini,White,White,White
+Emma,Mackey,White,Black,White
+Melanie,Laurent,Asian,White,White
+Christoph,Waltz,White,White,White
+Sosie,Bacon,White,Black,White
+Scout,Taylor-Compton,Middle Eastern,White,White
+Michael,B. Jordan,Black,White,Black
+Todd,Stashwick,Middle Eastern,White,White
+Hayden,Panettiere,White,White,White
+Cherry,Jones,White,Black,White
+Gerard,Butler,White,Black,White
+Jessica,Williams,Latino_Hispanic,Black,Black
+Ellen,Barkin,White,White,White
+Daniel,Radcliffe,Middle Eastern,White,White
+Harry,Melling,White,White,White
+Andrea,Savage,White,White,White
+Denzel,Washington,Black,Black,Black
+Ryan,Reynolds,White,White,White
+Adam,Driver,White,White,White
+Christina,Ricci,White,White,White
+Tommi,Rose,White,White,White
+Karen,Gillan,White,White,White
+Brie,Larson,White,White,White
+Sandra,Bullock,White,White,White
+Emilia,Jones,White,Black,White
+Helen,Mirren,White,White,White
+Julianne,Moore,White,Black,White
+Timothee,Chalamet,White,Black,White
+Kelly,Macdonald,White,White,White
+Tracy,Spiridakos,White,White,White
+Juno,Temple,White,Black,White
+Paul,Mescal,White,White,White
+Holliday,Grainger,White,White,White
+Brianne,Howey,White,White,White
+Kevin,Costner,White,White,White
+Tamzin,Merchant,White,Asian,White
+Ben,Barnes,Middle Eastern,Black,White
+Viola,Davis,Black,Black,Black
+Lauren,Ash,White,White,White
+Jason,Statham,White,White,White
+Mary,Elizabeth Winstead,White,White,White
+Luke,Grimes,White,White,White
+Jay,Hernandez,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Elizabeth,Debicki,White,White,White
+Molly,Ringwald,White,White,White
+Ke,Huy Quan,White,Asian,Asian
+Mel,Gibson,Middle Eastern,Black,White
+Liam,Neeson,Middle Eastern,White,White
+Charlbi,Dean,White,Black,White
+Linda,Cardellini,White,White,White
+Bonnie,Somerville,White,Black,White
+Scarlett,Johansson,White,White,White
+Chloe,Grace Moretz,White,Latino_Hispanic,White
+Lupita,Nyong'o,Black,Black,Black
+Allison,Williams,Middle Eastern,Black,White
+Quentin,Tarantino,White,White,White
+Matthew,McConaughey,White,White,White
+John,Travolta,White,White,White
+Taron,Egerton,White,White,White
+Isabelle,Fuhrman,White,White,White
+Michael,Keaton,White,White,White
+Kate,Winslet,Middle Eastern,White,White
+James,Norton,White,White,White
+Carrie,Coon,White,White,White
+Robert,Downey Jr.,White,White,White
+Ryan,Gosling,White,White,White
+Mark,Wahlberg,White,White,White
+Alison,Pill,White,White,White
+Tom,Burke,White,White,White
+Katheryn,Winnick,White,White,White
+Emma,Thompson,White,Black,White
+Steve,Zahn,White,White,White
+Johnny,Depp,Middle Eastern,White,White
+Justine,Bateman,White,Black,White
+Lauren,Ambrose,White,White,White
+Guy,Ritchie,White,White,White
+Drew,Barrymore,White,White,White
+Darren,Aronofsky,White,White,White
+Emilia,Clarke,White,Black,White
+Amie,Donald,White,Black,White
+Ben,Affleck,White,White,White
+Jonah,Hill,White,Black,White
+Andrea,Riseborough,White,White,White
+Adam,Sandler,White,White,White
+Val,Kilmer,White,White,White
+Bryce,Dallas Howard,White,White,White
+Robert,De Niro,White,White,White
+Orlando,Bloom,White,Latino_Hispanic,White
+Brittany,Snow,White,White,White
+Zoe,Saldana,Asian,Latino_Hispanic,White
+Tig,Notaro,White,White,White
+Salma,Hayek,Middle Eastern,White,Latino_Hispanic
+Jessica,Chastain,White,White,White
+Channing,Tatum,White,Black,White
+Theo,James,Middle Eastern,Black,White
+Britt,Robertson,Middle Eastern,White,White
+Diane,Morgan,White,Black,White
+Keira,Knightley,White,Black,White
+Troy,Baker,White,Black,White
+Amy,Adams,White,White,White
+Julian,Sands,White,Black,White
+Gemma,Arterton,White,Black,White
+Michelle,Monaghan,White,White,White
+Emma,Fuhrmann,White,White,White
+Emma,Myers,Asian,Black,White
+Will,Smith,Black,Black,Black
+Ralph,Fiennes,White,White,White
+Erika,Christensen,White,White,White
+Orla,Brady,White,White,White
+Gates,McFadden,White,Black,White
+Olivia,Wilde,White,Black,White
+David,Harbour,Middle Eastern,White,White
+Travis,Fimmel,White,White,White
+Michael,Shannon,White,White,White
+Michael,Douglas,White,Black,White
+Olivia,Rodrigo,Middle Eastern,Latino_Hispanic,Asian
+Russell,Crowe,Middle Eastern,White,White
+Ophelia,Lovibond,White,Black,White
+Matt,Damon,White,White,White
+Elizabeth,Olsen,White,White,White
+Glen,Powell,White,Black,White
+Monica,Bellucci,White,White,White
+Eva,Green,White,Black,White
+Marie-Josee,Croze,White,White,White
+Natalie,Portman,White,White,White
+Monica,Barbaro,Middle Eastern,Latino_Hispanic,White
+Bellamy,Young,White,Black,White
+Catherine,Zeta-Jones,Middle Eastern,White,White
+Sherrie,Rose,Middle Eastern,Black,White
+Emma,Stone,White,Black,White
+Jake,Gyllenhaal,Middle Eastern,White,White
+Bryan,Cranston,White,White,White
+Anne,Hathaway,White,White,White
+Ginnifer,Goodwin,White,White,White
+Angela,Bassett,Middle Eastern,Black,Black
+Rose,Williams,White,Black,White
+Martin,Scorsese,White,White,White
+Jason,Segel,White,White,White
+Rachel,McAdams,White,Black,White
+Kaitlyn,Dever,Middle Eastern,White,White
+Adrianne,Palicki,Middle Eastern,White,White
+William,Fichtner,White,White,White
+Mila,Kunis,Middle Eastern,White,White
+Al,Pacino,Middle Eastern,Latino_Hispanic,White
+Charlize,Theron,White,Black,White
+Iliza,Shlesinger,White,White,White
+Christopher,Nolan,White,White,White
+Michael,Rady,White,White,White
+Carla,Gugino,White,Latino_Hispanic,White
+Alicia,Vikander,White,White,White
+Dawn,Olivieri,Middle Eastern,White,White
+Kate,Mulvany,White,White,White
+Julie,Strain,White,White,White
+Brendan,Gleeson,Middle Eastern,White,White
+Damien,Chazelle,Middle Eastern,Black,White
+Timothy,Olyphant,White,White,White
+Annabelle,Wallis,White,White,White
+Megan,Fox,White,White,White
+Alan,Rickman,White,White,White
+Michelle,Randolph,White,Black,White
+Anna,Paquin,White,White,White
+Olivia,Cooke,White,Black,White
+Chris,Pine,White,White,White
+Paolina,van Kleef,White,White,White
+Michelle,Williams,White,Black,White
+Melissa,McCarthy,White,White,White
+Abby,Ryder Fortson,White,White,White
+Zachary,Levi,White,White,White
+Rupert,Grint,White,Black,White
+Anna,Kendrick,White,White,White
+Zoey,Deutch,Middle Eastern,White,White
+James,Spader,Middle Eastern,White,White
+Joe,Manganiello,Middle Eastern,Latino_Hispanic,White
+Wendie,Malick,Middle Eastern,White,Middle Eastern
+Alden,Ehrenreich,Middle Eastern,White,White
+Gwendoline,Christie,White,Black,White
+Storm,Reid,White,Black,Black
+Nathalie,Emmanuel,Latino_Hispanic,Black,White
+Eden,Sher,White,Asian,White
+Hope,Davis,White,Black,White
+April,Bowlby,White,White,White
+Rachel,Weisz,White,White,White
+Ben,Aldridge,Middle Eastern,White,White
+Jonathan,Groff,White,White,White
+Chris,Hemsworth,White,White,White
+Natalie,Dormer,White,White,White
+Jennifer,Aniston,Middle Eastern,White,White
+Katee,Sackhoff,Middle Eastern,White,White
+Vanessa,Kirby,White,Black,White
+Steve,Howey,Middle Eastern,White,White
+Todd,Field,White,White,White
+Pamela,Anderson,Middle Eastern,Black,White
+Daniel,Craig,White,White,White
+Ariel,Winter,Middle Eastern,White,White
+Jamie,Lee Curtis,Middle Eastern,Asian,White
+Kaley,Cuoco,White,White,White
+Olivia,Colman,White,Black,White
+Julia,Roberts,White,White,White
+Milly,Alcock,White,White,White
+George,Clooney,Middle Eastern,White,White
+Elizabeth,Mitchell,White,Black,White
+Dylan,O'Brien,White,White,White
+Letitia,Wright,Black,Black,Black
+Daisy,Edgar-Jones,White,Latino_Hispanic,White
+Joanne,Whalley,White,White,White
+Devan,Chandler Long,Middle Eastern,Asian,White
+Woody,Harrelson,White,White,White
+Martin,McDonagh,White,White,White
+Chloe,Sevigny,Middle Eastern,White,White
+Lauren,Cohan,White,White,White
+Nicole,Kidman,White,White,White
+James,Hong,Asian,Asian,Asian
+Rosamund,Pike,White,White,White
+Hayley,Atwell,White,White,White
+Jack,Lowden,White,White,White
+Lea,Thompson,White,Black,White
+Charlie,Murphy,White,Black,White
+Halle,Bailey,Black,Black,Black
+Gary,Oldman,White,White,White
+Samantha,Morton,White,Black,White
+Denise,Gough,White,Black,White
+Josh,Hartnett,Middle Eastern,White,White
+Yvonne,Strahovski,White,White,White
+Andrew,Buchan,White,White,White
+Meghann,Fahy,White,White,White
+Charlie,Hunnam,White,Black,White
+Arnold,Schwarzenegger,Middle Eastern,White,White
+Idris,Elba,Black,White,Black
+Corey,Stoll,Middle Eastern,White,White
+Hailee,Steinfeld,White,White,White
+Amanda,Seyfried,White,White,White
+Nicholas,Hoult,White,White,White
+Jack,Nicholson,White,White,White
+Polly,Draper,White,White,White
+Alan,Ritchson,White,White,White
+John,Krasinski,White,White,White
+Josh,Duhamel,White,White,White
+Paul,Dano,White,White,White
+Adrien,Brody,Middle Eastern,White,White
+Blake,Lively,White,White,White
+Michael,Stuhlbarg,Middle Eastern,White,White
+Jason,Bateman,Middle Eastern,White,White
+Jennifer,Lopez,White,Latino_Hispanic,Latino_Hispanic
+Peter,Stormare,White,White,White
+Kristen,Bell,White,White,White
+Shantel,VanSanten,White,White,White
+Abigail,Breslin,White,White,White
+Lamar,Johnson,Black,Black,Black
+Sarah,Michelle Gellar,White,White,White
+David,Fincher,White,White,White
+Carey,Mulligan,White,White,White
+Patrick,Stewart,Middle Eastern,Black,White
+Jonah,Hauer-King,Middle Eastern,White,White
+Oscar,Isaac,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Amber,Heard,White,Black,White
+Helena,Bonham Carter,White,White,White
+Alicia,Silverstone,White,White,White
+Hero,Fiennes Tiffin,Middle Eastern,Black,White
+Rita,Moreno,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Jen,Landon,White,White,White
+Caroline,Ford,White,Black,White
+Chris,Evans,White,Black,White
+Wes,Bentley,White,White,White
+Hugh,Jackman,White,White,White
+Nick,Nolte,White,White,White
+Danai,Gurira,Black,Black,Black
+Sally,Field,White,White,White
+Gina,Carano,Latino_Hispanic,Latino_Hispanic,White
+Jena,Malone,White,Black,White
+Lilli,Kay,White,White,White
