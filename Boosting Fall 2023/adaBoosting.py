@@ -12,7 +12,8 @@ X, y = enc.fit_transform(df[['Face', 'Name']]), df['Truth']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
 # Initialize the base estimator (e.g., Decision Tree)
-base_estimator = DecisionTreeClassifier() # max_depth most likely around 100000000
+# If default None, then nodes are expanded until all leaves are pure or until all leaves contain less than min_samples_split samples.
+base_estimator = DecisionTreeClassifier()
 
 # Initialize the AdaBoost classifier
 adaboost_classifier = AdaBoostClassifier(
@@ -31,8 +32,9 @@ y_pred = adaboost_classifier.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 report = classification_report(y_test, y_pred)
 cm = confusion_matrix(y_test, y_pred, labels=['White', 'Black', 'Asian', 'Other'])
-print("Accuracy: {:.2f}%".format(accuracy * 100))
-print("-------------------------------------------")
 print(report)
 print("-------------------------------------------")
 print(cm)
+print("-------------------------------------------")
+print("Accuracy: {:.2f}%".format(accuracy * 100))
+print("-------------------------------------------")
