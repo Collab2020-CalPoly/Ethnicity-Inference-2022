@@ -1,7 +1,7 @@
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.preprocessing import OrdinalEncoder
 import pandas as pd
 
@@ -29,4 +29,10 @@ y_pred = adaboost_classifier.predict(X_test)
 
 # Evaluate the performance of the classifier
 accuracy = accuracy_score(y_test, y_pred)
-print("Accuracy:", accuracy)
+report = classification_report(y_test, y_pred)
+cm = confusion_matrix(y_test, y_pred, labels=['White', 'Black', 'Asian', 'Other'])
+print("Accuracy: {:.2f}%".format(accuracy * 100))
+print("-------------------------------------------")
+print(report)
+print("-------------------------------------------")
+print(cm)

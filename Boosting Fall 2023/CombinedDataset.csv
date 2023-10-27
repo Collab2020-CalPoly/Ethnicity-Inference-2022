@@ -1,40 +1,40 @@
 First Name,Last Name,Face,Name,Truth
-Pedro,Pascal,White,Latino_Hispanic,Latino_Hispanic
+Pedro,Pascal,White,Other,Other
 Bella,Ramsey,White,Black,White
-Matilda,De Angelis,Middle Eastern,Latino_Hispanic,White
+Matilda,De Angelis,Other,Other,White
 Rutina,Wesley,Black,Black,Black
 Kathryn,Newton,White,White,White
 Jonathan,Majors,Black,White,Black
 Richard,Belzer,White,White,White
 Annie,Wersching,White,White,White
 Evangeline,Lilly,White,Black,White
-Madelyn,Cline,Middle Eastern,White,White
+Madelyn,Cline,Other,White,White
 Anna,Torv,White,White,White
 Brendan,Fraser,White,White,White
 Natasha,Lyonne,White,Black,White
-Melanie,Lynskey,Middle Eastern,White,White
-Cara,Delevingne,Middle Eastern,Black,White
-Alexandra,Daddario,White,Latino_Hispanic,White
-Jansen,Panettiere,Middle Eastern,White,White
+Melanie,Lynskey,Other,White,White
+Cara,Delevingne,Other,Black,White
+Alexandra,Daddario,White,Other,White
+Jansen,Panettiere,Other,White,White
 Elizabeth,Banks,White,Black,White
 Stella,Stevens,White,Black,White
-Mia,Goth,Middle Eastern,White,White
-Nico,Parker,Middle Eastern,White,White
-Jeri,Ryan,Latino_Hispanic,White,White
-Raquel,Welch,White,Latino_Hispanic,White
+Mia,Goth,Other,White,White
+Nico,Parker,Other,White,White
+Jeri,Ryan,Other,White,White
+Raquel,Welch,White,Other,White
 Alison,Brie,White,White,White
 Tom,Sizemore,White,White,White
-Brandon,Sklenar,Middle Eastern,White,White
+Brandon,Sklenar,Other,White,White
 Charlotte,Ritchie,White,Black,White
 Jennifer Love,Hewitt,White,White,White
 Ashley,Johnson,White,Black,White
 Austin,Butler,White,Black,White
 Cole,Hauser,White,White,White
 Tom,Cruise,White,White,White
-Isabel,May,White,Latino_Hispanic,White
+Isabel,May,White,Other,White
 Christa,Miller,White,White,White
 Alexander,Skarsgard,Asian,White,White
-Paulina,Gaitan,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Paulina,Gaitan,Other,Other,Other
 Margot,Robbie,White,White,White
 Anya,Taylor-Joy,White,Black,White
 Paul,Rudd,White,White,White
@@ -42,7 +42,7 @@ Michelle,Pfeiffer,White,White,White
 Julia,Schlaepfer,White,White,White
 Catherine,Haena Kim,Asian,Asian,Asian
 Emily,Blunt,White,Black,White
-Gabriel,Luna,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Gabriel,Luna,Other,Other,Other
 Bridget,Regan,White,White,White
 Joey,King,White,Black,White
 Bruce,Willis,White,Black,White
@@ -52,19 +52,19 @@ Brad,Pitt,White,White,White
 Ashley,Greene,White,Black,White
 Murray,Bartlett,White,White,White
 Billy,Crudup,White,Black,White
-Leonardo,DiCaprio,White,Latino_Hispanic,White
-Ashton,Kutcher,Middle Eastern,White,White
+Leonardo,DiCaprio,White,Other,White
+Ashton,Kutcher,Other,White,White
 Samara,Weaving,Asian,White,White
 Steven,Spielberg,White,White,White
-Amanda,Plummer,Middle Eastern,White,White
+Amanda,Plummer,Other,White,White
 Cate,Blanchett,White,Black,White
-Harrison,Ford,Middle Eastern,Black,White
+Harrison,Ford,Other,Black,White
 Nicolas,Cage,White,Black,White
-Ana,de Armas,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Ana,de Armas,Other,Other,Other
 Reese,Witherspoon,White,Black,White
 Lizzy,Caplan,White,White,White
 Lashana,Lynch,Black,Black,Black
-Victoria,Pedretti,White,Latino_Hispanic,White
+Victoria,Pedretti,White,Other,White
 Thuso,Mbedu,Black,Black,Black
 Lukas,Gage,White,White,White
 M.,Night Shyamalan,Asian,Asian,Asian
@@ -72,13 +72,13 @@ Penn,Badgley,White,White,White
 Sadie,Sink,White,White,White
 Jennifer,Connelly,White,White,White
 Michelle,Yeoh,Asian,Asian,Asian
-Colin,Farrell,Middle Eastern,White,White
+Colin,Farrell,Other,White,White
 Tom,Hanks,White,White,White
 Henry,Cavill,White,White,White
 Miles,Teller,White,White,White
 Ray,Liotta,White,White,White
-Sylvester,Stallone,Middle Eastern,Black,White
-Lily,James,Middle Eastern,Black,White
+Sylvester,Stallone,Other,Black,White
+Lily,James,Other,Black,White
 Jennifer,Coolidge,White,White,White
 Chase,Stokes,White,Black,White
 Hong,Chau,Asian,Asian,Asian
@@ -96,15 +96,15 @@ Emma,Mackey,White,Black,White
 Melanie,Laurent,Asian,White,White
 Christoph,Waltz,White,White,White
 Sosie,Bacon,White,Black,White
-Scout,Taylor-Compton,Middle Eastern,White,White
+Scout,Taylor-Compton,Other,White,White
 Michael,B. Jordan,Black,White,Black
-Todd,Stashwick,Middle Eastern,White,White
+Todd,Stashwick,Other,White,White
 Hayden,Panettiere,White,White,White
 Cherry,Jones,White,Black,White
 Gerard,Butler,White,Black,White
-Jessica,Williams,Latino_Hispanic,Black,Black
+Jessica,Williams,Other,Black,Black
 Ellen,Barkin,White,White,White
-Daniel,Radcliffe,Middle Eastern,White,White
+Daniel,Radcliffe,Other,White,White
 Harry,Melling,White,White,White
 Andrea,Savage,White,White,White
 Denzel,Washington,Black,Black,Black
@@ -127,32 +127,32 @@ Holliday,Grainger,White,White,White
 Brianne,Howey,White,White,White
 Kevin,Costner,White,White,White
 Tamzin,Merchant,White,Asian,White
-Ben,Barnes,Middle Eastern,Black,White
+Ben,Barnes,Other,Black,White
 Viola,Davis,Black,Black,Black
 Lauren,Ash,White,White,White
 Jason,Statham,White,White,White
 Mary,Elizabeth Winstead,White,White,White
 Luke,Grimes,White,White,White
-Jay,Hernandez,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Jay,Hernandez,Other,Other,Other
 Elizabeth,Debicki,White,White,White
 Molly,Ringwald,White,White,White
 Ke,Huy Quan,White,Asian,Asian
-Mel,Gibson,Middle Eastern,Black,White
-Liam,Neeson,Middle Eastern,White,White
+Mel,Gibson,Other,Black,White
+Liam,Neeson,Other,White,White
 Charlbi,Dean,White,Black,White
 Linda,Cardellini,White,White,White
 Bonnie,Somerville,White,Black,White
 Scarlett,Johansson,White,White,White
-Chloe,Grace Moretz,White,Latino_Hispanic,White
+Chloe,Grace Moretz,White,Other,White
 Lupita,Nyong'o,Black,Black,Black
-Allison,Williams,Middle Eastern,Black,White
+Allison,Williams,Other,Black,White
 Quentin,Tarantino,White,White,White
 Matthew,McConaughey,White,White,White
 John,Travolta,White,White,White
 Taron,Egerton,White,White,White
 Isabelle,Fuhrman,White,White,White
 Michael,Keaton,White,White,White
-Kate,Winslet,Middle Eastern,White,White
+Kate,Winslet,Other,White,White
 James,Norton,White,White,White
 Carrie,Coon,White,White,White
 Robert,Downey Jr.,White,White,White
@@ -163,7 +163,7 @@ Tom,Burke,White,White,White
 Katheryn,Winnick,White,White,White
 Emma,Thompson,White,Black,White
 Steve,Zahn,White,White,White
-Johnny,Depp,Middle Eastern,White,White
+Johnny,Depp,Other,White,White
 Justine,Bateman,White,Black,White
 Lauren,Ambrose,White,White,White
 Guy,Ritchie,White,White,White
@@ -178,15 +178,15 @@ Adam,Sandler,White,White,White
 Val,Kilmer,White,White,White
 Bryce,Dallas Howard,White,White,White
 Robert,De Niro,White,White,White
-Orlando,Bloom,White,Latino_Hispanic,White
+Orlando,Bloom,White,Other,White
 Brittany,Snow,White,White,White
-Zoe,Saldana,Asian,Latino_Hispanic,White
+Zoe,Saldana,Asian,Other,White
 Tig,Notaro,White,White,White
-Salma,Hayek,Middle Eastern,White,Latino_Hispanic
+Salma,Hayek,Other,White,Other
 Jessica,Chastain,White,White,White
 Channing,Tatum,White,Black,White
-Theo,James,Middle Eastern,Black,White
-Britt,Robertson,Middle Eastern,White,White
+Theo,James,Other,Black,White
+Britt,Robertson,Other,White,White
 Diane,Morgan,White,Black,White
 Keira,Knightley,White,Black,White
 Troy,Baker,White,Black,White
@@ -202,12 +202,12 @@ Erika,Christensen,White,White,White
 Orla,Brady,White,White,White
 Gates,McFadden,White,Black,White
 Olivia,Wilde,White,Black,White
-David,Harbour,Middle Eastern,White,White
+David,Harbour,Other,White,White
 Travis,Fimmel,White,White,White
 Michael,Shannon,White,White,White
 Michael,Douglas,White,Black,White
-Olivia,Rodrigo,Middle Eastern,Latino_Hispanic,Asian
-Russell,Crowe,Middle Eastern,White,White
+Olivia,Rodrigo,Other,Other,Asian
+Russell,Crowe,Other,White,White
 Ophelia,Lovibond,White,Black,White
 Matt,Damon,White,White,White
 Elizabeth,Olsen,White,White,White
@@ -216,36 +216,36 @@ Monica,Bellucci,White,White,White
 Eva,Green,White,Black,White
 Marie-Josee,Croze,White,White,White
 Natalie,Portman,White,White,White
-Monica,Barbaro,Middle Eastern,Latino_Hispanic,White
+Monica,Barbaro,Other,Other,White
 Bellamy,Young,White,Black,White
-Catherine,Zeta-Jones,Middle Eastern,White,White
-Sherrie,Rose,Middle Eastern,Black,White
+Catherine,Zeta-Jones,Other,White,White
+Sherrie,Rose,Other,Black,White
 Emma,Stone,White,Black,White
-Jake,Gyllenhaal,Middle Eastern,White,White
+Jake,Gyllenhaal,Other,White,White
 Bryan,Cranston,White,White,White
 Anne,Hathaway,White,White,White
 Ginnifer,Goodwin,White,White,White
-Angela,Bassett,Middle Eastern,Black,Black
+Angela,Bassett,Other,Black,Black
 Rose,Williams,White,Black,White
 Martin,Scorsese,White,White,White
 Jason,Segel,White,White,White
 Rachel,McAdams,White,Black,White
-Kaitlyn,Dever,Middle Eastern,White,White
-Adrianne,Palicki,Middle Eastern,White,White
+Kaitlyn,Dever,Other,White,White
+Adrianne,Palicki,Other,White,White
 William,Fichtner,White,White,White
-Mila,Kunis,Middle Eastern,White,White
-Al,Pacino,Middle Eastern,Latino_Hispanic,White
+Mila,Kunis,Other,White,White
+Al,Pacino,Other,Other,White
 Charlize,Theron,White,Black,White
 Iliza,Shlesinger,White,White,White
 Christopher,Nolan,White,White,White
 Michael,Rady,White,White,White
-Carla,Gugino,White,Latino_Hispanic,White
+Carla,Gugino,White,Other,White
 Alicia,Vikander,White,White,White
-Dawn,Olivieri,Middle Eastern,White,White
+Dawn,Olivieri,Other,White,White
 Kate,Mulvany,White,White,White
 Julie,Strain,White,White,White
-Brendan,Gleeson,Middle Eastern,White,White
-Damien,Chazelle,Middle Eastern,Black,White
+Brendan,Gleeson,Other,White,White
+Damien,Chazelle,Other,Black,White
 Timothy,Olyphant,White,White,White
 Annabelle,Wallis,White,White,White
 Megan,Fox,White,White,White
@@ -261,45 +261,45 @@ Abby,Ryder Fortson,White,White,White
 Zachary,Levi,White,White,White
 Rupert,Grint,White,Black,White
 Anna,Kendrick,White,White,White
-Zoey,Deutch,Middle Eastern,White,White
-James,Spader,Middle Eastern,White,White
-Joe,Manganiello,Middle Eastern,Latino_Hispanic,White
-Wendie,Malick,Middle Eastern,White,Middle Eastern
-Alden,Ehrenreich,Middle Eastern,White,White
+Zoey,Deutch,Other,White,White
+James,Spader,Other,White,White
+Joe,Manganiello,Other,Other,White
+Wendie,Malick,Other,White,Other
+Alden,Ehrenreich,Other,White,White
 Gwendoline,Christie,White,Black,White
 Storm,Reid,White,Black,Black
-Nathalie,Emmanuel,Latino_Hispanic,Black,White
+Nathalie,Emmanuel,Other,Black,White
 Eden,Sher,White,Asian,White
 Hope,Davis,White,Black,White
 April,Bowlby,White,White,White
 Rachel,Weisz,White,White,White
-Ben,Aldridge,Middle Eastern,White,White
+Ben,Aldridge,Other,White,White
 Jonathan,Groff,White,White,White
 Chris,Hemsworth,White,White,White
 Natalie,Dormer,White,White,White
-Jennifer,Aniston,Middle Eastern,White,White
-Katee,Sackhoff,Middle Eastern,White,White
+Jennifer,Aniston,Other,White,White
+Katee,Sackhoff,Other,White,White
 Vanessa,Kirby,White,Black,White
-Steve,Howey,Middle Eastern,White,White
+Steve,Howey,Other,White,White
 Todd,Field,White,White,White
-Pamela,Anderson,Middle Eastern,Black,White
+Pamela,Anderson,Other,Black,White
 Daniel,Craig,White,White,White
-Ariel,Winter,Middle Eastern,White,White
-Jamie,Lee Curtis,Middle Eastern,Asian,White
+Ariel,Winter,Other,White,White
+Jamie,Lee Curtis,Other,Asian,White
 Kaley,Cuoco,White,White,White
 Olivia,Colman,White,Black,White
 Julia,Roberts,White,White,White
 Milly,Alcock,White,White,White
-George,Clooney,Middle Eastern,White,White
+George,Clooney,Other,White,White
 Elizabeth,Mitchell,White,Black,White
 Dylan,O'Brien,White,White,White
 Letitia,Wright,Black,Black,Black
-Daisy,Edgar-Jones,White,Latino_Hispanic,White
+Daisy,Edgar-Jones,White,Other,White
 Joanne,Whalley,White,White,White
-Devan,Chandler Long,Middle Eastern,Asian,White
+Devan,Chandler Long,Other,Asian,White
 Woody,Harrelson,White,White,White
 Martin,McDonagh,White,White,White
-Chloe,Sevigny,Middle Eastern,White,White
+Chloe,Sevigny,Other,White,White
 Lauren,Cohan,White,White,White
 Nicole,Kidman,White,White,White
 James,Hong,Asian,Asian,Asian
@@ -312,14 +312,14 @@ Halle,Bailey,Black,Black,Black
 Gary,Oldman,White,White,White
 Samantha,Morton,White,Black,White
 Denise,Gough,White,Black,White
-Josh,Hartnett,Middle Eastern,White,White
+Josh,Hartnett,Other,White,White
 Yvonne,Strahovski,White,White,White
 Andrew,Buchan,White,White,White
 Meghann,Fahy,White,White,White
 Charlie,Hunnam,White,Black,White
-Arnold,Schwarzenegger,Middle Eastern,White,White
+Arnold,Schwarzenegger,Other,White,White
 Idris,Elba,Black,White,Black
-Corey,Stoll,Middle Eastern,White,White
+Corey,Stoll,Other,White,White
 Hailee,Steinfeld,White,White,White
 Amanda,Seyfried,White,White,White
 Nicholas,Hoult,White,White,White
@@ -329,11 +329,11 @@ Alan,Ritchson,White,White,White
 John,Krasinski,White,White,White
 Josh,Duhamel,White,White,White
 Paul,Dano,White,White,White
-Adrien,Brody,Middle Eastern,White,White
+Adrien,Brody,Other,White,White
 Blake,Lively,White,White,White
-Michael,Stuhlbarg,Middle Eastern,White,White
-Jason,Bateman,Middle Eastern,White,White
-Jennifer,Lopez,White,Latino_Hispanic,Latino_Hispanic
+Michael,Stuhlbarg,Other,White,White
+Jason,Bateman,Other,White,White
+Jennifer,Lopez,White,Other,Other
 Peter,Stormare,White,White,White
 Kristen,Bell,White,White,White
 Shantel,VanSanten,White,White,White
@@ -342,14 +342,14 @@ Lamar,Johnson,Black,Black,Black
 Sarah,Michelle Gellar,White,White,White
 David,Fincher,White,White,White
 Carey,Mulligan,White,White,White
-Patrick,Stewart,Middle Eastern,Black,White
-Jonah,Hauer-King,Middle Eastern,White,White
-Oscar,Isaac,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Patrick,Stewart,Other,Black,White
+Jonah,Hauer-King,Other,White,White
+Oscar,Isaac,Other,Other,Other
 Amber,Heard,White,Black,White
 Helena,Bonham Carter,White,White,White
 Alicia,Silverstone,White,White,White
-Hero,Fiennes Tiffin,Middle Eastern,Black,White
-Rita,Moreno,Middle Eastern,Latino_Hispanic,Latino_Hispanic
+Hero,Fiennes Tiffin,Other,Black,White
+Rita,Moreno,Other,Other,Other
 Jen,Landon,White,White,White
 Caroline,Ford,White,Black,White
 Chris,Evans,White,Black,White
@@ -358,7 +358,7 @@ Hugh,Jackman,White,White,White
 Nick,Nolte,White,White,White
 Danai,Gurira,Black,Black,Black
 Sally,Field,White,White,White
-Gina,Carano,Latino_Hispanic,Latino_Hispanic,White
+Gina,Carano,Other,Other,White
 Jena,Malone,White,Black,White
 Lilli,Kay,White,White,White
 First Name,Last Name,Face,Name,Truth
@@ -370,7 +370,7 @@ Aaron,Civale,White,White,White
 Aaron,Fletcher,Asian,Black,Black
 Aaron,Hicks,Asian,Black,Black
 Aaron,Judge,Other,Black,White
-Abraham,Almonte,Black,Hispanic_Latino,Black
+Abraham,Almonte,Black,Other,Black
 Adam,Cimber,White,White,White
 Adam,Duvall,White,White,White
 Adam,Engel,White,White,White
@@ -379,36 +379,36 @@ Adam,Haseley,White,White,White
 Adbert,Alzolay,Other,White,Other
 Adrian,Houser,White,White,White
 Akil,Baddoo,Black,Black,Black
-Albert,Abreu,Black,Hispanic_Latino,Other
-Alcides,Escobar,Black,Hispanic_Latino,Black
+Albert,Abreu,Black,Other,Other
+Alcides,Escobar,Black,Other,Black
 Alec,Bohm,White,White,White
 Alec,Burleson,White,White,White
 Alex,Bregman,White,White,White
 Alex,Call,White,White,White
-Alex,Claudio,White,Hispanic_Latino,White
+Alex,Claudio,White,Other,White
 Alex,Cobb,White,Black,White
 Alex,Dickerson,White,Black,White
-Alex,Faedo,Other,Hispanic_Latino,Other
+Alex,Faedo,Other,Other,Other
 Alex,Jackson,Other,Black,White
 Amir,Garrett,Asian,White,Black
-Anderson,Espinoza,Asian,Hispanic_Latino,Black
+Anderson,Espinoza,Asian,Other,Black
 Andre,Jackson,Black,Black,Black
 Andrew,Bellatti,White,White,White
 Andrew,Benintendi,White,White,White
 Andrew,Chafin,White,White,White
 Andrew,Heaney,White,White,White
 Anthony,Alford,Black,Black,Black
-Anthony,Banda,Other,Hispanic_Latino,Other
+Anthony,Banda,Other,Other,Other
 Anthony,Bass,White,Black,White
 Anthony,Bemboom,White,White,White
 Anthony,Bender,White,White,White
-Anthony,Castro,Black,Hispanic_Latino,Black
+Anthony,Castro,Black,Other,Black
 Anthony,DeSclafani,White,Black,White
 Anthony,Gose,Other,Black,Other
 Anthony,Kay,White,Black,White
-Aramis,Garcia,White,Hispanic_Latino,Other
+Aramis,Garcia,White,Other,Other
 Archie,Bradley,White,Black,White
-Aristides,Aquino,Black,Hispanic_Latino,Black
+Aristides,Aquino,Black,Other,Black
 Aroldis,Chapman,Black,White,Black
 Ashton,Goudeau,White,Black,White
 Austin,Adams,White,Black,White
@@ -439,18 +439,18 @@ Brandon,Dixon,White,Black,White
 Brandon,Drury,White,White,White
 Brandon,Hughes,White,Black,White
 Braxton,Garrett,White,Black,White
-Brayan,Bello,Black,Hispanic_Latino,Black
+Brayan,Bello,Black,Other,Black
 Brendan,Donovan,White,White,White
 Brendon,Davis,Black,Black,Black
-Brennan,Bernardino,Other,Hispanic_Latino,Other
+Brennan,Bernardino,Other,Other,Other
 Brett,Baty,White,White,White
 Brewer,Hicklen,White,Black,White
 Brian,Anderson,White,White,White
 Brock,Burke,White,White,White
 Brusdar,Graterol,Other,White,Other
-Bryan,Abreu,Other,Hispanic_Latino,Other
+Bryan,Abreu,Other,Other,Other
 Bryan,Baker,White,White,White
-Bryan,Garcia,White,Hispanic_Latino,Other
+Bryan,Garcia,White,Other,Other
 Bryan,Hoeing,White,White,White
 Bryce,Elder,White,White,White
 Bryce,Harper,White,Black,White
@@ -464,9 +464,9 @@ Caleb,Hamilton,White,White,White
 Calvin,Faucher,White,Black,White
 Cam,Alldred,White,Asian,White
 Cam,Gallagher,White,Asian,White
-Camilo,Doval,Black,Hispanic_Latino,Black
-Carlos,Carrasco,Other,Hispanic_Latino,Other
-Carlos,Correa,Other,Hispanic_Latino,Other
+Camilo,Doval,Black,Other,Black
+Carlos,Carrasco,Other,Other,Other
+Carlos,Correa,Other,Other,Other
 Carson,Kelly,White,Black,White
 Cavan,Biggio,Other,White,White
 Chad,Green,White,White,White
@@ -478,7 +478,7 @@ Chris,Bassitt,White,White,White
 Chris,Devenski,White,White,White
 Chris,Ellis,White,White,White
 Chris,Flexen,White,White,White
-Christian,Arroyo,White,Hispanic_Latino,White
+Christian,Arroyo,White,Other,White
 Christian,Bethancourt,Other,White,Black
 CJ,Abrams,Black,Black,Black
 Clay,Holmes,White,Black,White
@@ -495,16 +495,16 @@ Corbin,Burnes,White,Black,White
 Corbin,Carroll,Other,White,White
 Corey,Dickerson,White,Black,White
 Cory,Abbott,White,White,White
-Cristian,Javier,Black,Hispanic_Latino,Black
+Cristian,Javier,Black,Other,Black
 Curt,Casali,White,White,White
-Dairon,Blanco,Black,Hispanic_Latino,Black
+Dairon,Blanco,Black,Other,Black
 Dakota,Hudson,White,Black,White
 Dalton,Guthrie,Other,White,Other
 Damon,Jones,White,Black,White
 Dane,Dunning,Asian,Black,Asian
 Daniel,Bard,White,White,White
-Daniel,Castano,White,Hispanic_Latino,White
-Daniel,Duarte,Other,Hispanic_Latino,Other
+Daniel,Castano,White,Other,White
+Daniel,Duarte,Other,Other,Other
 Daniel,Hudson,White,Black,White
 Danny,Coulombe,White,Black,White
 Danny,Jansen,White,White,White
@@ -517,10 +517,10 @@ David,Hensley,White,White,White
 Daz,Cameron,Black,Black,Black
 Derek,Hill,Black,Black,Black
 Didi,Gregorius,Black,White,Black
-Diego,Castillo,Black,Hispanic_Latino,Black
-Diego,Castillo,Black,Hispanic_Latino,Black
+Diego,Castillo,Black,Other,Black
+Diego,Castillo,Black,Other,Black
 DL,Hall,White,White,White
-Domingo,Acevedo,Black,Hispanic_Latino,Black
+Domingo,Acevedo,Black,Other,Black
 Drew,Carlton,White,White,White
 Drew,Ellis,White,White,White
 Drew,Hutchison,White,White,White
@@ -531,51 +531,51 @@ Dylan,Bundy,White,White,White
 Dylan,Carlson,Other,White,White
 Dylan,Cease,Other,White,White
 Dylan,Coleman,White,White,White
-Dylan,Floro,White,Hispanic_Latino,White
-Eddy,Alvarez,White,Hispanic_Latino,Other
-Eduard,Bazardo,Black,Hispanic_Latino,Black
-Eduardo,Escobar,Black,Hispanic_Latino,Black
-Edward,Cabrera,Black,Hispanic_Latino,Black
+Dylan,Floro,White,Other,White
+Eddy,Alvarez,White,Other,Other
+Eduard,Bazardo,Black,Other,Black
+Eduardo,Escobar,Black,Other,Black
+Edward,Cabrera,Black,Other,Black
 Ehire,Adrianza,Other,Black,Other
-Elier,Hernandez,Black,Hispanic_Latino,Black
+Elier,Hernandez,Black,Other,Black
 Elvis,Andrus,Black,White,Black
 Emmanuel,Clase,Other,Black,Black
-Ender,Inciarte,White,Hispanic_Latino,White
+Ender,Inciarte,White,Other,White
 Eric,Haase,White,White,White
 Eric,Hosmer,Other,White,White
 Erick,Fedde,White,White,White
 Ernie,Clement,White,Black,White
-Estevan,Florial,Black,Hispanic_Latino,Black
-Ezequiel,Duran,Black,Hispanic_Latino,Black
-Fernando,Cruz,Other,Hispanic_Latino,Other
+Estevan,Florial,Black,Other,Black
+Ezequiel,Duran,Black,Other,Black
+Fernando,Cruz,Other,Other,Other
 Foster,Griffin,White,Black,White
-Franchy,Cordero,Black,Hispanic_Latino,Black
+Franchy,Cordero,Black,Other,Black
 Franklin,German,Other,White,White
 Freddie,Freeman,White,Black,White
-Freddy,Fermin,Asian,Hispanic_Latino,White
-Gabriel,Arias,Other,Hispanic_Latino,Other
+Freddy,Fermin,Asian,Other,White
+Gabriel,Arias,Other,Other,Other
 Garrett,Cleavinger,White,White,White
 Garrett,Cooper,White,White,White
 Garrett,Hampson,White,White,White
 Garrett,Hill,White,Black,White
 Gavin,Hollowell,White,White,White
 Gerrit,Cole,White,White,White
-Gilberto,Celestino,Black,Hispanic_Latino,Other
-Giovanny,Gallegos,Other,Hispanic_Latino,Other
+Gilberto,Celestino,Black,Other,Other
+Giovanny,Gallegos,Other,Other,Other
 Gosuke,Katoh,Asian,Asian,Asian
 Graham,Ashcraft,White,White,White
 Grayson,Greiner,White,White,White
 Greg,Allen,Black,White,Black
 Greg,Holland,White,White,White
 Griffin,Jax,White,White,White
-Guillermo,Heredia,Black,Hispanic_Latino,Black
+Guillermo,Heredia,Black,Other,Black
 Gunnar,Henderson,White,White,White
-Hanser,Alberto,Black,Hispanic_Latino,Black
-Harold,Castro,Other,Hispanic_Latino,Other
+Hanser,Alberto,Black,Other,Black
+Harold,Castro,Other,Other,Other
 Harrison,Bader,White,White,White
 Heath,Hembree,White,White,White
-Huascar,Brazoban,Black,Hispanic_Latino,Black
-Humberto,Castellanos,Other,Hispanic_Latino,Other
+Huascar,Brazoban,Black,Other,Black
+Humberto,Castellanos,Other,Other,Other
 Hunter,Brown,White,White,White
 Hunter,Dozier,White,White,White
 Hunter,Gaddis,White,White,White
@@ -608,30 +608,30 @@ James,Karinchak,White,White,White
 Jandel,Gustave,Black,Black,Black
 Janson,Junk,White,White,White
 Jarred,Kelenic,White,White,White
-Jarren,Duran,White,Hispanic_Latino,White
+Jarren,Duran,White,Other,White
 Jason,Adam,White,White,White
 Jason,Alexander,White,White,White
-Jason,Castro,White,Hispanic_Latino,White
+Jason,Castro,White,Other,White
 Jason,Delay,White,White,White
 Jason,Foley,White,White,White
 Jason,Heyward,Black,Black,Black
-Javier,Assad,Other,Hispanic_Latino,Other
-Javy,Guerra,Other,Hispanic_Latino,Other
+Javier,Assad,Other,Other,Other
+Javy,Guerra,Other,Other,Other
 Jay,Jackson,Black,Black,Black
 Jaylin,Davis,Black,Black,Black
 Jeff,Brigham,White,White,White
 Jeff,Hoffman,White,White,White
-Jeimer,Candelario,Other,Hispanic_Latino,Other
+Jeimer,Candelario,Other,Other,Other
 Jerad,Eickhoff,White,White,White
-Jeremiah,Estrada,Other,Hispanic_Latino,Other
+Jeremiah,Estrada,Other,Other,Other
 Jeremy,Beasley,White,White,White
-Jesse,Chavez,Other,Hispanic_Latino,Other
-Jesus,Cruz,Asian,Hispanic_Latino,Other
+Jesse,Chavez,Other,Other,Other
+Jesus,Cruz,Asian,Other,Other
 Jeter,Downs,Black,White,Black
-Jeurys,Familia,Black,Hispanic_Latino,Black
+Jeurys,Familia,Black,Other,Black
 Jharel,Cotton,Black,Black,Black
-Jhoan,Duran,Other,Hispanic_Latino,Other
-Jhonathan,Diaz,White,Hispanic_Latino,White
+Jhoan,Duran,Other,Other,Other
+Jhonathan,Diaz,White,Other,White
 Jimmy,Herget,White,White,White
 JJ,Bleday,White,White,White
 Jo,Adell,Black,Black,Black
@@ -640,29 +640,29 @@ Joe,Barlow,White,Black,White
 Joe,Dunand,Asian,Black,White
 Joe,Kelly,White,Black,White
 Joey,Bart,White,White,White
-Joey,Gallo,White,Hispanic_Latino,White
-Johan,Camargo,Other,Hispanic_Latino,Other
+Joey,Gallo,White,Other,White
+Johan,Camargo,Other,Other,Other
 John,Brebbia,White,White,White
-Johnny,Cueto,Black,Hispanic_Latino,Black
+Johnny,Cueto,Black,Other,Black
 Jon,Berti,White,White,White
 Jon,Gray,White,White,White
 Jonah,Bride,White,Black,White
 Jonah,Heim,White,White,White
-Jonathan,Aranda,Other,Hispanic_Latino,Other
+Jonathan,Aranda,Other,Other,Other
 Jonathan,Davis,Black,Black,Black
 Jonathan,Heasley,White,White,White
 Jonathan,India,White,Asian,White
-Jordan,Diaz,Other,Hispanic_Latino,Other
+Jordan,Diaz,Other,Other,Other
 Jordan,Groshans,White,White,White
 Jordan,Hicks,Other,Black,Black
 Jordan,Holloway,White,Black,White
-Jorge,Alcala,Black,Hispanic_Latino,Black
-Jorge,Alfaro,Other,Hispanic_Latino,Other
-Jose,Altuve,White,Hispanic_Latino,White
-Jose,Alvarez,White,Hispanic_Latino,White
-Jose,Barrero,Black,Hispanic_Latino,Black
-Jose,Cuas,Black,Hispanic_Latino,Black
-Jose,Herrera,Other,Hispanic_Latino,Other
+Jorge,Alcala,Black,Other,Black
+Jorge,Alfaro,Other,Other,Other
+Jose,Altuve,White,Other,White
+Jose,Alvarez,White,Other,White
+Jose,Barrero,Black,Other,Black
+Jose,Cuas,Black,Other,Black
+Jose,Herrera,Other,Other,Other
 Josh,Bell,Black,Black,Black
 Josh,Donaldson,White,White,White
 Josh,Fleming,White,Black,White
@@ -672,7 +672,7 @@ Josh,Jung,White,Asian,White
 Josiah,Gray,Black,Black,Black
 JT,Brubaker,White,White,White
 JT,Chargois,Other,Black,White
-Justin,BruiHispanic_Latino,White,White,White
+Justin,BruiOther,White,White,White
 Justin,Dunn,Black,White,Black
 Justin,Grimm,White,White,White
 Ke'Bryan,Hayes,Black,Black,Black
@@ -681,7 +681,7 @@ Ken,Giles,White,Black,White
 Kendall,Graveman,Other,White,White
 Kenley,Jansen,Black,White,Black
 Kerry,Carpenter,White,White,White
-Kervin,Castro,Other,Hispanic_Latino,Other
+Kervin,Castro,Other,Other,Other
 Keston,Hiura,Asian,Asian,Asian
 Kevin,Gausman,White,White,White
 Kevin,Ginkel,White,White,White
@@ -713,44 +713,44 @@ Logan,Gillaspie,White,White,White
 Lorenzo,Cain,Black,Black,Black
 Louis,Head,White,Black,White
 Lucas,Gilbreath,White,White,White
-Lucas,Giolito,White,Hispanic_Latino,White
+Lucas,Giolito,White,Other,White
 Lucius,Fox,Black,White,Black
-Luis,Arraez,Other,Hispanic_Latino,Other
-Luis,Barrera,Other,Hispanic_Latino,Other
-Luis,Campusano,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Castillo,Other,Hispanic_Latino,Other
-Luis,Cessa,Other,Hispanic_Latino,Other
-Luis,Garcia,Asian,Hispanic_Latino,Other
-Luis,Gil,Other,Hispanic_Latino,Other
-Luis,Guillorme,Other,Hispanic_Latino,Other
+Luis,Arraez,Other,Other,Other
+Luis,Barrera,Other,Other,Other
+Luis,Campusano,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Castillo,Other,Other,Other
+Luis,Cessa,Other,Other,Other
+Luis,Garcia,Asian,Other,Other
+Luis,Gil,Other,Other,Other
+Luis,Guillorme,Other,Other,Other
 Luke,Bard,White,White,White
 Luke,Barker,White,White,White
 Luke,Farrell,White,White,White
 MacKenzie,Gore,White,Black,White
 Madison,Bumgarner,White,White,White
-Maikel,Franco,Black,Hispanic_Latino,Black
-Maikel,Garcia,Black,Hispanic_Latino,Black
-Marco,Gonzales,Other,Hispanic_Latino,Other
-Mario,Feliciano,Other,Hispanic_Latino,Other
+Maikel,Franco,Black,Other,Black
+Maikel,Garcia,Black,Other,Black
+Marco,Gonzales,Other,Other,Other
+Mario,Feliciano,Other,Other,Other
 Mark,Appel,White,White,White
 Mark,Canha,White,White,White
-Mark,Contreras,Other,Hispanic_Latino,Other
-Marwin,Gonzalez,Other,Hispanic_Latino,Other
+Mark,Contreras,Other,Other,Other
+Marwin,Gonzalez,Other,Other,Other
 Matt,Barnes,White,White,White
 Matt,Beaty,White,White,White
 Matt,Brash,White,White,White
@@ -765,18 +765,18 @@ Matt,Foster,White,White,White
 Matt,Gage,White,White,White
 Matthew,Batten,White,White,White
 Matthew,Boyd,White,White,White
-Max,Castillo,Other,Hispanic_Latino,Other
+Max,Castillo,Other,Other,Other
 Max,Fried,White,White,White
 Michael,Brantley,Other,White,Other
 Michael,Chavis,White,Black,White
-Michael,Feliz,Black,Hispanic_Latino,Black
+Michael,Feliz,Black,Other,Black
 Michael,Fulmer,White,White,White
 Michael,Grove,White,White,White
-Michael,Hermosillo,Other,Hispanic_Latino,Other
-Michel,Baez,Other,Hispanic_Latino,Other
-Miguel,Andujar,Black,Hispanic_Latino,Black
-Miguel,Cabrera,Other,Hispanic_Latino,Other
-Miguel,Castro,Black,Hispanic_Latino,Black
+Michael,Hermosillo,Other,Other,Other
+Michel,Baez,Other,Other,Other
+Miguel,Andujar,Black,Other,Black
+Miguel,Cabrera,Other,Other,Other
+Miguel,Castro,Black,Other,Black
 Mike,Baumann,White,White,White
 Mike,Brosseau,White,White,White
 Mike,Clevinger,White,White,White
@@ -792,68 +792,68 @@ Narciso,Crook,Black,Black,Black
 Nate,Eaton,White,White,White
 Nate,Fisher,White,White,White
 Nathan,Eovaldi,White,White,White
-Nelson,Cruz,Other,Hispanic_Latino,Other
-Nestor,Cortes,Other,Hispanic_Latino,Other
+Nelson,Cruz,Other,Other,Other
+Nestor,Cortes,Other,Other,Other
 Nick,Ahmed,White,Asian,White
 Nick,Allen,White,Black,White
-Nick,Castellanos,White,Hispanic_Latino,White
-Nick,Duron,White,Hispanic_Latino,White
-Nick,Fortes,White,Hispanic_Latino,White
+Nick,Castellanos,White,Other,White
+Nick,Duron,White,Other,White
+Nick,Fortes,White,Other,White
 Nick,Gordon,Black,Black,Black
 Nico,Hoerner,White,White,White
 Niko,Goodrum,Black,White,Black
 Noah,Davis,White,Black,White
-Nolan,Arenado,Other,Hispanic_Latino,Other
+Nolan,Arenado,Other,Other,Other
 Nolan,Gorman,White,White,White
 Nolan,Jones,White,Black,White
-Oneil,Cruz,Black,Hispanic_Latino,Black
-Orlando,Arcia,Other,Hispanic_Latino,Other
-Oscar,Gonzalez,Black,Hispanic_Latino,Black
-Oswaldo,Cabrera,Asian,Hispanic_Latino,Other
+Oneil,Cruz,Black,Other,Black
+Orlando,Arcia,Other,Other,Other
+Oscar,Gonzalez,Black,Other,Black
+Oswaldo,Cabrera,Asian,Other,Other
 Ozzie,Albies,Black,Black,Black
 P.J.,Higgins,White,White,White
-Paolo,Espino,Other,Hispanic_Latino,Other
+Paolo,Espino,Other,Other,Other
 Patrick,Corbin,White,Black,White
 Paul,Blackburn,White,White,White
 Paul,DeJong,White,White,White
 Paul,Fry,White,White,White
 Paul,Goldschmidt,White,White,White
 Payton,Henry,White,Black,White
-Pedro,Avila,Other,Hispanic_Latino,Other
-Pete,Alonso,White,Hispanic_Latino,White
+Pedro,Avila,Other,Other,Other
+Pete,Alonso,White,Other,White
 Pete,Fairbanks,White,White,White
 Peyton,Burdick,White,White,White
 Phil,Bickford,White,White,White
 Phil,Gosselin,White,White,White
-Phillip,DieHispanic_Latino,White,White,White
+Phillip,DieOther,White,White,White
 Pierce,Johnson,White,Black,White
-R.J.,Alvarez,Other,Hispanic_Latino,Other
-Rafael,Devers,Black,Hispanic_Latino,Black
-Raisel,Iglesias,Black,Hispanic_Latino,Black
+R.J.,Alvarez,Other,Other,Other
+Rafael,Devers,Black,Other,Black
+Raisel,Iglesias,Black,Other,Black
 Randal,Grichuk,White,White,White
-Randy,Arozarena,Black,Hispanic_Latino,Black
-Raynel,Espinal,Other,Hispanic_Latino,Other
+Randy,Arozarena,Black,Other,Black
+Raynel,Espinal,Other,Other,Other
 Reed,Garrett,White,White,White
 Reid,Detmers,White,White,White
 Rhys,Hoskins,White,Black,White
 Rich,Hill,White,White,White
 Richard,Bleier,White,White,White
-Rico,Garcia,Other,Hispanic_Latino,Other
+Rico,Garcia,Other,Other,Other
 Riley,Adams,White,Black,White
 Riley,Greene,Other,Black,White
-Roansy,Contreras,Black,Hispanic_Latino,Black
+Roansy,Contreras,Black,Other,Black
 Rob,Brantly,White,White,White
 Robbie,Erlin,White,White,White
 Robbie,Grossman,White,White,White
 Robert,Dugger,Other,White,White
 Robert,Gsellman,White,White,White
-Robinson,Chirinos,Other,Hispanic_Latino,Other
-Rodolfo,Castro,Black,Hispanic_Latino,Black
-Ronel,Blanco,Black,Hispanic_Latino,Black
+Robinson,Chirinos,Other,Other,Other
+Rodolfo,Castro,Black,Other,Black
+Ronel,Blanco,Black,Other,Black
 Ronnie,Dawson,Black,Black,Black
-Ronny,Henriquez,Other,Hispanic_Latino,Other
+Ronny,Henriquez,Other,Other,Other
 Ross,Detwiler,White,White,White
-Ryan,Aguilar,Other,Hispanic_Latino,Other
+Ryan,Aguilar,Other,Other,Other
 Ryan,Borucki,White,White,White
 Ryan,Brasier,White,White,White
 Ryan,Burr,White,White,White
@@ -870,8 +870,8 @@ Sam,Hentges,White,White,White
 Sam,Hilliard,White,White,White
 Sam,Howard,White,White,White
 Sam,Huff,White,White,White
-Sandy,Alcantara,Asian,Hispanic_Latino,Other
-Santiago,Espinal,Other,Hispanic_Latino,Other
+Sandy,Alcantara,Asian,Other,Other
+Santiago,Espinal,Other,Other,Other
 Scott,Alexander,White,White,White
 Scott,Barlow,White,White,White
 Scott,Effross,White,White,White
@@ -885,7 +885,7 @@ Shane,Bieber,White,White,White
 Shane,Greene,White,Black,White
 Shaun,Anderson,White,Black,White
 Shawn,Armstrong,White,Black,White
-Silvino,Bracho,Other,Hispanic_Latino,Other
+Silvino,Bracho,Other,Other,Other
 Skye,Bolt,White,White,White
 Sonny,Gray,White,Black,White
 Spencer,Howard,White,Black,White
@@ -900,7 +900,7 @@ Taylor,Clarke,White,Black,White
 Taylor,Hearn,Black,White,Black
 Taylor,Jones,Other,Black,Other
 Terrance,Gore,Black,Black,Black
-Thairo,Estrada,Asian,Hispanic_Latino,Other
+Thairo,Estrada,Asian,Other,Other
 Thomas,Hatch,Other,White,White
 Tim,Anderson,Black,White,Black
 Tim,Beckham,Black,White,Black
@@ -916,10 +916,10 @@ Travis,Demeritte,Black,Black,Black
 Travis,d'Arnaud,White,White,White
 Travis,Jankowski,White,White,White
 Trent,Grisham,Other,White,White
-Tres,Barrera,White,Hispanic_Latino,White
+Tres,Barrera,White,Other,White
 Trevor,Gott,White,White,White
 Trevor,Kelley,White,Black,White
-Triston,Casas,White,Hispanic_Latino,Other
+Triston,Casas,White,Other,Other
 Tucker,Barnhart,White,White,White
 Tucker,Davidson,White,White,White
 Ty,Blach,White,White,White
@@ -937,34 +937,34 @@ Tyler,Glasnow,White,White,White
 Tyler,Heineman,White,White,White
 Tyler,Holton,White,White,White
 Vaughn,Grissom,Other,Black,Other
-Victor,Caratini,White,Hispanic_Latino,White
+Victor,Caratini,White,Other,White
 Vinny,Capra,White,Asian,White
-Vladimir,Gutierrez,Black,Hispanic_Latino,Black
-Walker,BueHispanic_Latinoer,White,White,White
-Wander,Franco,Asian,Hispanic_Latino,Other
+Vladimir,Gutierrez,Black,Other,Black
+Walker,BueOtherer,White,White,White
+Wander,Franco,Asian,Other,Other
 Wil,Crowe,White,White,White
 Will,Benson,Black,Black,Black
 Will,Brennan,Other,White,White
-Willi,Castro,Asian,Hispanic_Latino,Other
-William,Contreras,Asian,Hispanic_Latino,Other
-Willians,Astudillo,Other,Hispanic_Latino,Other
+Willi,Castro,Asian,Other,Other
+William,Contreras,Asian,Other,Other
+Willians,Astudillo,Other,Other,Other
 Willie,Calhoun,Black,Black,Other
-Willson,Contreras,Other,Hispanic_Latino,Other
-Willy,Adames,Other,Hispanic_Latino,Other
-Wilmer,Difo,Asian,Hispanic_Latino,Other
-Wilmer,Flores,Asian,Hispanic_Latino,Other
+Willson,Contreras,Other,Other,Other
+Willy,Adames,Other,Other,Other
+Wilmer,Difo,Asian,Other,Other
+Wilmer,Flores,Asian,Other,Other
 Wynton,Bernard,Black,Black,Black
 Xander,Bogaerts,Other,White,Other
 Xzavion,Curry,Black,Black,Black
-Yadiel,Hernandez,Other,Hispanic_Latino,Other
-Yainer,Diaz,Other,Hispanic_Latino,Other
+Yadiel,Hernandez,Other,Other,Other
+Yainer,Diaz,Other,Other,Other
 Yan,Gomes,White,Asian,White
-Yasmani,Grandal,White,Hispanic_Latino,White
-Yency,Almonte,Black,Hispanic_Latino,Black
-Yennier,Cano,Black,Hispanic_Latino,Black
-Yonathan,Daza,Other,Hispanic_Latino,Other
-Yonny,Chirinos,Other,Hispanic_Latino,Other
-Yordan,Alvarez,Black,Hispanic_Latino,Black
+Yasmani,Grandal,White,Other,White
+Yency,Almonte,Black,Other,Black
+Yennier,Cano,Black,Other,Black
+Yonathan,Daza,Other,Other,Other
+Yonny,Chirinos,Other,Other,Other
+Yordan,Alvarez,Black,Other,Black
 Yu,Chang,Asian,Asian,Asian
 Yu,Darvish,Asian,Asian,Asian
 Yuli,Gurriel,Other,Asian,Other
