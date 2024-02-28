@@ -3,6 +3,9 @@ import warnings
 # Filter out the NotOpenSSLWarning
 warnings.filterwarnings("ignore")
 
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
 # Imports for Clarifai and CSV output
 import csv
@@ -13,7 +16,10 @@ from clarifai_grpc.grpc.api.status import status_code_pb2
 stub = service_pb2_grpc.V2Stub(ClarifaiChannel.get_grpc_channel())  
 
 # Personal access tokens. Can be changed if needed, directly from Clarifai website.
-YOUR_CLARIFAI_API_KEY = "976840cd74e447298638f70dd68d230e"
+
+
+
+YOUR_CLARIFAI_API_KEY = os.getenv("CLARIFAI_API_KEY") or " "
 YOUR_APPLICATION_ID = "dem_inference"
 
 
