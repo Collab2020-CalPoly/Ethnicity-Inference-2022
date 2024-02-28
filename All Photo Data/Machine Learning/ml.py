@@ -4,76 +4,76 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.tree import DecisionTreeClassifier
-
-# import tensorflow as tf
-# from tensorflow import keras
-# from tensorflow.keras import layers
-
-
-# FACE DATAFRAME
-df = pd.read_csv("./Face Inferences/Olympian_Face_Inferences.csv")
-
-df = df.drop(columns=['First Name', 'Last Name'])
-
-# Convert the remaining columns to numerical data
-df[['White', 'Black', 'Asian', 'Other']] = df[['White', 'Black', 'Asian', 'Other']].apply(pd.to_numeric)
-
-# Map "Highest Prob. Score" to numerical values
-score_mapping = {'White': 0, 'Black': 1, 'Asian': 2, 'Other': 3}
-df['Highest Prob. Score'] = df['Highest Prob. Score'].map(score_mapping)
-
-#drop highest prob.score
-#df.drop('Highest Prob. Score', axis=1, inplace=True)
+import joblib  # Import joblib for model saving
 
 
 
 
-#NAME DATAFRAME
-df2 = pd.read_csv("./Name Inferences/Olympian_Name_Inferences.csv")
-
-df2 = df2.drop(columns=['First Name', 'Last Name'])
-
-
-# Map "Highest Prob. Score" to numerical values
-
-df2['Race'] = df2['Race'].map(score_mapping)
-df2['Alt'] = df2['Alt'].map(score_mapping)
+def train_model():
+    # FACE DATAFRAME
+    df = pd.read_csv("./Face Inferences/Olympian_Face_Inferences.csv")
 
 
+    df = df.drop(columns=['First Name', 'Last Name'])
 
+    # Convert the remaining columns to numerical data
+    df[['White', 'Black', 'Asian', 'Other']] = df[['White', 'Black', 'Asian', 'Other']].apply(pd.to_numeric)
 
-# Concatenate the two DataFrames
-combined_df = pd.concat([df, df2], axis=1)
+    # Map "Highest Prob. Score" to numerical values
+    score_mapping = {'White': 0, 'Black': 1, 'Asian': 2, 'Other': 3}
+    df['Highest Prob. Score'] = df['Highest Prob. Score'].map(score_mapping)
 
-print(combined_df)
-
-
-#TRUTH DATAFRAME
-df3 = pd.read_csv("./Truth Data/Olympians_Actual.csv")
-df3 = df3.drop(columns=['First Name', 'Last Name'])
-df3['Actual'] = df3['Actual'].map(score_mapping) #map actual to numbers
+    #drop highest prob.score
+    #df.drop('Highest Prob. Score', axis=1, inplace=True)
 
 
 
-X = combined_df
-y = df3
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+    #NAME DATAFRAME
+    df2 = pd.read_csv("./Name Inferences/Olympian_Name_Inferences.csv")
+    df2 = df2.drop(columns=['First Name', 'Last Name'])
+
+
+    # Map "Highest Prob. Score" to numerical values
+
+    df2['Race'] = df2['Race'].map(score_mapping)
+    df2['Alt'] = df2['Alt'].map(score_mapping)
 
 
 
-#RANDOM FOREST
-model = RandomForestClassifier(n_estimators=200, max_depth=10, random_state=42)
-model.fit(X_train, y_train)
 
-# Make predictions on the test data
-y_pred = model.predict(X_test)
+    # Concatenate the two DataFrames
+    combined_df = pd.concat([df, df2], axis=1)
 
-# Evaluate the model
-accuracy = accuracy_score(y_test, y_pred)
-
-print(f"Accuracy for the combined data: {accuracy}")
+    print(combined_df)
 
 
+    #TRUTH DATAFRAME
+    df3 = pd.read_csv("./Truth Data/Olympians_Actual.csv")
+    df3 = df3.drop(columns=['First Name', 'Last Name'])
+    df3['Actual'] = df3['Actual'].map(score_mapping) #map actual to numbers
+
+
+
+    X = combined_df
+    y = df3
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+
+
+    #RANDOM FOREST
+    model = RandomForestClassifier(n_estimators=200, max_depth=10, random_state=42)
+    model.fit(X_train, y_train)
+
+    # Make predictions on the test data
+    y_pred = model.predict(X_test)
+
+    # Evaluate the model
+    accuracy = accuracy_score(y_test, y_pred)
+
+    print(f"Accuracy for the combined data: {accuracy}")
+
+    joblib.dump(model, 'random_forest_model.pkl')
 
 
 # test on unrelated dataset
