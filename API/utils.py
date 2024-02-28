@@ -1,6 +1,6 @@
 # Contains helper functions for the API
-
 import csv
+import requests
 
 
 def parse_csv_to_dict(file_path, delimiter=','):
@@ -12,3 +12,11 @@ def parse_csv_to_dict(file_path, delimiter=','):
     return data
 
 
+"""
+Downloads an online image to a given local destination
+"""
+def url_to_image(url, dst):
+    response = requests.get(url)
+    fp = open(dst, 'wb')
+    fp.write(response.content)
+    fp.close()

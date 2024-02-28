@@ -10,6 +10,10 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
+# Additional imports
+import cv2
+
+
 # Imports for Clarifai and CSV output
 from clarifai_grpc.channel.clarifai_channel import ClarifaiChannel
 from clarifai_grpc.grpc.api import service_pb2_grpc
@@ -21,7 +25,6 @@ stub = service_pb2_grpc.V2Stub(ClarifaiChannel.get_grpc_channel())
 YOUR_CLARIFAI_API_KEY = os.getenv("CLARIFAI_API_KEY") or " "
 YOUR_APPLICATION_ID = "dem_inference"
 metadata = (("authorization", f"Key {YOUR_CLARIFAI_API_KEY}"),)
-
 
 
 def get_demographic_info(image_url):
@@ -79,7 +82,8 @@ def process_info(info):
 
     return result[6]
 
-
+# Given a local image, function uses Clarifai API to predict ethnicity
+# Returns a race from categories: ['White', 'Black', 'Asian', 'Other']
 def clarifaiPredict(image_url):
     info = get_demographic_info(image_url)
     race = process_info(info)
@@ -87,9 +91,54 @@ def clarifaiPredict(image_url):
     return race
 
     
-    
+# Given an image path, use Clarifai API to return bounding box of face
+# Used to crop the image
+def detect_face(image):
+    with open(image, "rb") as f:
+        file_bytes = f.read()
+    post_model_outputs_response = stub.PostModelOutputs(
+        service_pb2.PostModelOutputsRequest(
+            # Change model_id here, if needed
+            model_id="face-detection",
+            user_app_id=resources_pb2.UserAppIDSet(app_id=YOUR_APPLICATION_ID),
+            inputs=[
+                resources_pb2.Input(
+                    data=resources_pb2.Data(image=resources_pb2.Image(base64=file_bytes))
+                )
+            ],
+        ),
+        metadata=metadata
+    )
+    if post_model_outputs_response.status.code != status_code_pb2.SUCCESS:
+        # print(post_model_outputs_response)
+        raise Exception(f"Request failed, status code: {post_model_outputs_response.status}")
 
-if __name__=="__main__":
-    name = clarifaiPredict("./Pictures/caeleb_dressel.jpg")
-    print(name)
+    out = post_model_outputs_response.outputs[0]
+    return out.data.regions[0].region_info.bounding_box
+
+# Given an image path, crop the image to just the face
+def crop_face(image):
+    img = cv2.imread(image)
+    ROWS = img.shape[0]
+    COLS = img.shape[1]
+
+    try:
+        bounding_box = detect_face(image)
+    except Exception as e:
+        print(e)
+    else:
+        top = int(bounding_box.top_row * ROWS) 
+        bottom = int(bounding_box.bottom_row * ROWS)
+        left = int(bounding_box.left_col * COLS)
+        right = int(bounding_box.right_col * COLS)
+
+        crop = img[top:bottom, left:right] 
+
+        # Display Image
+        # cv2.imshow('cropped', crop)    
+        # use esc key to exit
+        # cv2.waitKey(0)
+        # cv2.destroyAllWindows()
+
+        cv2.imwrite(image, crop)
 
