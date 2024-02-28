@@ -1,3 +1,6 @@
+# Last Modified: 2/28/24 by Ethan Outangoun
+
+
 import requests
 import json
 from dotenv import load_dotenv
@@ -5,6 +8,8 @@ import os
 
 # Load variables from .env file
 load_dotenv()
+
+
 
 # Input: Name of person in the format "First Last"
 # Output: Race prediction of the person (Black, White, Asian, Other)
