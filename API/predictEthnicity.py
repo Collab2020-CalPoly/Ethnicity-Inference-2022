@@ -36,7 +36,7 @@ def main():
         name = namsorPredict(person["First Name"] + " " + person["Last Name"])
 
         # Combine the predictions
-        prediction = model.predict(name, face)
+        prediction = model.predict(face, name)
         # Append the results to the dataframe
         results.loc[len(results)] = {"First Name": person["First Name"], "Last Name": person["Last Name"], "Face": face, "Name": name, "Prediction": prediction}
 
