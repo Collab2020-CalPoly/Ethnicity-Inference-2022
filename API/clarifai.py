@@ -23,7 +23,7 @@ stub = service_pb2_grpc.V2Stub(ClarifaiChannel.get_grpc_channel())
 
 # Personal access tokens. Can be changed if needed, directly from Clarifai website.
 YOUR_CLARIFAI_API_KEY = os.getenv("CLARIFAI_API_KEY") or " "
-YOUR_APPLICATION_ID = "dem_inference"
+YOUR_APPLICATION_ID = os.getenv("CLARIFAI_APP_ID") or " "
 metadata = (("authorization", f"Key {YOUR_CLARIFAI_API_KEY}"),)
 
 

@@ -1,0 +1,796 @@
+First Name,Last Name,Image,School,Source
+Pieter,Abbeel,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/abbeel.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Elad,Alon,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/elad.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Venkat,Anantharam,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/anantharam.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Gopala,Anumanchipalli,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gopala.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Murat,Arcak,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/arcak.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Ana,Arias,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/acarias.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Krste,Asanović,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/asanovic.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+David,Attwood,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/attwood.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Babak,Ayazifar,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ayazifar.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Ruzena,Bajcsy,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/bajcsy.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Michael,Ball,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mball.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+David,Bamman,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/dbamman.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Brian,Barsky,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/barsky.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Peter,Bartlett,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/bartlett.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jeffrey,Bokor,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/bokor.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jessica,Boles,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/boles.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Christian,Borgs,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/borgs.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Bernhard,Boser,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/boser.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Robert,Brayton,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/brayton.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Eric,Brewer,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/brewer.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Thomas,Budinger,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/budinger.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Aydin,Buluç,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/aydin.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Duncan,Callaway,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/dcal.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+John,Canny,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/canny.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Yuan,Cao,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/caoyuan.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jose,Carmena,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/carmena.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Constance,Chang-Hasnain,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/chang-hasnain.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Sarah,Chasins,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/schasins.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jennifer,Chayes,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jchayes.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Irene,Chen,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/iychen.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Alvin,Cheung,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/akcheung.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jun-Chau,Chien,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jcchien.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Alessandro,Chiesa,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/alexch.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Leon,Chua,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/chua.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+John,Chuang,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/chuang.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Michael,Clancy,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/clancy.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Phillip,Colella,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/colella.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Steven,Conolly,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sconolly.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Thomas,Courtade,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/courtade.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Natacha,Crooks,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ncrooks.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+David,Culler,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/culler.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Trevor,Darrell,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/darrell.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+James,Demmel,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/demmel.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+John,DeNero,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/denero.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Anca,Dragan,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/anca.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Prabal,Dutta,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/prabal.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Alexei,Efros,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/efros.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Laurent,Ghaoui,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/elghaoui.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Hany,Farid,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hfarid.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Richard,Fateman,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/fateman.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Ronald,Fearing,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/fearing.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jerome,Feldman,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/feldman.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Domenico,Ferrari,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ferrari.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Christopher,Fletcher,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/cwfletcher.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Armando,Fox,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/fox.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Gerald,Friedland,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/friedland.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Robert,Full,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rjfull.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jack,Gallant,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gallant.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Dan,Garcia,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/garcia.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Sanjam,Garg,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sanjam.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Ali,Ghodsi,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/aligh.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Ken,Goldberg,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/goldberg.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Shafi,Goldwasser,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/goldwasser.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Joseph,Gonzalez,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jegonzal.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Susan,Graham,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/graham-s.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Paul,Gray,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gray.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Venkatesan,Guruswami,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/venkatg.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+T.,Gustafson,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gustafson.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Nika,Haghtalab,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nika.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Moritz,Hardt,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mhardt.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Michael,Harrison,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/harrison.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Björn,Hartmann,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hartmann.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Brian,Harvey,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/harvey.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Marti,Hearst,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hearst.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Joseph,Hellerstein,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hellerstein.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Paul,Hilfinger,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hilfinger.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Chenming,Hu,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hu.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Joshua,Hug,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/joshhug.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Christopher,Hunn,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/cthunn.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Nilah,Ioannidis,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nilah.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Lakshya,Jain,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lakshyajain.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Ali,Javey,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/javey.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jiantao,Jiao,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jiantao.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Michael,Jordan,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jordan.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Anthony,Joseph,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/joseph.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+William,Kahan,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/kahan.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Angjoo,Kanazawa,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/kanazawa.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Boubacar,Kanté,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/bkante.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Richard,Karp,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/karp.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Randy,Katz,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/katz.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Kurt,Keutzer,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/keutzer.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Preeya,Khanna,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/pkhanna.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Tsu-Jae,Liu,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/king.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Daniel,Klein,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/klein.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+John,Kubiatowicz,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/kubiatowicz.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Kam,Lau,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lau.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Edward,Lee,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lee.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Luke,Lee,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lplee.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Sergey,Levine,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/svlevine.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Edwin,Lewis,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lewis.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Michael,Lieberman,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lieberman.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jennifer,Listgarten,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/listgarten.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Chunlei,Liu,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/chunleiliu.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Michael,Lustig,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mlustig.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Eric,Ma,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/eric-y-ma.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Yi,Ma,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yima.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Michel,Maharbiz,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/maharbiz.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jitendra,Malik,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/malik.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+David,Messerschmitt,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/messerschmitt.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Robert,Meyer,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/meyer.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Nelson,Morgan,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/morgan.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Richard,Muller,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/muller.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Rikky,Muller,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rikky.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jelani,Nelson,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/minilek.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Andrew,Neureuther,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/neureuther.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Ren,Ng,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yirenng.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Clark,Nguyen,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ctnguyen.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Ali,Niknejad,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/niknejad.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Borivoje,Nikolic,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nikolic.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Narges,Norouzi,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/norouzi.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+James,O'Brien,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/obrien.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+William,Oldham,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/oldham.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Bruno,Olshausen,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/baolshausen.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Christos,Papadimitriou,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/papadimitriou.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Aditya,Parameswaran,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/adityagp.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Shyam,Parekh,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/shyam.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Beresford,Parlett,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/parlett.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+David,Patterson,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/patterson.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Eric,Paulos,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/paulos.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Vern,Paxson,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/paxson.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Robert,Pilawa-Podgurski,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/pilawa.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Kristofer,Pister,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/pister.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Elijah,Polak,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/polak.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Kameshwar,Poolla,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/poolla.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Raluca,Popa,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ralucap.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jan,Rabaey,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rabaey.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Prasad,Raghavendra,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/praghavendra.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Kannan,Ramchandran,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ramchandran.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Gireeja,Ranade,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gireeja.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Satish,Rao,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rao.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Sylvia,Ratnasamy,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ratnasamy.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Benjamin,Recht,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/brecht.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Lawrence,Rowe,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rowe.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jaijeet,Roychowdhury,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jr.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Stuart,Russell,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/russell.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Anant,Sahai,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sahai.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Sayeef,Salahuddin,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/salahuddin.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Seth,Sanders,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sanders.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Alberto,Sangiovanni-Vincentelli,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sangiovanni-vicentelli.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+S.,Sastry,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sastry.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jeronimo,Fernandez,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/segovia.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Koushik,Sen,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ksen.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Carlo,Séquin,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sequin.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Sanjit,Seshia,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/seshia.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Osama,Shana'a,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/osama.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Sophia,Shao,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ysshao.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Scott,Shenker,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/shenker.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jonathan,Shewchuk,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/shewchuk.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Alistair,Sinclair,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sinclair.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Alp,Sipahigil,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/alp.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Alan,Smith,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/smith-a.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Somayeh,Sojoudi,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sojoudi.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Dawn,Song,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/song.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Yun,Song,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yssong.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Costas,Spanos,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/spanos.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jacob,Steinhardt,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jsteinhardt.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Ion,Stoica,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/stoica.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Vladimir,Stojanovic,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/vlada.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Bernd,Sturmfels,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sturmfels.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Vivek,Subramanian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/subramanian.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Alane,Suhr,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/suhr.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Avishay,Tal,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/atal.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Grigory,Tikhomirov,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/grisha.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Claire,Tomlin,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/tomlin.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Umesh,Vazirani,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/vazirani.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Alexandra,Meier,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/vonmeier.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+David,Wagner,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wagner.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Martin,Wainwright,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wainwright.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Laura,Waller,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/waller.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Jean,Walrand,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/walrand.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+John,Wawrzynek,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wawrzynek.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+William,Welch,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/welch.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Max,Willsey,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mwillsey.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Eugene,Wong,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wong.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+John,Wright,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jswright.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Ming,Wu,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wu.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Eli,Yablonovitch,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yablonovitch.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Adam,Yala,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yala.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Lisa,Yan,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yanlisa.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Katherine,Yelick,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yelick.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Nir,Yosef,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/niryosef.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Bin,Yu,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/binyu.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Stella,Yu,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/stellayu.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Matei,Zaharia,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/matei.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Avideh,Zakhor,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/zakhor.jpg,UC Berkeley,https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html
+Elliot,Anderson,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/ElliotAnderson.jpg?itok=xZ_gs6nX,UC Santa Cruz,https://art.ucsc.edu/faculty
+Cláudio,Bueno,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Claudio-Bueno.jpeg?itok=dvS6xMMF,UC Santa Cruz,https://art.ucsc.edu/faculty
+Melissa,Gwyn,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Gwyn-head-shot.jpg?itok=2yvVXy-f,UC Santa Cruz,https://art.ucsc.edu/faculty
+Dee,Hibbert-Jones,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/dee_my%20photo%20super%20small.jpg?itok=FHRc71hy,UC Santa Cruz,https://art.ucsc.edu/faculty
+Karolina,Karlic,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Karlic_Karlic_Pigeon_Pt_Mark_McKnight.png?itok=J_oNo6bm,UC Santa Cruz,https://art.ucsc.edu/faculty
+Enrique,Leal,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Enrique_Leal-June-2014.jpg?itok=_fRGaA9N,UC Santa Cruz,https://art.ucsc.edu/faculty
+John,Leanos,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Leanos_Portrait.jpg?itok=8BjSATzZ,UC Santa Cruz,https://art.ucsc.edu/faculty
+Jimin,Lee,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Jimin-Lee-7%20%281%20of%201%29%20copy.jpg?itok=3tXHDuZi,UC Santa Cruz,https://art.ucsc.edu/faculty
+Jorge,Barreto,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Jorge%20Menna%20Barreto.png?itok=jyMT9_bJ,UC Santa Cruz,https://art.ucsc.edu/faculty
+Laurie,Palmer,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Laurie-Palmer-red.jpeg?itok=YChP1ACK,UC Santa Cruz,https://art.ucsc.edu/faculty
+Jennifer,Parker,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Jennifer_Parker_Art_Department-2020.jpg?itok=L_krHTUr,UC Santa Cruz,https://art.ucsc.edu/faculty
+Sarah,Sanford,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/BrochurePic.jpg?itok=6F2yiKF4,UC Santa Cruz,https://art.ucsc.edu/faculty
+Edward,Shanken,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/ed-shanken.jpg?itok=R9jBtDmx,UC Santa Cruz,https://art.ucsc.edu/faculty
+Elizabeth,Stephens,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/B10Y6228.jpeg?itok=_La_ILHt,UC Santa Cruz,https://art.ucsc.edu/faculty
+Grant,Whipple,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Grant-whipple-2.jpg?itok=WSzqfPXp,UC Santa Cruz,https://art.ucsc.edu/faculty
+Karlton,Hester,https://danm.ucsc.edu/sites/default/files/styles/list/public/KEH%20flute-sax%20copy.jpg?itok=WFHdcMdZ,UC Santa Cruz,https://danm.ucsc.edu/faculty
+Matthew,Schumaker,https://danm.ucsc.edu/sites/default/files/styles/list/public/Matthew%20Schumaker.png?itok=6zAnBB32,UC Santa Cruz,https://danm.ucsc.edu/faculty
+Elizabeth,Swensen,https://danm.ucsc.edu/sites/default/files/styles/list/public/Elizabeth%20Swensen%20Chess%20%281%29.jpg?itok=b-tR2CsQ,UC Santa Cruz,https://danm.ucsc.edu/faculty
+Marianne,Weems,https://danm.ucsc.edu/sites/default/files/styles/list/public/Weems_Horz_1.jpg?itok=nRF1_5Kz,UC Santa Cruz,https://danm.ucsc.edu/faculty
+Jon,Alonso,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/9-22-23-Faculty-Jon-Alonso-CL-004%20copy.jpg?itok=vuMo4RvS,UC Santa Cruz,https://film.ucsc.edu/faculty
+Lawrence,Andrews,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/larry_andrews_bio.jpg?itok=KqTp88wu,UC Santa Cruz,https://film.ucsc.edu/faculty
+Joseph,Erb,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Joseph%20Erb%20photo_0_2.jpeg?itok=1wkOjUvI,UC Santa Cruz,https://film.ucsc.edu/faculty
+Anna,Friz,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Friz_at_Wave%20Farm.jpg?itok=q_GwMZxa,UC Santa Cruz,https://film.ucsc.edu/faculty
+Jennifer,Horne,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/fullsizeoutput_33ac.jpeg?itok=qK4PTugZ,UC Santa Cruz,https://film.ucsc.edu/faculty
+L.S.,Kim,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/ls_kim_bio.jpg?itok=s6FQGUiA,UC Santa Cruz,https://film.ucsc.edu/faculty
+Peter,Limbrick,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/LimbrickPeter.jpeg?itok=lKiuPrIT,UC Santa Cruz,https://film.ucsc.edu/faculty
+Irene,Lusztig,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/IL_headshot_0.JPG?itok=BU8hz8BW,UC Santa Cruz,https://film.ucsc.edu/faculty
+Soraya,Murray,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/SMurray2023small.jpg?itok=IHVwsH5Q,UC Santa Cruz,https://film.ucsc.edu/faculty
+Warren,Sack,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/9121chdelory-2015-683x1024.jpg?itok=AfniSwjC,UC Santa Cruz,https://film.ucsc.edu/faculty
+Celine,Shimizu,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/8-24-21-Celine%20Parren%CC%83as%20Shimizu-CL-022.jpg?itok=03o5fjm1,UC Santa Cruz,https://film.ucsc.edu/faculty
+Shelley,Stamp,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/IMG_2375.jpg?itok=LEfmTD5d,UC Santa Cruz,https://film.ucsc.edu/faculty
+Jennifer,Taylor,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Jennifer%20Maytorena%20Taylor.jpg?itok=j1gMHT2r,UC Santa Cruz,https://film.ucsc.edu/faculty
+Gustavo,Vazquez,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/gustavo_vazquez_bio.jpg?itok=pCf1jejO,UC Santa Cruz,https://film.ucsc.edu/faculty
+Yiman,Wang,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/yiman_wang_bio.jpg?itok=nNIJTD4b,UC Santa Cruz,https://film.ucsc.edu/faculty
+Elisabeth,Cameron,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/DSC_0063.jpg?itok=KDCc0uMb,UC Santa Cruz,https://havc.ucsc.edu/faculty
+Carolyn,Dean,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/CDean_Dec2016.jpg?itok=2xt2YBdU,UC Santa Cruz,https://havc.ucsc.edu/faculty
+Maria,Evangelatou,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/Maria%20Evangelatou%20portrait_0.jpg?itok=0b56f-Tg,UC Santa Cruz,https://havc.ucsc.edu/faculty
+Jennifer,González,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/Screen%20Shot%202021-05-04%20at%2011.56.45%20AM.png?itok=QhTPkMTA,UC Santa Cruz,https://havc.ucsc.edu/faculty
+Yi,Kyo,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/Kyo%20Profile%20Pic%202.jpg?itok=iXnyRLSQ,UC Santa Cruz,https://havc.ucsc.edu/faculty
+Boreth,Ly,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/BorethLyLP23_1.jpg?itok=F5fQSEet,UC Santa Cruz,https://havc.ucsc.edu/faculty
+Derek,Murray,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/IMG_3546.jpeg?itok=vpqbsUva,UC Santa Cruz,https://havc.ucsc.edu/faculty
+Albert,Narath,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/AlbertNarath.jpg?itok=Dk4AXsDW,UC Santa Cruz,https://havc.ucsc.edu/faculty
+Kyle,Parry,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/tumblr_oktwfyv9tM1qcvotqo1_1280.jpg?itok=Zwt2nwiO,UC Santa Cruz,https://havc.ucsc.edu/faculty
+Kailani,Polzak,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/IMG_8224%203.jpg?itok=v8dDiasw,UC Santa Cruz,https://havc.ucsc.edu/faculty
+Jay,Afrisando,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/20170909_JayAfrisando_photoCredit_KakiaGkoudina_event_convergenceMECA2016_4240x2832.JPG?itok=95R4vx9Q,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Amy,Beal,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Amy%20Beal.jpg?itok=jp36CQ4t,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Ben,Carson,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/BB47413B-5935-4C89-B577-0F54C5A3BEA7_1_201_a_0.jpeg?itok=Ezs8T5q7,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Nicol,Hammond,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Screen%20shot%202014-09-30%20at%2011.05.44%20AM.png?itok=5LCsLSPF,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Bruce,Kiesling,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/bruce%20headshot.png?itok=GIzowWiM,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Hi,Kim,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Hi%20Kyung%20%281%29edit_5.png?itok=QYIiuq3x,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Tanya,Merchant,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/unnamed_0.jpg?itok=7SxKs3u-,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Dard,Neuman,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Dard%20Neuman.JPG?itok=9iyi5msD,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Russell,Rodriguez,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Russell%20Rodriguez%20photo.jpg?itok=FVPx-gYk,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Matthew,Schumaker,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Screen%20Shot%202022-03-10%20at%205.05.51%20PM.png?itok=ETeJn1My,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Nina,Treadwell,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/nina3.png?itok=8LroKBnl,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+James,Williams,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/JGW_8.3.23_Pic_0.jpg?itok=rwNRzTid,UC Santa Cruz,https://music.ucsc.edu/people/faculty-list
+Michael,Chemers,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Chemers%203_0.jpg?itok=Ulp1-YU6,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+David,Cuthbert,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/cuthbert-headshot-crop.jpg?itok=OEPDFKPa,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Patty,Gallagher,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Screen%20Shot%202019-10-16%20at%201.47.49%20PM.png?itok=vx6CioAM,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Amy,Ginther,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/AMY-154_RT.jpg?itok=5QwG-i2f,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Sean,Keilen,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/unnamed.jpg?itok=wUzeVfk8,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Cynthia,Lee,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/cynthia_n5b4828_2.jpg?itok=IBt_ROhh,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Marina,Magalhães,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Marina%20Rosa-1021-Edit.jpg?itok=vRCFMHws,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Marcia,Ochoa,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/marcia_ochoa.jpg?itok=sG7vyyVS,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Pamela,Rodríguez-Montero,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Pamela_Rodriguez_Montero.jpeg?itok=p70K7SyQ,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+LisaMarie,Rollins,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/smaller%20LMR%20headshot%20%282%29_0.jpg?itok=RccqiGIm,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Susan,Solt,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Susan-solt.jpg?itok=Z3QlbIUo,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Edward,Warburton,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Arts_Divison_Retreat-8%20-%20Version%202.jpg?itok=IxWQPGuy,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Rebecca,Wear,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/nardeep-photo-for-minimizing.jpg?itok=9f15y8WT,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Marianne,Weems,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Marianne%20Weems_2.JPG?itok=nAmXe1Nh,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Don,Williams,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/unnamed.png?itok=_OVAjG5S,UC Santa Cruz,https://ppd.ucsc.edu/faculty
+Elizabeth,Abrams,https://humanities.ucsc.edu/cache/directory/esabrams.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Zsuzsanna,Abrams,https://humanities.ucsc.edu/cache/directory/zabrams1.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Rachel,Achs,https://humanities.ucsc.edu/cache/directory/rachs.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Judith,Aissen,https://humanities.ucsc.edu/cache/directory/aissen.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Jorge,Font,https://humanities.ucsc.edu/cache/directory/jaladro.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Jasmine,Alinder,https://humanities.ucsc.edu/cache/directory/jaalinde.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Mark,Amengual,https://humanities.ucsc.edu/cache/directory/amengual.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Maggie,Amis,https://humanities.ucsc.edu/cache/directory/mamis.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Pranav,Anand,https://humanities.ucsc.edu/cache/directory/panand.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Andrew,Angeles,https://humanities.ucsc.edu/cache/directory/aeangele.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+David,Anthony,https://humanities.ucsc.edu/cache/directory/danthony.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Bettina,Aptheker,https://humanities.ucsc.edu/cache/directory/bettinaf.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Sondra,Archimedes,https://humanities.ucsc.edu/cache/directory/sandyarc.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Anjali,Arondekar,https://humanities.ucsc.edu/cache/directory/aarondek.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Noriko,Aso,https://humanities.ucsc.edu/cache/directory/naso.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Sophia,Azeb,https://humanities.ucsc.edu/cache/directory/sazeb.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Lalitha,Balachandran,https://humanities.ucsc.edu/cache/directory/lbalacha.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Karen,Barad,https://humanities.ucsc.edu/cache/directory/kbarad.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Byron,Barahona,https://humanities.ucsc.edu/cache/directory/babaraho.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Banu,Bargu,https://humanities.ucsc.edu/cache/directory/bbargu.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Karen,Bassi,https://humanities.ucsc.edu/cache/directory/bassi.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Murray,Baumgarten,https://humanities.ucsc.edu/cache/directory/dickens.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Jonathan,Beecher,https://humanities.ucsc.edu/cache/directory/jbeecher.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Dorian,Bell,https://humanities.ucsc.edu/cache/directory/dbell1.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Ryan,Bennett,https://humanities.ucsc.edu/cache/directory/rbennett.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Jody,Biehl,https://humanities.ucsc.edu/cache/directory/jkbiehl.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Josefina,Bittar,https://humanities.ucsc.edu/cache/directory/jbittarp.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Hunter,Bivens,https://humanities.ucsc.edu/cache/directory/abivens.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Dev,Bose,https://humanities.ucsc.edu/cache/directory/bose.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Adrian,Brasoveanu,https://humanities.ucsc.edu/cache/directory/abrsvn.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Anthony,Breakspear,https://humanities.ucsc.edu/cache/directory/abreaksp.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Benjamin,Breen,https://humanities.ucsc.edu/cache/directory/bebreen.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Gail,Brenner,https://humanities.ucsc.edu/cache/directory/gbrenner.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+David,Brundage,https://humanities.ucsc.edu/cache/directory/brundage.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Victor,Burgin,https://humanities.ucsc.edu/cache/directory/burgin.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Edmund,Burke,https://humanities.ucsc.edu/cache/directory/eburke.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Renée,Cailloux,https://humanities.ucsc.edu/cache/directory/rcaillou.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Caren,Camblin,https://humanities.ucsc.edu/cache/directory/ccamblin.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Pedro,Castillo,https://humanities.ucsc.edu/cache/directory/pcastle.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Carolina,Castillo‑Trelles,https://humanities.ucsc.edu/cache/directory/ccastil2.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Shelly,Chan,https://humanities.ucsc.edu/cache/directory/spchan.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Kristina,Chew,https://humanities.ucsc.edu/cache/directory/kjchew.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Alan,Christy,https://humanities.ucsc.edu/cache/directory/achristy.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Sandra,Chung,https://humanities.ucsc.edu/cache/directory/schung.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Mark,Cioc,https://humanities.ucsc.edu/cache/directory/cioc.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+James,Clifford,https://humanities.ucsc.edu/cache/directory/jcliff.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Christopher,Connery,https://humanities.ucsc.edu/cache/directory/cconnery.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Vilashini,Cooppan,https://humanities.ucsc.edu/cache/directory/vcooppan.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Steve,Coulter,https://humanities.ucsc.edu/cache/directory/sjcoulte.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Michael,Cowan,https://humanities.ucsc.edu/cache/directory/mhcowan.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Shannon,Cummings,https://humanities.ucsc.edu/cache/directory/sjcummin.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Jack,Davies,https://humanities.ucsc.edu/cache/directory/jawdavie.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Angela,Davis,https://humanities.ucsc.edu/cache/directory/aydavis.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Teresa,Lauretis,https://humanities.ucsc.edu/cache/directory/tdl.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Grace,Delgado,https://humanities.ucsc.edu/cache/directory/gpdelgad.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Gina,Dent,https://humanities.ucsc.edu/cache/directory/ginadent.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Jennifer,Derr,https://humanities.ucsc.edu/cache/directory/jderr.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Nathaniel,Deutsch,https://humanities.ucsc.edu/cache/directory/ndeutsch.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Bryan,Donaldson,https://humanities.ucsc.edu/cache/directory/badonald.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Jessie,Dubreuil,https://humanities.ucsc.edu/cache/directory/jdubreui.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+María,Díaz,https://humanities.ucsc.edu/cache/directory/mediaz.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Dina,Dessouky,https://humanities.ucsc.edu/cache/directory/deldesso.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Jonathan,Ellis,https://humanities.ucsc.edu/cache/directory/jellis.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Stephen,Engel,https://humanities.ucsc.edu/cache/directory/sdengel.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Barbara,Epstein,https://humanities.ucsc.edu/cache/directory/bepstein.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Mehran,Esfandiari,https://humanities.ucsc.edu/cache/directory/mesfandi.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Donka,Farkas,https://humanities.ucsc.edu/cache/directory/farkas.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Javier,Agüera,https://humanities.ucsc.edu/cache/directory/jfernnde.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Tim,Fitzmaurice,https://humanities.ucsc.edu/cache/directory/timfitz.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Carolina,Flores,https://humanities.ucsc.edu/cache/directory/cflore47.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Renee,Fox,https://humanities.ucsc.edu/cache/directory/rafox.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Dana,Frank,https://humanities.ucsc.edu/cache/directory/dlfrank.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Carla,Freccero,https://humanities.ucsc.edu/cache/directory/freccero.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Sakae,Fujita,https://humanities.ucsc.edu/cache/directory/sakaefuj.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Lara,Galas,https://humanities.ucsc.edu/cache/directory/lgalas.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Mary‑Kay,Gamel,https://humanities.ucsc.edu/cache/directory/mkgamel.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Morgan,Gates,https://humanities.ucsc.edu/cache/directory/megates.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Filippo,Gianferrari,https://humanities.ucsc.edu/cache/directory/fgianfer.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Susan,Gillman,https://humanities.ucsc.edu/cache/directory/sgillman.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Mia,Gong,https://humanities.ucsc.edu/cache/directory/mgong9.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Maria,Pagani,https://humanities.ucsc.edu/cache/directory/vgpagani.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Kirsten,Gruesz,https://humanities.ucsc.edu/cache/directory/ksgruesz.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Daniel,Guevara,https://humanities.ucsc.edu/cache/directory/guevara.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Kathleen,Gutierrez,https://humanities.ucsc.edu/cache/directory/kgutie20.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Camilo,Gómez‑Rivas,https://humanities.ucsc.edu/cache/directory/cgomezri.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Lisbeth,Haas,https://humanities.ucsc.edu/cache/directory/lhaas.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Joy,Hagen,https://humanities.ucsc.edu/cache/directory/joyhagen.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Erica,Halk,https://humanities.ucsc.edu/cache/directory/elhalk.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Jorge,Hankamer,https://humanities.ucsc.edu/cache/directory/hank.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Abigail,Heald,https://humanities.ucsc.edu/cache/directory/aheald.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Alma,Heckman,https://humanities.ucsc.edu/cache/directory/aheckman.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Charles,Jr.,https://humanities.ucsc.edu/cache/directory/hedrick.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Kimberly,Helmer,https://humanities.ucsc.edu/cache/directory/khelmer.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Gail,Hershatter,https://humanities.ucsc.edu/cache/directory/gbhers.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Saori,Hoshi,https://humanities.ucsc.edu/cache/directory/shoshi.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+David,Hoy,https://humanities.ucsc.edu/cache/directory/hoy.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Minghui,Hu,https://humanities.ucsc.edu/cache/directory/mhu.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Akasha,Hull,https://humanities.ucsc.edu/cache/directory/akashah.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Junko,Ito,https://humanities.ucsc.edu/cache/directory/ito.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Daniel,Joesten,https://humanities.ucsc.edu/cache/directory/dmjoeste.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Catherine,Jones,https://humanities.ucsc.edu/cache/directory/catjones.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+John,Jordan,https://humanities.ucsc.edu/cache/directory/picasso.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Edward,Kehler,https://humanities.ucsc.edu/cache/directory/ekehler.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Caitlin,Keliiaa,https://humanities.ucsc.edu/cache/directory/ckeliiaa.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Peter,Kenez,https://humanities.ucsc.edu/cache/directory/kenez.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Robin,King,https://humanities.ucsc.edu/cache/directory/ryking.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Taylor,Kirsch,https://humanities.ucsc.edu/cache/directory/tkirsch.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Norma,Klahn,https://humanities.ucsc.edu/cache/directory/nklahn.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Lindsay,Knisely,https://humanities.ucsc.edu/cache/directory/lknisely.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Amy,Krauss,https://humanities.ucsc.edu/cache/directory/amkrauss.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Anne,Kreps,https://humanities.ucsc.edu/cache/directory/akreps.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+William,Ladusaw,https://humanities.ucsc.edu/cache/directory/ladusaw.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Stephanie,Lain,https://humanities.ucsc.edu/cache/directory/slain.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Melissa,Sanders‑Self,https://humanities.ucsc.edu/cache/directory/msanders.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Felicity,Schaeffer,https://humanities.ucsc.edu/cache/directory/fsg.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Max,Schmeder,https://humanities.ucsc.edu/cache/directory/mschmede.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Andrea,Seeger,https://humanities.ucsc.edu/cache/directory/anseeger.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Daniel,Selden,https://humanities.ucsc.edu/cache/directory/dselden.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Juned,Shaikh,https://humanities.ucsc.edu/cache/directory/jmshaikh.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Kriti,Sharma,https://humanities.ucsc.edu/cache/directory/ksharm35.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Matt,Wagers,https://humanities.ucsc.edu/cache/directory/mwagers.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Rachel,Walker,https://humanities.ucsc.edu/cache/directory/rwalker3.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Susan,Watrous,https://humanities.ucsc.edu/cache/directory/swatrous.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Marilyn,Westerkamp,https://humanities.ucsc.edu/cache/directory/mjw.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+James,Wilson,https://humanities.ucsc.edu/cache/directory/jawilson.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Rob,Wilson,https://humanities.ucsc.edu/cache/directory/rwilson.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Ronaldo,Wilson,https://humanities.ucsc.edu/cache/directory/rvwilson.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Rasmus,Winther,https://humanities.ucsc.edu/cache/directory/rgw.jpg,UC Santa Cruz,https://humanities.ucsc.edu/academics/faculty/index.php
+Dolly,Kikon,https://anthro.ucsc.edu/cache/directory/dkikon.jpg,UC Santa Cruz,https://anthro.ucsc.edu/faculty/index.php
+Annie,Roeser,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/AnnieRoeser-%20resized.jpg?h=964630c6&itok=AZ0RquBN,University of California - Davis
+Jason,Bond,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Jason.png?h=854f7174&itok=2Xzf2spy,University of California - Davis
+Helene,Dillard,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Helene-Dillard.png?h=223bf7c1&itok=L7oVB5Oh,University of California - Davis
+Susan,Ebeler,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Sue.png?h=520b52a5&itok=vnK3dLyG,University of California - Davis
+Penny,Herbert,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/images/person/d4523292-f4d2-4c48-b4b1-9410975cf3f7.jpeg?h=589f4bad&itok=KefMyNUJ,University of California - Davis
+Marcel,Holyoak,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Marcel.png?h=228ada39&itok=2jYYbFpo,University of California - Davis
+Ermias,Kebreab,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/A5-Ermias-UCD.png?h=b75f3d6a&itok=mDf_8XDM,University of California - Davis
+Brian,McEligot,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/BrianMcEligot-00842.png?h=92607b26&itok=iqkE5A2X,University of California - Davis
+Anita,Oberbauer,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Anita.png?h=b2356cde&itok=RMnfmhkA,University of California - Davis
+Patsy,Owens,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Patsy.png?h=5cb565c3&itok=QmzrKoG6,University of California - Davis
+Ronald,Tjeerdema,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/images/person/rtjeerma.png?h=41f8cf6d&itok=Jpei02m-,University of California - Davis
+Steffen,Abel,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Douglas,Adams,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Thomas,Adams,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Husein,Ajwa,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Lindsay,Allen,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Lindsay_Allen.jpeg?h=345be249&itok=JOkJYDEy,University of California - Davis
+Julian,Alston,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/images/person/alston_julian.jpg__175x210_q85_crop_subject_location-621%2C879_subsampling-2_upscale.jpg?h=24111c55&itok=KXM7BQDa,University of California - Davis
+D,Anderson,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Gary,Anderson,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Liz,Applegate,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Stanley,Artz,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Robert,Ashmore,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Charles,Bamforth,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Everett,Bandman,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Michael,Barbour,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Marylynn,Barkley,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Diane,Barrett,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Keith,Barton,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Paul,Baumann,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+David,Bayer,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Jay,Belsky,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Jay_Belsky.jpg?h=88e22dcc&itok=I0vnlGYh,University of California - Davis
+Alison,Berry,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Steven,Berry,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Richard,Berteaux,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Linda,Bisson,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Steven,Blank,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Caroline,Bledsoe,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Fredrick,Bliss,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+James,Boda,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Louis,Botsford,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Roger,Boulton,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Kent,Bradford,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Francine,Bradley,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+R,Breidenbach,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Kenneth,Brown,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+George,Bruening,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Christine,Bruhn,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+John,Bruhn,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Steve,Brush,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Ivan,Buddenhagen,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+David,Burger,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Frances,Butler,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Chris,Calvert,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+David,Campbell,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/images/person/dcampbell.png?h=41f8cf6d&itok=uu3d0_bt,University of California - Davis
+Marita,Cantwell,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Hoy,Carman,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Tim,Caro,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+J,Carroll,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Paul,Castelfranco,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Edward,Caswell-Chen,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+J,Cech,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+James,Chalfant,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Leo,Chalupa,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Ernest,Chang,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Pictiaw,Chen,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Gary,Cherr,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Jim,Clawson,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+James,Clegg,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Andrew,Clifford,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Katherine,Conger,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Rand,Conger,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Douglas,Conklin,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Roberta,Cook,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Howard,Cornell,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Arthur,Craigmill,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Peter,Cranston,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+D,Crosby,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+John,Crowe,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Randy,Dahlgren,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Michael,Dahmus,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Mike,Davis,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Paul,Davis,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Theodore,DeJong,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Deborah,Delmer,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Michael,Delwiche,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Montague,Demment,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Michael,Denison,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+R,Denison,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+C,Dewees,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Kathryn,Dewey,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Hugh,Dingle,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Joseph,DiTomaso,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+S,Doroshov,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+John,Dunbar,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+John,Duniway,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Don,Durzan,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+John,Edman,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Bruce,Eldridge,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Deborah,Elliott-Fisk,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Clyde,Elmore,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+E,Epstein,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Lynn,Epstein,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Don,Erman,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Nancy,Erman,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Ralph,Ernst,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Richard,Evans,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Thomas,Famula,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Yeganeh,Farzin,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Howard,Ferris,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Albert,Fischer,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+E,Fitzhugh,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Mary,Flint,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Robert,Flocchini,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Theodore,Foin,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Mark,Francis,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Graham,Gall,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Roger,Garrett,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Norman,Gary,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Melvin,George,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+David,Gilchrist,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+D.,Giles,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+David,Goldhamer,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Charles,Goldman,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Mari,Golub,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Thomas,Gordon,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+John,Goss,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Sham,Goyal,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Jeffrey,Granett,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Stephen,Grattan,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Richard,Green,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Mrc,Greenwood,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+James,Grieshop,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+A,Grigarick,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Donald,Grimes,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Louis,Grivetti,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Penelope,Gullan,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Blaine,Hanson,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Shermain,Hardesty,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+James,Harding,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Larry,Harper,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Bruce,Hartsough,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Timothy,Hartz,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Alan,Hastings,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Arthur,Havenner,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Jerry,Hedrick,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+James,Hill,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/images/person/Jim%202.jpg?h=345be249&itok=M_X7XXdf,University of California - Davis
+David,Hills,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Frank,Hirtz,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Jan,Hopmans,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/images/person/jhopmans.png?h=41f8cf6d&itok=6re-QFAd,University of California - Davis
+John,Horowitz,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Richard,Howitt,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+T,Hsiao,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Nancy,Hudson,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+R,Huffaker,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Theodore,Hullar,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Silas,Hung,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+J,Ingraham,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Keith,Ito,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+John,Ives,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Leland,Jackson,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Louise,Jackson,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Bruce,Jaffee,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Subodh,Jain,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Lovell,Jarvis,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Alan,Jassby,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+S,Jett,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+R,Johnson,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Robert,Johnston,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Warren,Johnston,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Milton,Jones,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Amy,Joy,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Clarence,Kado,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Lucia,Kaiser,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Harry,Kaya,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Gurdev,Khush,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+John,Kiger,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Nicelma,King,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Walter,Kliewer,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+John,Krochta,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+J,Labavitch,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Gyongy,Laky,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Wayne,Lanini,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Eric,Larsen,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Douglas,Larson,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Yu-Bang,Lee,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Edwin,Lewis,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Michael,Lewis,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Samuel,Logan,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Bo,Lonnerdal,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+E,Maccannell,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+James,MacDonald,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Douglas,Mackay,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Jarue,Manning,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Vern,Marble,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+George,Martin,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Philip,Martin,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Heath,Massey,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Mark,Matthews,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Bernard,May,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Alex,McCalla,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/inline-images/profiletemplate.png?h=2a479378&itok=jXups6pM,University of California - Davis
+Jon,Lawrence,https://faculty.uci.edu/get_image?facultyId=4845,UCI
+Joshua,Mauney,https://faculty.uci.edu/get_image?facultyId=6929,UCI
+Krzysztof,Palczewski,https://faculty.uci.edu/get_image?facultyId=6503,UCI
+Katherine,Faust,https://faculty.uci.edu/get_image?facultyId=4660,UCI
+Lawrence,Marsh,https://faculty.uci.edu/get_image?facultyId=2721,UCI
+William,Evans,https://faculty.uci.edu/get_image?facultyId=2024,UCI
+Michael,Choi,https://faculty.uci.edu/get_image?facultyId=6543,UCI
+Alicia,Carroll,https://faculty.uci.edu/get_image?facultyId=6297,UCI
+Brian,Paegel,https://faculty.uci.edu/get_image?facultyId=6625,UCI
+John,Gamber,https://faculty.uci.edu/get_image?facultyId=7054,UCI
+Andrej,Luptak,https://faculty.uci.edu/get_image?facultyId=5448,UCI
+Wirachin,Hoonpongsimanont,https://faculty.uci.edu/get_image?facultyId=5876,UCI
+Andromache,Karanika,https://faculty.uci.edu/get_image?facultyId=5370,UCI
+James,McGaugh,https://faculty.uci.edu/get_image?facultyId=2140,UCI
+Madeline,Kozlowski,https://faculty.uci.edu/get_image?facultyId=4731,UCI
+Renee,Link,https://faculty.uci.edu/get_image?facultyId=6513,UCI
+Michael,Hooker,https://faculty.uci.edu/get_image?facultyId=5702,UCI
+Paul,Hanselman,https://faculty.uci.edu/get_image?facultyId=6495,UCI
+Ramesh,Jain,https://faculty.uci.edu/get_image?facultyId=5477,UCI
+Cecelia,Lynch,https://faculty.uci.edu/get_image?facultyId=4537,UCI
+Cholsoon,Jang,https://faculty.uci.edu/get_image?facultyId=6755,UCI
+Thomas,Burke,https://faculty.uci.edu/get_image?facultyId=7067,UCI
+Abel,Klein,https://faculty.uci.edu/get_image?facultyId=2060,UCI
+James,Chiampi,https://faculty.uci.edu/get_image?facultyId=2826,UCI
+Lonnie,Alcaraz,https://faculty.uci.edu/get_image?facultyId=4728,UCI
+Ashley,Broussard,https://faculty.uci.edu/get_image?facultyId=6860,UCI
+Timothy,Kern,https://faculty.uci.edu/get_image?facultyId=6514,UCI
+Shlomit,Aizik,https://faculty.uci.edu/get_image?facultyId=7040,UCI
+Lan,Huang,https://faculty.uci.edu/get_image?facultyId=5268,UCI
+Jaya,Dubey,https://faculty.uci.edu/get_image?facultyId=6607,UCI
+Rachel,O'Toole,https://faculty.uci.edu/get_image?facultyId=5358,UCI
+James,McMichael,https://faculty.uci.edu/get_image?facultyId=2793,UCI
+Robin,Bush,https://faculty.uci.edu/get_image?facultyId=2718,UCI
+Wen-Hwa,Lee,https://faculty.uci.edu/get_image?facultyId=5007,UCI
+Rodrigo,Lazo,https://faculty.uci.edu/get_image?facultyId=5139,UCI
+Ira,Lott,https://faculty.uci.edu/get_image?facultyId=3119,UCI
+Timothy,Bradley,https://faculty.uci.edu/get_image?facultyId=2131,UCI
+Lora,Mjolsness,https://faculty.uci.edu/get_image?facultyId=5239,UCI
+Joseph,Arditti,https://faculty.uci.edu/get_image?facultyId=2136,UCI
+Margot,Norris,https://faculty.uci.edu/get_image?facultyId=2814,UCI
+Kevan,Aguilar,https://faculty.uci.edu/get_image?facultyId=7094,UCI
+David,Dooley,https://faculty.uci.edu/get_image?facultyId=2297,UCI
+Bernard,Grofman,https://faculty.uci.edu/get_image?facultyId=2564,UCI
+Olivier,Civelli,https://faculty.uci.edu/get_image?facultyId=3277,UCI
+Grant,MacGregor,https://faculty.uci.edu/get_image?facultyId=5269,UCI
+Dan,Mercola,https://faculty.uci.edu/get_image?facultyId=6389,UCI
+Khanh-Van,Le-Bucklin,https://faculty.uci.edu/get_image?facultyId=5756,UCI
+Kristen,Hatch,https://faculty.uci.edu/get_image?facultyId=5440,UCI
+Glenn,Levine,https://faculty.uci.edu/get_image?facultyId=4808,UCI
+Ioan,Andricioaei,https://faculty.uci.edu/get_image?facultyId=5491,UCI
+Christopher,Halbrook,https://faculty.uci.edu/get_image?facultyId=6824,UCI
+Bharath,Chakravarthy,https://faculty.uci.edu/get_image?facultyId=5752,UCI
+David,Brant,https://faculty.uci.edu/get_image?facultyId=2095,UCI
+Wendy,Cozen,https://faculty.uci.edu/get_image?facultyId=6962,UCI
+David,Mobley,https://faculty.uci.edu/get_image?facultyId=5908,UCI
+Joseph,Lambert,https://faculty.uci.edu/get_image?facultyId=3316,UCI
+Virginia,Jackson,https://faculty.uci.edu/get_image?facultyId=5852,UCI
+Selma,Masri,https://faculty.uci.edu/get_image?facultyId=6387,UCI
+Naomi,Morrissette,https://faculty.uci.edu/get_image?facultyId=5080,UCI
+Simona,Murgia,https://faculty.uci.edu/get_image?facultyId=6172,UCI
+Kailen,Mooney,https://faculty.uci.edu/get_image?facultyId=5484,UCI
+Francesco,Marangoni,https://faculty.uci.edu/get_image?facultyId=6619,UCI
+Gary,Chanan,https://faculty.uci.edu/get_image?facultyId=2074,UCI
+Bogi,Andersen,https://faculty.uci.edu/get_image?facultyId=4704,UCI
+Alice,Fahs,https://faculty.uci.edu/get_image?facultyId=2330,UCI
+Yong,Chen,https://faculty.uci.edu/get_image?facultyId=2183,UCI
+Lily,Chen,https://faculty.uci.edu/get_image?facultyId=6247,UCI
+June,Ahn,https://faculty.uci.edu/get_image?facultyId=6455,UCI
+James,Danziger,https://faculty.uci.edu/get_image?facultyId=2600,UCI
+Lisa,Flanagan,https://faculty.uci.edu/get_image?facultyId=5320,UCI
+John,Guzowski,https://faculty.uci.edu/get_image?facultyId=5318,UCI
+Reginald,Penner,https://faculty.uci.edu/get_image?facultyId=2040,UCI
+James,Nowick,https://faculty.uci.edu/get_image?facultyId=2043,UCI
+Thay,Lee,https://faculty.uci.edu/get_image?facultyId=4762,UCI
+Claire,Kim,https://faculty.uci.edu/get_image?facultyId=2453,UCI
+Rongsheng,Jin,https://faculty.uci.edu/get_image?facultyId=5958,UCI
+Kyung,Kim,https://faculty.uci.edu/get_image?facultyId=3315,UCI
+Elizabeth,Chao,https://faculty.uci.edu/get_image?facultyId=5949,UCI
+Franklin,Dollar,https://faculty.uci.edu/get_image?facultyId=6158,UCI
+Alexander,Chernyshev,https://faculty.uci.edu/get_image?facultyId=4972,UCI
+Todd,Holmes,https://faculty.uci.edu/get_image?facultyId=5481,UCI
+Hyung,Choi,https://faculty.uci.edu/get_image?facultyId=7075,UCI
+Munjal,Acharya,https://faculty.uci.edu/get_image?facultyId=7045,UCI
+John,Miles,https://faculty.uci.edu/get_image?facultyId=5508,UCI
+Shadi,Lahham,https://faculty.uci.edu/get_image?facultyId=6136,UCI
+Juan,Hong,https://faculty.uci.edu/get_image?facultyId=2355,UCI
+Mohammad,Helmy,https://faculty.uci.edu/get_image?facultyId=5647,UCI
+John,Billimek,https://faculty.uci.edu/get_image?facultyId=5751,UCI
+Kenneth,Janda,https://faculty.uci.edu/get_image?facultyId=2048,UCI
+Joseph,McKenna,https://faculty.uci.edu/get_image?facultyId=5829,UCI
+Kim,Lu,https://faculty.uci.edu/get_image?facultyId=6417,UCI
+Sarah,Kimball,https://faculty.uci.edu/get_image?facultyId=7011,UCI
+Michelle,Latiolais,https://faculty.uci.edu/get_image?facultyId=3306,UCI
+Kwang,Jung,https://faculty.uci.edu/get_image?facultyId=5617,UCI
+Scott,Goodwin,https://faculty.uci.edu/get_image?facultyId=5679,UCI
+Karen,Katrivesis,https://faculty.uci.edu/get_image?facultyId=6872,UCI
+Joan,Campbell,https://faculty.uci.edu/get_image?facultyId=5657,UCI
+William,Molzon,https://faculty.uci.edu/get_image?facultyId=2062,UCI
+Karen,Noblett,https://faculty.uci.edu/get_image?facultyId=5410,UCI
+Peter,Atsatt,https://faculty.uci.edu/get_image?facultyId=3048,UCI
+Ana,Vedrenne,https://faculty.uci.edu/get_image?facultyId=7089,UCI
+Jeanett,Castellanos,https://faculty.uci.edu/get_image?facultyId=6386,UCI
+David,Floriolli,https://faculty.uci.edu/get_image?facultyId=6087,UCI
+Albert,Bennett,https://faculty.uci.edu/get_image?facultyId=4546,UCI
+Meredith,Lee,https://faculty.uci.edu/get_image?facultyId=2783,UCI
+Sohail,Daulatzai,https://faculty.uci.edu/get_image?facultyId=5300,UCI
+Frances,Contreras,https://faculty.uci.edu/get_image?facultyId=7160,UCI
+Roger,McWilliams,https://faculty.uci.edu/get_image?facultyId=2735,UCI
+Dongbao,Chen,https://faculty.uci.edu/get_image?facultyId=5879,UCI
+Megan,Peters,https://faculty.uci.edu/get_image?facultyId=6594,UCI
+Roozbeh,Houshyar,https://faculty.uci.edu/get_image?facultyId=6559,UCI
+Gary,Lynch,https://faculty.uci.edu/get_image?facultyId=2658,UCI
+Dawn,Bounds,https://faculty.uci.edu/get_image?facultyId=6813,UCI
+Magda,Zarki,https://faculty.uci.edu/get_image?facultyId=4520,UCI
+Tibor,Juhasz,https://faculty.uci.edu/get_image?facultyId=7004,UCI
+Elana,Craemer,https://faculty.uci.edu/get_image?facultyId=6220,UCI
+Grace,Lee,https://faculty.uci.edu/get_image?facultyId=6592,UCI
+Michael,Burns,https://faculty.uci.edu/get_image?facultyId=2891,UCI
+George,Miller,https://faculty.uci.edu/get_image?facultyId=2037,UCI
+Monica,Daley,https://faculty.uci.edu/get_image?facultyId=6595,UCI
+Sarah,Campbell,https://faculty.uci.edu/get_image?facultyId=6399,UCI
+Robert,Doedens,https://faculty.uci.edu/get_image?facultyId=2030,UCI
+Kevork,Abazajian,https://faculty.uci.edu/get_image?facultyId=5856,UCI
+Riley,Newman,https://faculty.uci.edu/get_image?facultyId=2045,UCI
+Nahum,Chandler,https://faculty.uci.edu/get_image?facultyId=5965,UCI
+Margaret,Murata,https://faculty.uci.edu/get_image?facultyId=2659,UCI
+Jonathan,Lakey,https://faculty.uci.edu/get_image?facultyId=5626,UCI
+Virginia,Kimonis,https://faculty.uci.edu/get_image?facultyId=5799,UCI
+Young,Kim,https://faculty.uci.edu/get_image?facultyId=6305,UCI
+Lubomir,Bic,https://faculty.uci.edu/get_image?facultyId=2106,UCI
+Elizabeth,Chrastil,https://faculty.uci.edu/get_image?facultyId=6620,UCI
+Erik,Kongshaug,https://faculty.uci.edu/get_image?facultyId=6648,UCI
+Erika,Hayasaki,https://faculty.uci.edu/get_image?facultyId=5640,UCI
+Jonathan,Feng,https://faculty.uci.edu/get_image?facultyId=4843,UCI
+Tatiana,Kain,https://faculty.uci.edu/get_image?facultyId=5658,UCI
+Brandy,Gatlin-Nash,https://faculty.uci.edu/get_image?facultyId=6342,UCI
+Vinayak,Chaturvedi,https://faculty.uci.edu/get_image?facultyId=5381,UCI
+Young,Kwon,https://faculty.uci.edu/get_image?facultyId=5498,UCI
+Philip,Kiser,https://faculty.uci.edu/get_image?facultyId=6487,UCI
+John,Fox,https://faculty.uci.edu/get_image?facultyId=5770,UCI
+Janice,Plastino,https://faculty.uci.edu/get_image?facultyId=2707,UCI
+John,Middlebrooks,https://faculty.uci.edu/get_image?facultyId=5645,UCI
+Ross,Conner,https://faculty.uci.edu/get_image?facultyId=2500,UCI
+Mei,Kong,https://faculty.uci.edu/get_image?facultyId=6423,UCI
+Sara,Goodman,https://faculty.uci.edu/get_image?facultyId=5644,UCI
+Sarah,Finkeldei,https://faculty.uci.edu/get_image?facultyId=6600,UCI
+Richard,Kelly,https://faculty.uci.edu/get_image?facultyId=6037,UCI
+Rudi,Berkelhamer,https://faculty.uci.edu/get_image?facultyId=2681,UCI
+Jianming,Bian,https://faculty.uci.edu/get_image?facultyId=6239,UCI
+Cornelia,Pechmann,https://faculty.uci.edu/get_image?facultyId=2836,UCI
+Pamela,Flodman,https://faculty.uci.edu/get_image?facultyId=4613,UCI
+Wei,Li,https://faculty.uci.edu/get_image?facultyId=6687,UCI
+Richard,Arum,https://faculty.uci.edu/get_image?facultyId=6235,UCI
+Eliezer,Nussbaum,https://faculty.uci.edu/get_image?facultyId=3158,UCI
+Yilin,Hu,https://faculty.uci.edu/get_image?facultyId=6020,UCI
+Yuqing,Guo,https://faculty.uci.edu/get_image?facultyId=5928,UCI
+Herbert,Hamber,https://faculty.uci.edu/get_image?facultyId=2016,UCI
+Mary,Corey,https://faculty.uci.edu/get_image?facultyId=2637,UCI
+Dan,Hirschberg,https://faculty.uci.edu/get_image?facultyId=2339,UCI
+Emily,Brauer,https://faculty.uci.edu/get_image?facultyId=6602,UCI
+Kavita,Arora,https://faculty.uci.edu/get_image?facultyId=2684,UCI
+Giovanna,Fogli,https://faculty.uci.edu/get_image?facultyId=7214,UCI
+Anna,Boncompagni,https://faculty.uci.edu/get_image?facultyId=6596,UCI
+Michael,Fried,https://faculty.uci.edu/get_image?facultyId=2019,UCI
+Richard,Campbell,https://faculty.uci.edu/get_image?facultyId=2123,UCI
+Donald,Forthal,https://faculty.uci.edu/get_image?facultyId=2934,UCI
+Daniel,Gross,https://faculty.uci.edu/get_image?facultyId=5468,UCI
+Eyal,Amiran,https://faculty.uci.edu/get_image?facultyId=5303,UCI
+Jeffrey,Milliken,https://faculty.uci.edu/get_image?facultyId=3328,UCI
+Donald,Brown,https://faculty.uci.edu/get_image?facultyId=5663,UCI
+Jefferson,Moore,https://faculty.uci.edu/get_image?facultyId=4974,UCI
+Carrie,Noland,https://faculty.uci.edu/get_image?facultyId=2770,UCI
+Baruch,Kuppermann,https://faculty.uci.edu/get_image?facultyId=2230,UCI
+Anand,Ganesan,https://faculty.uci.edu/get_image?facultyId=5705,UCI
+Gregory,McClure,https://faculty.uci.edu/get_image?facultyId=6608,UCI
+Peter,Li,https://faculty.uci.edu/get_image?facultyId=2058,UCI
+Alberto,Manetta,https://faculty.uci.edu/get_image?facultyId=3077,UCI
+Hu,Ying,https://faculty.uci.edu/get_image?facultyId=3313,UCI
+George,Harvey,https://faculty.uci.edu/get_image?facultyId=4729,UCI
+Mehrdad,Jalili,https://faculty.uci.edu/get_image?facultyId=2837,UCI
+Herschel,Farbman,https://faculty.uci.edu/get_image?facultyId=5579,UCI
+Diane,Campbell,https://faculty.uci.edu/get_image?facultyId=2124,UCI
+Zina,Giannopoulou,https://faculty.uci.edu/get_image?facultyId=5262,UCI
+Newton,Margulies,https://faculty.uci.edu/get_image?facultyId=5041,UCI
+Benjamin,Colby,https://faculty.uci.edu/get_image?facultyId=2607,UCI
+Arcelia,Gutierrez,https://faculty.uci.edu/get_image?facultyId=6977,UCI
+Fred,Greensite,https://faculty.uci.edu/get_image?facultyId=3037,UCI
+Pavan,Kadandale,https://faculty.uci.edu/get_image?facultyId=5925,UCI
+Diane,O'Dowd,https://faculty.uci.edu/get_image?facultyId=2702,UCI
+Mark,Langdorf,https://faculty.uci.edu/get_image?facultyId=3107,UCI
+Andrew,Lankford,https://faculty.uci.edu/get_image?facultyId=2059,UCI
+Shirley,Li,https://faculty.uci.edu/get_image?facultyId=7192,UCI
+Bryce,Mander,https://faculty.uci.edu/get_image?facultyId=6367,UCI
+Carl,Cotman,https://faculty.uci.edu/get_image?facultyId=2273,UCI
+Rebeca,Helfer,https://faculty.uci.edu/get_image?facultyId=5133,UCI
+Suzanne,Blum,https://faculty.uci.edu/get_image?facultyId=5378,UCI
+Stuart,Kleinfelder,https://faculty.uci.edu/get_image?facultyId=4676,UCI
+Laura,Mitchell,https://faculty.uci.edu/get_image?facultyId=5035,UCI
+Gopi,Meenakshisundaram,https://faculty.uci.edu/get_image?facultyId=4684,UCI
+David,Meyer,https://faculty.uci.edu/get_image?facultyId=4654,UCI

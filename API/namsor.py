@@ -37,9 +37,9 @@ def namsorPredict(name):
 
     data = response.text
 
-  
-  
+   
     parsed_data = json.loads(data)
+
 
 
 
