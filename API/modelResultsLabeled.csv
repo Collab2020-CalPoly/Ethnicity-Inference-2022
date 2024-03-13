@@ -1,0 +1,402 @@
+﻿First Name,Last Name,Face,Name,Prediction,Image,School,Actual
+Pieter,Abbeel,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/abbeel.jpg,UC Berkeley,White
+Elad,Alon,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/elad.jpg,UC Berkeley,White
+Venkat,Anantharam,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/anantharam.jpg,UC Berkeley,Asian
+Gopala,Anumanchipalli,White,Asian,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gopala.jpg,UC Berkeley,Asian
+Murat,Arcak,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/arcak.jpg,UC Berkeley,White
+Ana,Arias,White,Other,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/acarias.jpg,UC Berkeley,White
+Krste,AsanoviÄ‡,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/asanovic.jpg,UC Berkeley,White
+David,Attwood,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/attwood.jpg,UC Berkeley,White
+Babak,Ayazifar,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ayazifar.jpg,UC Berkeley,Asian
+Ruzena,Bajcsy,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/bajcsy.jpg,UC Berkeley,White
+Michael,Ball,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mball.jpg,UC Berkeley,White
+David,Bamman,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/dbamman.jpg,UC Berkeley,White
+Brian,Barsky,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/barsky.jpg,UC Berkeley,White
+Peter,Bartlett,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/bartlett.jpg,UC Berkeley,White
+Jeffrey,Bokor,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/bokor.jpg,UC Berkeley,Other
+Jessica,Boles,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/boles.jpg,UC Berkeley,White
+Christian,Borgs,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/borgs.jpg,UC Berkeley,White
+Bernhard,Boser,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/boser.jpg,UC Berkeley,White
+Robert,Brayton,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/brayton.jpg,UC Berkeley,White
+Eric,Brewer,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/brewer.jpg,UC Berkeley,White
+Thomas,Budinger,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/budinger.jpg,UC Berkeley,White
+Aydin,BuluÃ§,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/aydin.jpg,UC Berkeley,Other
+Duncan,Callaway,White,Black,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/dcal.jpg,UC Berkeley,White
+John,Canny,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/canny.jpg,UC Berkeley,White
+Yuan,Cao,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/caoyuan.jpg,UC Berkeley,Asian
+Jose,Carmena,White,Other,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/carmena.jpg,UC Berkeley,Other
+Constance,Chang-Hasnain,Asian,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/chang-hasnain.jpg,UC Berkeley,Asian
+Sarah,Chasins,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/schasins.jpg,UC Berkeley,White
+Jennifer,Chayes,Asian,Other,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jchayes.jpg,UC Berkeley,Other
+Irene,Chen,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/iychen.jpg,UC Berkeley,Asian
+Alvin,Cheung,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/akcheung.jpg,UC Berkeley,Asian
+Jun-Chau,Chien,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jcchien.jpg,UC Berkeley,Asian
+Alessandro,Chiesa,White,Other,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/alexch.jpg,UC Berkeley,White
+Leon,Chua,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/chua.jpg,UC Berkeley,Asian
+John,Chuang,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/chuang.jpg,UC Berkeley,Asian
+Michael,Clancy,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/clancy.jpg,UC Berkeley,White
+Phillip,Colella,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/colella.jpg,UC Berkeley,White
+Steven,Conolly,Black,White,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sconolly.jpg,UC Berkeley,White
+Thomas,Courtade,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/courtade.jpg,UC Berkeley,White
+Natacha,Crooks,White,Black,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ncrooks.jpg,UC Berkeley,White
+David,Culler,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/culler.jpg,UC Berkeley,White
+Trevor,Darrell,White,Black,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/darrell.jpg,UC Berkeley,White
+James,Demmel,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/demmel.jpg,UC Berkeley,White
+John,DeNero,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/denero.jpg,UC Berkeley,White
+Anca,Dragan,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/anca.jpg,UC Berkeley,White
+Prabal,Dutta,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/prabal.jpg,UC Berkeley,Asian
+Alexei,Efros,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/efros.jpg,UC Berkeley,White
+Laurent,Ghaoui,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/elghaoui.jpg,UC Berkeley,White
+Hany,Farid,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hfarid.jpg,UC Berkeley,Other
+Richard,Fateman,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/fateman.jpg,UC Berkeley,White
+Ronald,Fearing,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/fearing.jpg,UC Berkeley,White
+Jerome,Feldman,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/feldman.jpg,UC Berkeley,White
+Domenico,Ferrari,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ferrari.jpg,UC Berkeley,Other
+Christopher,Fletcher,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/cwfletcher.jpg,UC Berkeley,White
+Armando,Fox,Asian,Other,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/fox.jpg,UC Berkeley,Other
+Gerald,Friedland,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/friedland.jpg,UC Berkeley,White
+Robert,Full,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rjfull.jpg,UC Berkeley,White
+Jack,Gallant,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gallant.jpg,UC Berkeley,White
+Dan,Garcia,White,Other,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/garcia.jpg,UC Berkeley,Other
+Sanjam,Garg,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sanjam.jpg,UC Berkeley,Asian
+Ali,Ghodsi,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/aligh.jpg,UC Berkeley,Other
+Ken,Goldberg,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/goldberg.jpg,UC Berkeley,White
+Shafi,Goldwasser,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/goldwasser.jpg,UC Berkeley,White
+Joseph,Gonzalez,Asian,Other,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jegonzal.jpg,UC Berkeley,Other
+Susan,Graham,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/graham-s.jpg,UC Berkeley,White
+Paul,Gray,Asian,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gray.jpg,UC Berkeley,White
+Venkatesan,Guruswami,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/venkatg.jpg,UC Berkeley,Asian
+T.,Gustafson,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gustafson.jpg,UC Berkeley,White
+Nika,Haghtalab,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nika.jpg,UC Berkeley,Asian
+Moritz,Hardt,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mhardt.jpg,UC Berkeley,White
+Michael,Harrison,Asian,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/harrison.jpg,UC Berkeley,White
+BjÃ¶rn,Hartmann,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hartmann.jpg,UC Berkeley,White
+Brian,Harvey,White,Black,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/harvey.jpg,UC Berkeley,White
+Marti,Hearst,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hearst.jpg,UC Berkeley,White
+Joseph,Hellerstein,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hellerstein.jpg,UC Berkeley,White
+Paul,Hilfinger,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hilfinger.jpg,UC Berkeley,White
+Chenming,Hu,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/hu.jpg,UC Berkeley,Asian
+Joshua,Hug,Black,White,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/joshhug.jpg,UC Berkeley,White
+Christopher,Hunn,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/cthunn.jpg,UC Berkeley,White
+Nilah,Ioannidis,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nilah.jpg,UC Berkeley,White
+Lakshya,Jain,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lakshyajain.jpg,UC Berkeley,Asian
+Ali,Javey,Black,Asian,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/javey.jpg,UC Berkeley,Asian
+Jiantao,Jiao,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jiantao.jpg,UC Berkeley,Asian
+Michael,Jordan,Asian,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jordan.jpg,UC Berkeley,White
+Anthony,Joseph,Asian,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/joseph.jpg,UC Berkeley,Black
+William,Kahan,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/kahan.jpg,UC Berkeley,White
+Angjoo,Kanazawa,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/kanazawa.jpg,UC Berkeley,Asian
+Boubacar,Kanté,Black,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/bkante.jpg,UC Berkeley,Black
+Richard,Karp,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/karp.jpg,UC Berkeley,White
+Randy,Katz,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/katz.jpg,UC Berkeley,White
+Kurt,Keutzer,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/keutzer.jpg,UC Berkeley,White
+Preeya,Khanna,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/pkhanna.jpg,UC Berkeley,Asian
+Tsu-Jae,Liu,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/king.jpg,UC Berkeley,Asian
+Daniel,Klein,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/klein.jpg,UC Berkeley,White
+John,Kubiatowicz,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/kubiatowicz.jpg,UC Berkeley,White
+Kam,Lau,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lau.jpg,UC Berkeley,Asian
+Edward,Lee,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lee.jpg,UC Berkeley,Other
+Luke,Lee,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lplee.jpg,UC Berkeley,Asian
+Sergey,Levine,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/svlevine.jpg,UC Berkeley,White
+Edwin,Lewis,Asian,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lewis.jpg,UC Berkeley,White
+Michael,Lieberman,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/lieberman.jpg,UC Berkeley,White
+Jennifer,Listgarten,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/listgarten.jpg,UC Berkeley,White
+Chunlei,Liu,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/chunleiliu.jpg,UC Berkeley,Asian
+Michael,Lustig,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mlustig.jpg,UC Berkeley,White
+Eric,Ma,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/eric-y-ma.jpg,UC Berkeley,Asian
+Yi,Ma,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yima.jpg,UC Berkeley,Asian
+Michel,Maharbiz,Other,Other,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/maharbiz.jpg,UC Berkeley,Other
+Jitendra,Malik,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/malik.jpg,UC Berkeley,Asian
+David,Messerschmitt,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/messerschmitt.jpg,UC Berkeley,White
+Robert,Meyer,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/meyer.jpg,UC Berkeley,White
+Nelson,Morgan,White,Black,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/morgan.jpg,UC Berkeley,White
+Richard,Muller,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/muller.jpg,UC Berkeley,White
+Rikky,Muller,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rikky.jpg,UC Berkeley,White
+Jelani,Nelson,Black,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/minilek.jpg,UC Berkeley,Black
+Andrew,Neureuther,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/neureuther.jpg,UC Berkeley,White
+Ren,Ng,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yirenng.jpg,UC Berkeley,Asian
+Clark,Nguyen,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ctnguyen.jpg,UC Berkeley,Asian
+Ali,Niknejad,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/niknejad.jpg,UC Berkeley,Other
+Borivoje,Nikolic,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nikolic.jpg,UC Berkeley,White
+Narges,Norouzi,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/norouzi.jpg,UC Berkeley,Other
+James,O'Brien,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/obrien.jpg,UC Berkeley,White
+William,Oldham,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/oldham.jpg,UC Berkeley,White
+Bruno,Olshausen,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/baolshausen.jpg,UC Berkeley,White
+Christos,Papadimitriou,Black,White,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/papadimitriou.jpg,UC Berkeley,White
+Aditya,Parameswaran,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/adityagp.jpg,UC Berkeley,Asian
+Shyam,Parekh,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/shyam.jpg,UC Berkeley,Asian
+Beresford,Parlett,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/parlett.jpg,UC Berkeley,White
+David,Patterson,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/patterson.jpg,UC Berkeley,White
+Eric,Paulos,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/paulos.jpg,UC Berkeley,White
+Vern,Paxson,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/paxson.jpg,UC Berkeley,White
+Robert,Pilawa-Podgurski,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/pilawa.jpg,UC Berkeley,White
+Kristofer,Pister,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/pister.jpg,UC Berkeley,White
+Elijah,Polak,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/polak.jpg,UC Berkeley,White
+Kameshwar,Poolla,Black,Asian,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/poolla.jpg,UC Berkeley,Asian
+Raluca,Popa,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ralucap.jpg,UC Berkeley,White
+Jan,Rabaey,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rabaey.jpg,UC Berkeley,White
+Prasad,Raghavendra,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/praghavendra.jpg,UC Berkeley,Asian
+Kannan,Ramchandran,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ramchandran.jpg,UC Berkeley,Asian
+Gireeja,Ranade,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/gireeja.jpg,UC Berkeley,Asian
+Satish,Rao,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rao.jpg,UC Berkeley,Asian
+Sylvia,Ratnasamy,Asian,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ratnasamy.jpg,UC Berkeley,Other
+Benjamin,Recht,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/brecht.jpg,UC Berkeley,White
+Lawrence,Rowe,White,Black,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/rowe.jpg,UC Berkeley,White
+Jaijeet,Roychowdhury,White,Asian,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jr.jpg,UC Berkeley,Asian
+Stuart,Russell,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/russell.jpg,UC Berkeley,White
+Anant,Sahai,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sahai.jpg,UC Berkeley,Asian
+Sayeef,Salahuddin,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/salahuddin.jpg,UC Berkeley,Asian
+Seth,Sanders,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sanders.jpg,UC Berkeley,White
+Alberto,Sangiovanni-Vincentelli,Other,Other,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sangiovanni-vicentelli.jpg,UC Berkeley,White
+S.,Sastry,Black,Asian,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sastry.jpg,UC Berkeley,Asian
+Jeronimo,Fernandez,Asian,Other,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/segovia.jpg,UC Berkeley,Other
+Koushik,Sen,Black,Asian,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ksen.jpg,UC Berkeley,Asian
+Carlo,Séquin,Asian,Other,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sequin.jpg,UC Berkeley,White
+Sanjit,Seshia,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/seshia.jpg,UC Berkeley,Asian
+Osama,Shana'a,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/osama.jpg,UC Berkeley,White
+Sophia,Shao,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/ysshao.jpg,UC Berkeley,Asian
+Scott,Shenker,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/shenker.jpg,UC Berkeley,White
+Jonathan,Shewchuk,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/shewchuk.jpg,UC Berkeley,White
+Alistair,Sinclair,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sinclair.jpg,UC Berkeley,White
+Alp,Sipahigil,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/alp.jpg,UC Berkeley,Asian
+Alan,Smith,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/smith-a.jpg,UC Berkeley,White
+Somayeh,Sojoudi,White,Asian,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sojoudi.jpg,UC Berkeley,Other
+Dawn,Song,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/song.jpg,UC Berkeley,Asian
+Yun,Song,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yssong.jpg,UC Berkeley,Asian
+Costas,Spanos,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/spanos.jpg,UC Berkeley,White
+Jacob,Steinhardt,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jsteinhardt.jpg,UC Berkeley,White
+Ion,Stoica,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/stoica.jpg,UC Berkeley,White
+Vladimir,Stojanovic,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/vlada.jpg,UC Berkeley,White
+Bernd,Sturmfels,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/sturmfels.jpg,UC Berkeley,White
+Vivek,Subramanian,Black,Asian,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/subramanian.jpg,UC Berkeley,Asian
+Alane,Suhr,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/suhr.jpg,UC Berkeley,White
+Avishay,Tal,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/atal.jpg,UC Berkeley,Other
+Grigory,Tikhomirov,Other,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/grisha.jpg,UC Berkeley,White
+Claire,Tomlin,Asian,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/tomlin.jpg,UC Berkeley,White
+Umesh,Vazirani,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/vazirani.jpg,UC Berkeley,Asian
+Alexandra,Meier,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/vonmeier.jpg,UC Berkeley,White
+David,Wagner,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wagner.jpg,UC Berkeley,White
+Martin,Wainwright,Other,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wainwright.jpg,UC Berkeley,White
+Laura,Waller,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/waller.jpg,UC Berkeley,White
+Jean,Walrand,Other,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/walrand.jpg,UC Berkeley,White
+John,Wawrzynek,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wawrzynek.jpg,UC Berkeley,White
+William,Welch,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/welch.jpg,UC Berkeley,White
+Max,Willsey,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/mwillsey.jpg,UC Berkeley,White
+Eugene,Wong,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wong.jpg,UC Berkeley,Asian
+John,Wright,Asian,Black,Black,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/jswright.jpg,UC Berkeley,White
+Ming,Wu,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/wu.jpg,UC Berkeley,Asian
+Eli,Yablonovitch,Asian,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yablonovitch.jpg,UC Berkeley,White
+Adam,Yala,White,Asian,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yala.jpg,UC Berkeley,White
+Lisa,Yan,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yanlisa.jpg,UC Berkeley,Asian
+Katherine,Yelick,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/yelick.jpg,UC Berkeley,White
+Nir,Yosef,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/niryosef.jpg,UC Berkeley,Other
+Bin,Yu,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/binyu.jpg,UC Berkeley,Asian
+Stella,Yu,Asian,Asian,Asian,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/stellayu.jpg,UC Berkeley,Asian
+Matei,Zaharia,White,White,White,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/matei.jpg,UC Berkeley,White
+Avideh,Zakhor,Other,Asian,Other,https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/zakhor.jpg,UC Berkeley,Other
+Elliot,Anderson,White,Black,White,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/ElliotAnderson.jpg?itok=xZ_gs6nX,UC Santa Cruz,White
+ClÃ¡udio,Bueno,Asian,Other,Other,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Claudio-Bueno.jpeg?itok=dvS6xMMF,UC Santa Cruz,Other
+Melissa,Gwyn,Asian,Black,Black,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Gwyn-head-shot.jpg?itok=2yvVXy-f,UC Santa Cruz,White
+Dee,Hibbert-Jones,White,Black,White,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/dee_my%20photo%20super%20small.jpg?itok=FHRc71hy,UC Santa Cruz,White
+Karolina,Karlic,White,White,White,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Karlic_Karlic_Pigeon_Pt_Mark_McKnight.png?itok=J_oNo6bm,UC Santa Cruz,White
+Enrique,Leal,White,Other,White,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Enrique_Leal-June-2014.jpg?itok=_fRGaA9N,UC Santa Cruz,Other
+John,Leanos,Asian,Other,Other,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Leanos_Portrait.jpg?itok=8BjSATzZ,UC Santa Cruz,White
+Jimin,Lee,Asian,Asian,Asian,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Jimin-Lee-7%20%281%20of%201%29%20copy.jpg?itok=3tXHDuZi,UC Santa Cruz,Asian
+Jorge,Barreto,Asian,Other,Other,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Jorge%20Menna%20Barreto.png?itok=jyMT9_bJ,UC Santa Cruz,Other
+Laurie,Palmer,White,White,White,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Laurie-Palmer-red.jpeg?itok=YChP1ACK,UC Santa Cruz,White
+Jennifer,Parker,White,White,White,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Jennifer_Parker_Art_Department-2020.jpg?itok=L_krHTUr,UC Santa Cruz,White
+Sarah,Sanford,Asian,White,White,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/BrochurePic.jpg?itok=6F2yiKF4,UC Santa Cruz,White
+Edward,Shanken,Black,White,Black,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/ed-shanken.jpg?itok=R9jBtDmx,UC Santa Cruz,White
+Elizabeth,Stephens,Asian,White,White,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/B10Y6228.jpeg?itok=_La_ILHt,UC Santa Cruz,White
+Grant,Whipple,White,White,White,https://art.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Grant-whipple-2.jpg?itok=WSzqfPXp,UC Santa Cruz,White
+Karlton,Hester,Asian,White,White,https://danm.ucsc.edu/sites/default/files/styles/list/public/KEH%20flute-sax%20copy.jpg?itok=WFHdcMdZ,UC Santa Cruz,Black
+Elizabeth,Swensen,Other,White,White,https://danm.ucsc.edu/sites/default/files/styles/list/public/Elizabeth%20Swensen%20Chess%20%281%29.jpg?itok=b-tR2CsQ,UC Santa Cruz,White
+Marianne,Weems,White,Black,White,https://danm.ucsc.edu/sites/default/files/styles/list/public/Weems_Horz_1.jpg?itok=nRF1_5Kz,UC Santa Cruz,White
+Jon,Alonso,Asian,Other,Other,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/9-22-23-Faculty-Jon-Alonso-CL-004%20copy.jpg?itok=vuMo4RvS,UC Santa Cruz,Other
+Lawrence,Andrews,Asian,Black,Black,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/larry_andrews_bio.jpg?itok=KqTp88wu,UC Santa Cruz,Black
+Joseph,Erb,Black,White,Black,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Joseph%20Erb%20photo_0_2.jpeg?itok=1wkOjUvI,UC Santa Cruz,White
+Anna,Friz,Other,Other,Other,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Friz_at_Wave%20Farm.jpg?itok=q_GwMZxa,UC Santa Cruz,White
+Jennifer,Horne,White,White,White,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/fullsizeoutput_33ac.jpeg?itok=qK4PTugZ,UC Santa Cruz,White
+L.S.,Kim,Asian,Asian,Asian,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/ls_kim_bio.jpg?itok=s6FQGUiA,UC Santa Cruz,Asian
+Peter,Limbrick,White,White,White,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/LimbrickPeter.jpeg?itok=lKiuPrIT,UC Santa Cruz,White
+Irene,Lusztig,White,White,White,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/IL_headshot_0.JPG?itok=BU8hz8BW,UC Santa Cruz,White
+Warren,Sack,White,White,White,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/9121chdelory-2015-683x1024.jpg?itok=AfniSwjC,UC Santa Cruz,White
+Celine,Shimizu,Asian,Asian,Asian,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/8-24-21-Celine%20Parren%CC%83as%20Shimizu-CL-022.jpg?itok=03o5fjm1,UC Santa Cruz,Asian
+Shelley,Stamp,White,White,White,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/IMG_2375.jpg?itok=LEfmTD5d,UC Santa Cruz,White
+Jennifer,Taylor,White,White,White,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Jennifer%20Maytorena%20Taylor.jpg?itok=j1gMHT2r,UC Santa Cruz,White
+Gustavo,Vazquez,White,Other,White,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/gustavo_vazquez_bio.jpg?itok=pCf1jejO,UC Santa Cruz,Other
+Yiman,Wang,Asian,Asian,Asian,https://film.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/yiman_wang_bio.jpg?itok=nNIJTD4b,UC Santa Cruz,Asian
+Elisabeth,Cameron,White,White,White,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/DSC_0063.jpg?itok=KDCc0uMb,UC Santa Cruz,White
+Carolyn,Dean,White,Black,White,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/CDean_Dec2016.jpg?itok=2xt2YBdU,UC Santa Cruz,White
+Maria,Evangelatou,Asian,Black,Black,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/Maria%20Evangelatou%20portrait_0.jpg?itok=0b56f-Tg,UC Santa Cruz,Other
+Jennifer,GonzÃ¡lez,White,Other,White,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/Screen%20Shot%202021-05-04%20at%2011.56.45%20AM.png?itok=QhTPkMTA,UC Santa Cruz,Other
+Yi,Kyo,White,Asian,White,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/Kyo%20Profile%20Pic%202.jpg?itok=iXnyRLSQ,UC Santa Cruz,Asian
+Boreth,Ly,Asian,Asian,Asian,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/BorethLyLP23_1.jpg?itok=F5fQSEet,UC Santa Cruz,Asian
+Derek,Murray,Other,Black,Black,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/IMG_3546.jpeg?itok=vpqbsUva,UC Santa Cruz,Black
+Albert,Narath,White,Asian,White,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/AlbertNarath.jpg?itok=Dk4AXsDW,UC Santa Cruz,White
+Kyle,Parry,White,White,White,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/tumblr_oktwfyv9tM1qcvotqo1_1280.jpg?itok=Zwt2nwiO,UC Santa Cruz,White
+Kailani,Polzak,Asian,Asian,Asian,https://havc.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/faculty/IMG_8224%203.jpg?itok=v8dDiasw,UC Santa Cruz,Asian
+Jay,Afrisando,Asian,Asian,Asian,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/20170909_JayAfrisando_photoCredit_KakiaGkoudina_event_convergenceMECA2016_4240x2832.JPG?itok=95R4vx9Q,UC Santa Cruz,Asian
+Amy,Beal,White,White,White,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Amy%20Beal.jpg?itok=jp36CQ4t,UC Santa Cruz,White
+Ben,Carson,Asian,Black,Black,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/BB47413B-5935-4C89-B577-0F54C5A3BEA7_1_201_a_0.jpeg?itok=Ezs8T5q7,UC Santa Cruz,White
+Nicol,Hammond,Other,White,White,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Screen%20shot%202014-09-30%20at%2011.05.44%20AM.png?itok=5LCsLSPF,UC Santa Cruz,Other
+Bruce,Kiesling,Asian,White,White,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/bruce%20headshot.png?itok=GIzowWiM,UC Santa Cruz,White
+Hi,Kim,Asian,Asian,Asian,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Hi%20Kyung%20%281%29edit_5.png?itok=QYIiuq3x,UC Santa Cruz,Asian
+Tanya,Merchant,White,Black,White,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/unnamed_0.jpg?itok=7SxKs3u-,UC Santa Cruz,White
+Dard,Neuman,Other,White,White,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Dard%20Neuman.JPG?itok=9iyi5msD,UC Santa Cruz,Other
+Russell,Rodriguez,Asian,Other,Other,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/Russell%20Rodriguez%20photo.jpg?itok=FVPx-gYk,UC Santa Cruz,Other
+Nina,Treadwell,Asian,White,White,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/nina3.png?itok=8LroKBnl,UC Santa Cruz,White
+James,Williams,White,Black,White,https://music.ucsc.edu/sites/default/files/styles/list_page_rectangle__375_x_250_/public/JGW_8.3.23_Pic_0.jpg?itok=rwNRzTid,UC Santa Cruz,Black
+Michael,Chemers,Black,White,Black,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Chemers%203_0.jpg?itok=Ulp1-YU6,UC Santa Cruz,White
+David,Cuthbert,Other,White,White,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/cuthbert-headshot-crop.jpg?itok=OEPDFKPa,UC Santa Cruz,White
+Patty,Gallagher,White,White,White,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Screen%20Shot%202019-10-16%20at%201.47.49%20PM.png?itok=vx6CioAM,UC Santa Cruz,White
+Amy,Ginther,Other,White,White,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/AMY-154_RT.jpg?itok=5QwG-i2f,UC Santa Cruz,Asian
+Sean,Keilen,White,White,White,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/unnamed.jpg?itok=wUzeVfk8,UC Santa Cruz,White
+Cynthia,Lee,Asian,Black,Black,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/cynthia_n5b4828_2.jpg?itok=IBt_ROhh,UC Santa Cruz,Asian
+Marina,Magalhães,Other,Other,Other,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Marina%20Rosa-1021-Edit.jpg?itok=vRCFMHws,UC Santa Cruz,Other
+Marcia,Ochoa,Asian,Other,Other,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/marcia_ochoa.jpg?itok=sG7vyyVS,UC Santa Cruz,Other
+Pamela,Rodríguez-Montero,White,Other,White,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Pamela_Rodriguez_Montero.jpeg?itok=p70K7SyQ,UC Santa Cruz,Other
+LisaMarie,Rollins,Asian,Black,Black,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/smaller%20LMR%20headshot%20%282%29_0.jpg?itok=RccqiGIm,UC Santa Cruz,Black
+Susan,Solt,White,White,White,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Susan-solt.jpg?itok=Z3QlbIUo,UC Santa Cruz,White
+Edward,Warburton,Black,White,Black,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Arts_Divison_Retreat-8%20-%20Version%202.jpg?itok=IxWQPGuy,UC Santa Cruz,White
+Marianne,Weems,White,Black,White,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/Marianne%20Weems_2.JPG?itok=nAmXe1Nh,UC Santa Cruz,White
+Don,Williams,Asian,Black,Black,https://ppd.ucsc.edu/sites/default/files/styles/list_page_square__250_x_250_/public/unnamed.png?itok=_OVAjG5S,UC Santa Cruz,Black
+Elizabeth,Abrams,White,White,White,https://humanities.ucsc.edu/cache/directory/esabrams.jpg,UC Santa Cruz,White
+Zsuzsanna,Abrams,White,White,White,https://humanities.ucsc.edu/cache/directory/zabrams1.jpg,UC Santa Cruz,White
+Rachel,Achs,Asian,White,White,https://humanities.ucsc.edu/cache/directory/rachs.jpg,UC Santa Cruz,White
+Judith,Aissen,Asian,White,White,https://humanities.ucsc.edu/cache/directory/aissen.jpg,UC Santa Cruz,White
+Jorge,Font,White,Other,White,https://humanities.ucsc.edu/cache/directory/jaladro.jpg,UC Santa Cruz,Other
+Jasmine,Alinder,Asian,Black,Black,https://humanities.ucsc.edu/cache/directory/jaalinde.jpg,UC Santa Cruz,White
+Mark,Amengual,Black,Other,Black,https://humanities.ucsc.edu/cache/directory/amengual.jpg,UC Santa Cruz,Other
+Maggie,Amis,Black,Black,Black,https://humanities.ucsc.edu/cache/directory/mamis.jpg,UC Santa Cruz,White
+Pranav,Anand,Other,Asian,Other,https://humanities.ucsc.edu/cache/directory/panand.jpg,UC Santa Cruz,Asian
+Andrew,Angeles,Asian,Other,Other,https://humanities.ucsc.edu/cache/directory/aeangele.jpg,UC Santa Cruz,Asian
+David,Anthony,Asian,White,White,https://humanities.ucsc.edu/cache/directory/danthony.jpg,UC Santa Cruz,Black
+Bettina,Aptheker,Asian,White,White,https://humanities.ucsc.edu/cache/directory/bettinaf.jpg,UC Santa Cruz,White
+Sondra,Archimedes,White,Other,White,https://humanities.ucsc.edu/cache/directory/sandyarc.jpg,UC Santa Cruz,White
+Anjali,Arondekar,Asian,Asian,Asian,https://humanities.ucsc.edu/cache/directory/aarondek.jpg,UC Santa Cruz,Asian
+Lalitha,Balachandran,Asian,Asian,Asian,https://humanities.ucsc.edu/cache/directory/lbalacha.jpg,UC Santa Cruz,Asian
+Karen,Barad,Asian,White,White,https://humanities.ucsc.edu/cache/directory/kbarad.jpg,UC Santa Cruz,White
+Byron,Barahona,White,Other,White,https://humanities.ucsc.edu/cache/directory/babaraho.jpg,UC Santa Cruz,Other
+Banu,Bargu,Other,Asian,Other,https://humanities.ucsc.edu/cache/directory/bbargu.jpg,UC Santa Cruz,Other
+Karen,Bassi,Asian,White,White,https://humanities.ucsc.edu/cache/directory/bassi.jpg,UC Santa Cruz,White
+Murray,Baumgarten,Other,White,White,https://humanities.ucsc.edu/cache/directory/dickens.jpg,UC Santa Cruz,White
+Jonathan,Beecher,Asian,White,White,https://humanities.ucsc.edu/cache/directory/jbeecher.jpg,UC Santa Cruz,White
+Dorian,Bell,White,Black,White,https://humanities.ucsc.edu/cache/directory/dbell1.jpg,UC Santa Cruz,White
+Ryan,Bennett,White,White,White,https://humanities.ucsc.edu/cache/directory/rbennett.jpg,UC Santa Cruz,White
+Jody,Biehl,Asian,White,White,https://humanities.ucsc.edu/cache/directory/jkbiehl.jpg,UC Santa Cruz,White
+Josefina,Bittar,Asian,White,White,https://humanities.ucsc.edu/cache/directory/jbittarp.jpg,UC Santa Cruz,Other
+Hunter,Bivens,White,White,White,https://humanities.ucsc.edu/cache/directory/abivens.jpg,UC Santa Cruz,White
+Dev,Bose,Asian,Black,Black,https://humanities.ucsc.edu/cache/directory/bose.jpg,UC Santa Cruz,Asian
+Benjamin,Breen,White,White,White,https://humanities.ucsc.edu/cache/directory/bebreen.jpg,UC Santa Cruz,White
+Gail,Brenner,White,White,White,https://humanities.ucsc.edu/cache/directory/gbrenner.jpg,UC Santa Cruz,White
+David,Brundage,Asian,White,White,https://humanities.ucsc.edu/cache/directory/brundage.jpg,UC Santa Cruz,Other
+Victor,Burgin,Asian,White,White,https://humanities.ucsc.edu/cache/directory/burgin.jpg,UC Santa Cruz,Other
+Edmund,Burke,White,White,White,https://humanities.ucsc.edu/cache/directory/eburke.jpg,UC Santa Cruz,White
+RenÃ©e,Cailloux,White,White,White,https://humanities.ucsc.edu/cache/directory/rcaillou.jpg,UC Santa Cruz,Other
+Caren,Camblin,Asian,White,White,https://humanities.ucsc.edu/cache/directory/ccamblin.jpg,UC Santa Cruz,White
+Pedro,Castillo,Asian,Other,Other,https://humanities.ucsc.edu/cache/directory/pcastle.jpg,UC Santa Cruz,Other
+Carolina,Castilloâ€‘Trelles,White,Other,White,https://humanities.ucsc.edu/cache/directory/ccastil2.jpg,UC Santa Cruz,Other
+Shelly,Chan,White,Asian,White,https://humanities.ucsc.edu/cache/directory/spchan.jpg,UC Santa Cruz,Asian
+Kristina,Chew,Asian,Asian,Asian,https://humanities.ucsc.edu/cache/directory/kjchew.jpg,UC Santa Cruz,Asian
+Alan,Christy,White,White,White,https://humanities.ucsc.edu/cache/directory/achristy.jpg,UC Santa Cruz,White
+Sandra,Chung,White,Asian,White,https://humanities.ucsc.edu/cache/directory/schung.jpg,UC Santa Cruz,Asian
+Mark,Cioc,Other,White,White,https://humanities.ucsc.edu/cache/directory/cioc.jpg,UC Santa Cruz,White
+James,Clifford,Other,White,White,https://humanities.ucsc.edu/cache/directory/jcliff.jpg,UC Santa Cruz,White
+Christopher,Connery,White,White,White,https://humanities.ucsc.edu/cache/directory/cconnery.jpg,UC Santa Cruz,White
+Vilashini,Cooppan,Asian,Asian,Asian,https://humanities.ucsc.edu/cache/directory/vcooppan.jpg,UC Santa Cruz,Asian
+Steve,Coulter,Asian,White,White,https://humanities.ucsc.edu/cache/directory/sjcoulte.jpg,UC Santa Cruz,White
+Michael,Cowan,White,White,White,https://humanities.ucsc.edu/cache/directory/mhcowan.jpg,UC Santa Cruz,White
+Shannon,Cummings,White,Black,White,https://humanities.ucsc.edu/cache/directory/sjcummin.jpg,UC Santa Cruz,White
+Jack,Davies,White,White,White,https://humanities.ucsc.edu/cache/directory/jawdavie.jpg,UC Santa Cruz,White
+Angela,Davis,Asian,Black,Black,https://humanities.ucsc.edu/cache/directory/aydavis.jpg,UC Santa Cruz,Black
+Teresa,Lauretis,White,White,White,https://humanities.ucsc.edu/cache/directory/tdl.jpg,UC Santa Cruz,White
+Grace,Delgado,Asian,Other,Other,https://humanities.ucsc.edu/cache/directory/gpdelgad.jpg,UC Santa Cruz,Other
+Gina,Dent,Asian,Black,Black,https://humanities.ucsc.edu/cache/directory/ginadent.jpg,UC Santa Cruz,Black
+Jennifer,Derr,Asian,White,White,https://humanities.ucsc.edu/cache/directory/jderr.jpg,UC Santa Cruz,White
+Nathaniel,Deutsch,Asian,White,White,https://humanities.ucsc.edu/cache/directory/ndeutsch.jpg,UC Santa Cruz,White
+Bryan,Donaldson,White,White,White,https://humanities.ucsc.edu/cache/directory/badonald.jpg,UC Santa Cruz,White
+Jessie,Dubreuil,Asian,White,White,https://humanities.ucsc.edu/cache/directory/jdubreui.jpg,UC Santa Cruz,White
+MarÃ­a,DÃ­az,Other,Other,Other,https://humanities.ucsc.edu/cache/directory/mediaz.jpg,UC Santa Cruz,White
+Dina,Dessouky,Asian,White,White,https://humanities.ucsc.edu/cache/directory/deldesso.jpg,UC Santa Cruz,Black
+Jonathan,Ellis,White,White,White,https://humanities.ucsc.edu/cache/directory/jellis.jpg,UC Santa Cruz,White
+Stephen,Engel,Asian,White,White,https://humanities.ucsc.edu/cache/directory/sdengel.jpg,UC Santa Cruz,White
+Barbara,Epstein,Asian,White,White,https://humanities.ucsc.edu/cache/directory/bepstein.jpg,UC Santa Cruz,Other
+Mehran,Esfandiari,Asian,Asian,Asian,https://humanities.ucsc.edu/cache/directory/mesfandi.jpg,UC Santa Cruz,Other
+Donka,Farkas,White,White,White,https://humanities.ucsc.edu/cache/directory/farkas.jpg,UC Santa Cruz,White
+Javier,AgÃ¼era,White,Other,White,https://humanities.ucsc.edu/cache/directory/jfernnde.jpg,UC Santa Cruz,Other
+Tim,Fitzmaurice,Other,White,White,https://humanities.ucsc.edu/cache/directory/timfitz.jpg,UC Santa Cruz,White
+Carolina,Flores,Asian,Other,Other,https://humanities.ucsc.edu/cache/directory/cflore47.jpg,UC Santa Cruz,Other
+Renee,Fox,White,White,White,https://humanities.ucsc.edu/cache/directory/rafox.jpg,UC Santa Cruz,Other
+Dana,Frank,White,White,White,https://humanities.ucsc.edu/cache/directory/dlfrank.jpg,UC Santa Cruz,White
+Carla,Freccero,Black,Other,Black,https://humanities.ucsc.edu/cache/directory/freccero.jpg,UC Santa Cruz,White
+Sakae,Fujita,Other,Asian,Other,https://humanities.ucsc.edu/cache/directory/sakaefuj.jpg,UC Santa Cruz,Asian
+Lara,Galas,Asian,White,White,https://humanities.ucsc.edu/cache/directory/lgalas.jpg,UC Santa Cruz,Other
+Maryâ€‘Kay,Gamel,White,White,White,https://humanities.ucsc.edu/cache/directory/mkgamel.jpg,UC Santa Cruz,White
+Morgan,Gates,Asian,White,White,https://humanities.ucsc.edu/cache/directory/megates.jpg,UC Santa Cruz,White
+Filippo,Gianferrari,White,White,White,https://humanities.ucsc.edu/cache/directory/fgianfer.jpg,UC Santa Cruz,Other
+Susan,Gillman,Black,White,Black,https://humanities.ucsc.edu/cache/directory/sgillman.jpg,UC Santa Cruz,White
+Mia,Gong,Other,Asian,Other,https://humanities.ucsc.edu/cache/directory/mgong9.jpg,UC Santa Cruz,Asian
+Maria,Pagani,Asian,Other,Other,https://humanities.ucsc.edu/cache/directory/vgpagani.jpg,UC Santa Cruz,White
+Kirsten,Gruesz,Asian,White,White,https://humanities.ucsc.edu/cache/directory/ksgruesz.jpg,UC Santa Cruz,White
+Daniel,Guevara,Black,Other,Black,https://humanities.ucsc.edu/cache/directory/guevara.jpg,UC Santa Cruz,Other
+Kathleen,Gutierrez,Asian,Other,Other,https://humanities.ucsc.edu/cache/directory/kgutie20.jpg,UC Santa Cruz,Asian
+Camilo,GÃ³mezâ€‘Rivas,Asian,Other,Other,https://humanities.ucsc.edu/cache/directory/cgomezri.jpg,UC Santa Cruz,White
+Lisbeth,Haas,White,White,White,https://humanities.ucsc.edu/cache/directory/lhaas.jpg,UC Santa Cruz,Other
+Joy,Hagen,Asian,White,White,https://humanities.ucsc.edu/cache/directory/joyhagen.jpg,UC Santa Cruz,White
+Erica,Halk,White,White,White,https://humanities.ucsc.edu/cache/directory/elhalk.jpg,UC Santa Cruz,White
+Jorge,Hankamer,Asian,Other,Other,https://humanities.ucsc.edu/cache/directory/hank.jpg,UC Santa Cruz,Other
+Abigail,Heald,Asian,White,White,https://humanities.ucsc.edu/cache/directory/aheald.jpg,UC Santa Cruz,White
+Alma,Heckman,Other,White,White,https://humanities.ucsc.edu/cache/directory/aheckman.jpg,UC Santa Cruz,White
+Charles,Jr.,Asian,Black,Black,https://humanities.ucsc.edu/cache/directory/hedrick.jpg,UC Santa Cruz,White
+Kimberly,Helmer,Asian,White,White,https://humanities.ucsc.edu/cache/directory/khelmer.jpg,UC Santa Cruz,Other
+Gail,Hershatter,White,White,White,https://humanities.ucsc.edu/cache/directory/gbhers.jpg,UC Santa Cruz,White
+Saori,Hoshi,Asian,Asian,Asian,https://humanities.ucsc.edu/cache/directory/shoshi.jpg,UC Santa Cruz,Asian
+David,Hoy,Asian,White,White,https://humanities.ucsc.edu/cache/directory/hoy.jpg,UC Santa Cruz,White
+Minghui,Hu,Asian,Asian,Asian,https://humanities.ucsc.edu/cache/directory/mhu.jpg,UC Santa Cruz,Asian
+Akasha,Hull,Asian,Black,Black,https://humanities.ucsc.edu/cache/directory/akashah.jpg,UC Santa Cruz,Black
+Junko,Ito,Asian,Asian,Asian,https://humanities.ucsc.edu/cache/directory/ito.jpg,UC Santa Cruz,Asian
+Daniel,Joesten,White,White,White,https://humanities.ucsc.edu/cache/directory/dmjoeste.jpg,UC Santa Cruz,White
+Catherine,Jones,White,Black,White,https://humanities.ucsc.edu/cache/directory/catjones.jpg,UC Santa Cruz,White
+John,Jordan,White,White,White,https://humanities.ucsc.edu/cache/directory/picasso.jpg,UC Santa Cruz,White
+Edward,Kehler,Asian,White,White,https://humanities.ucsc.edu/cache/directory/ekehler.jpg,UC Santa Cruz,Other
+Caitlin,Keliiaa,Asian,White,White,https://humanities.ucsc.edu/cache/directory/ckeliiaa.jpg,UC Santa Cruz,Other
+Peter,Kenez,Other,White,White,https://humanities.ucsc.edu/cache/directory/kenez.jpg,UC Santa Cruz,White
+Robin,King,Black,Black,Black,https://humanities.ucsc.edu/cache/directory/ryking.jpg,UC Santa Cruz,Black
+Taylor,Kirsch,White,White,White,https://humanities.ucsc.edu/cache/directory/tkirsch.jpg,UC Santa Cruz,White
+Norma,Klahn,White,White,White,https://humanities.ucsc.edu/cache/directory/nklahn.jpg,UC Santa Cruz,White
+Lindsay,Knisely,Asian,White,White,https://humanities.ucsc.edu/cache/directory/lknisely.jpg,UC Santa Cruz,White
+Amy,Krauss,White,White,White,https://humanities.ucsc.edu/cache/directory/amkrauss.jpg,UC Santa Cruz,Other
+Anne,Kreps,Asian,White,White,https://humanities.ucsc.edu/cache/directory/akreps.jpg,UC Santa Cruz,White
+William,Ladusaw,White,White,White,https://humanities.ucsc.edu/cache/directory/ladusaw.jpg,UC Santa Cruz,White
+Stephanie,Lain,Asian,White,White,https://humanities.ucsc.edu/cache/directory/slain.jpg,UC Santa Cruz,White
+Melissa,Sandersâ€‘Self,Asian,White,White,https://humanities.ucsc.edu/cache/directory/msanders.jpg,UC Santa Cruz,White
+Felicity,Schaeffer,Black,White,Black,https://humanities.ucsc.edu/cache/directory/fsg.jpg,UC Santa Cruz,White
+Max,Schmeder,Other,White,White,https://humanities.ucsc.edu/cache/directory/mschmede.jpg,UC Santa Cruz,White
+Andrea,Seeger,White,White,White,https://humanities.ucsc.edu/cache/directory/anseeger.jpg,UC Santa Cruz,White
+Daniel,Selden,White,White,White,https://humanities.ucsc.edu/cache/directory/dselden.jpg,UC Santa Cruz,White
+Juned,Shaikh,Asian,Asian,Asian,https://humanities.ucsc.edu/cache/directory/jmshaikh.jpg,UC Santa Cruz,Asian
+Kriti,Sharma,White,Asian,White,https://humanities.ucsc.edu/cache/directory/ksharm35.jpg,UC Santa Cruz,Asian
+Matt,Wagers,Black,White,Black,https://humanities.ucsc.edu/cache/directory/mwagers.jpg,UC Santa Cruz,White
+Rachel,Walker,White,Black,White,https://humanities.ucsc.edu/cache/directory/rwalker3.jpg,UC Santa Cruz,White
+Susan,Watrous,White,White,White,https://humanities.ucsc.edu/cache/directory/swatrous.jpg,UC Santa Cruz,White
+Marilyn,Westerkamp,Asian,White,White,https://humanities.ucsc.edu/cache/directory/mjw.jpg,UC Santa Cruz,White
+James,Wilson,Asian,Black,Black,https://humanities.ucsc.edu/cache/directory/jawilson.jpg,UC Santa Cruz,Other
+Rob,Wilson,Other,White,White,https://humanities.ucsc.edu/cache/directory/rwilson.jpg,UC Santa Cruz,Other
+Ronaldo,Wilson,Asian,Black,Black,https://humanities.ucsc.edu/cache/directory/rvwilson.jpg,UC Santa Cruz,Black
+Rasmus,Winther,Asian,White,White,https://humanities.ucsc.edu/cache/directory/rgw.jpg,UC Santa Cruz,White
+Dolly,Kikon,Asian,Black,Black,https://anthro.ucsc.edu/cache/directory/dkikon.jpg,UC Santa Cruz,Asian
+Annie,Roeser,Asian,White,White,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/AnnieRoeser-%20resized.jpg?h=964630c6&itok=AZ0RquBN,University of California - Davis,White
+Jason,Bond,White,White,White,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Jason.png?h=854f7174&itok=2Xzf2spy,University of California - Davis,White
+Helene,Dillard,Other,Black,Black,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Helene-Dillard.png?h=223bf7c1&itok=L7oVB5Oh,University of California - Davis,Black
+Susan,Ebeler,White,White,White,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Sue.png?h=520b52a5&itok=vnK3dLyG,University of California - Davis,White
+Penny,Herbert,Asian,White,White,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/images/person/d4523292-f4d2-4c48-b4b1-9410975cf3f7.jpeg?h=589f4bad&itok=KefMyNUJ,University of California - Davis,White
+Marcel,Holyoak,Asian,White,White,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Marcel.png?h=228ada39&itok=2jYYbFpo,University of California - Davis,White
+Ermias,Kebreab,Black,Black,Black,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/A5-Ermias-UCD.png?h=b75f3d6a&itok=mDf_8XDM,University of California - Davis,Black
+Brian,McEligot,White,White,White,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/BrianMcEligot-00842.png?h=92607b26&itok=iqkE5A2X,University of California - Davis,White
+Anita,Oberbauer,Other,White,White,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Anita.png?h=b2356cde&itok=RMnfmhkA,University of California - Davis,White
+Patsy,Owens,Asian,Black,Black,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Patsy.png?h=5cb565c3&itok=QmzrKoG6,University of California - Davis,White
+Ronald,Tjeerdema,White,Black,White,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/images/person/rtjeerma.png?h=41f8cf6d&itok=Jpei02m-,University of California - Davis,White
+Lindsay,Allen,White,White,White,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Lindsay_Allen.jpeg?h=345be249&itok=JOkJYDEy,University of California - Davis,White
+Julian,Alston,Asian,Black,Black,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/images/person/alston_julian.jpg__175x210_q85_crop_subject_location-621%2C879_subsampling-2_upscale.jpg?h=24111c55&itok=KXM7BQDa,University of California - Davis,White
+Jay,Belsky,Asian,White,White,https://caes.ucdavis.edu/sites/g/files/dgvnsk1721/files/styles/sf_thumbnail/public/media/images/Jay_Belsky.jpg?h=88e22dcc&itok=I0vnlGYh,University of California - Davis,White
