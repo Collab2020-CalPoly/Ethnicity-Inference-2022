@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import category_encoders as ce
 
 def main():
-    f_n_combined_data = pd.read_csv(r'Combined Dataset 78.csv', header = 0)
+    f_n_combined_data = pd.read_csv(r'Combined Dataset.csv', header = 0)
 
     x_c = f_n_combined_data.drop(['Actual'], axis = 1) #featured values/categories for face and name
     y_c = f_n_combined_data['Actual'] #target variable for race
@@ -27,21 +27,6 @@ def main():
     
     print(classification_report(y_c_test, y_c_pred))
     print('Confusion matrix:\n', cm)
-    #  For confusion matrix: 
-    #  Values on the diagonal represent the number (or percent, in a normalized confusion matrix) of times where the predicted label matches the true label. 
-    #  Values in the other cells represent instances where the classifier mislabeled an observation; 
-    #  the column tells us what the classifier predicted, and the row tells us what the right label was.
-    # 
-    #  For classification report:
-    #  The recall means "how many of this class you find over the whole number of element of this class"
-    #  The precision will be "how many are correctly classified among that class"
-    #  The f1-score (used to compare the performance of two classifiers) is the harmonic mean (generally used if data values are ratios of two variables with different measures) 
-    #  between precision & recall
-    #  The support is the number of occurence of the given class in your dataset 
-
-    #  Note: The reason why I used both metrics is because on its own, a classification report tells us generally what kind of errors the model made, 
-    #  but it doesn’t give us specifics. The confusion matrix tells us exactly where mistakes were made, but it doesn’t give us summary metrics like precision, 
-    #  recall, or F1 score. Using both gives a much better understanding of the output and allows us to evaluate the overall performance of the algorithm.
 
     
 def test_individ_trees():
@@ -91,3 +76,19 @@ def test_individ_trees():
 if __name__ == "__main__":
     main()
     #test_individ_trees()
+
+#  For confusion matrix: 
+#  Values on the diagonal represent the number (or percent, in a normalized confusion matrix) of times where the predicted label matches the true label. 
+#  Values in the other cells represent instances where the classifier mislabeled an observation; 
+#  the column tells us what the classifier predicted, and the row tells us what the right label was.
+# 
+#  For classification report:
+#  The recall means "how many of this class you find over the whole number of element of this class"
+#  The precision will be "how many are correctly classified among that class"
+#  The f1-score (used to compare the performance of two classifiers) is the harmonic mean (generally used if data values are ratios of two variables with different measures) 
+#  between precision & recall
+#  The support is the number of occurence of the given class in your dataset 
+
+#  Note: The reason why I used both metrics is because on its own, a classification report tells us generally what kind of errors the model made, 
+#  but it doesn’t give us specifics. The confusion matrix tells us exactly where mistakes were made, but it doesn’t give us summary metrics like precision, 
+#  recall, or F1 score. Using both gives a much better understanding of the output and allows us to evaluate the overall performance of the algorithm.
