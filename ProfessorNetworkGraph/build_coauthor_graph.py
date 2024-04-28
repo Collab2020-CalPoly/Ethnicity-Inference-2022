@@ -1,7 +1,7 @@
 """
 # Creates a network graph of professors based on their co-authorship connections.
 # Created by Thien An Tran on 4/12/2024
-# Last modified on 4/18/2024
+# Last modified on 4/27/2024
 """
 
 import requests
@@ -9,11 +9,15 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 import re
+import time
+import random
 
-def search_google_scholar(first_name, last_name):
+
+def search_google_scholar(first_name, last_name, school):
     """ Search Google Scholar for the given professor's profile and return the profile URL. """
-    query = f"{first_name} {last_name}"
+    query = f"{first_name} {last_name} {school}"
     base_url = "https://scholar.google.com/scholar?hl=en&q="
     search_url = base_url + "+".join(query.split())
     
@@ -80,82 +84,89 @@ def add_coauthors_to_graph(full_name, profile_url, G, df, visited):
                 print(coauthor_name)
                 add_coauthors_to_graph(coauthor_name, coauthor_url, G, df, visited)  # Recursive call using the direct URL
 
-
-# Prepare your dataset and graph
-df = pd.read_csv('./cleaningdata/modelResults.csv')
-df['Full Name'] = df['First Name'] + ' ' + df['Last Name']  # Create a Full Name column to simplify searches
-G = nx.Graph()
-visited = set()
-
-# Mapping ethnicity to color
-ethnicity_color_map = {
-    'White': 'lightblue',
-    'Asian': 'lightgreen',
-    'Black': 'lightcoral',
-    'Other': 'lightyellow',
-    'Unknown': 'lightgrey'  # Default color for unknown ethnicity
-}
-
-### ALL PROFESSOR IN DATASET
-# # Start the graph construction from each professor's initially known profile URL
-# for index, row in df.iterrows():
-#     full_name = row['Full Name']
-#     if full_name not in visited:
-#         profile_url = search_google_scholar(row['First Name'], row['Last Name'])  # Initial search to get the profile URL
-#         print(profile_url)
-#         add_coauthors_to_graph(full_name, profile_url, G, df, visited)
-#     print(f"Finished processing {full_name}")
-
-## ONE SPECIFIC PROFESSOR FROM DATASET
-# # Select the specific professor you want to work with
-# professor_index = 0  # Change this index to select a different professor
-# selected_professor = df.iloc[professor_index]
-# full_name = selected_professor['Full Name']
-# profile_url = search_google_scholar(selected_professor['First Name'], selected_professor['Last Name'])
-# add_coauthors_to_graph(full_name, "https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=en", G, df, visited)
+        # # Add a sleep call here to pace the recursion
+        # sleep_time = random.uniform(0, 1)  # Shorter sleep times within deep recursion
+        # print(f"Sleeping for {sleep_time:.2f} seconds before processing next coauthor.")
+        # time.sleep(sleep_time)
 
 
-### N PROFESSOR FROM DATASET
-n_professors = 15  # Change this to the desired number of professors
+def save_graph(G, filename="network_graph.pdf"):
+    # Extracting node names as a list
+    node_names = list(G.nodes())
 
-# Start the graph construction from each professor's initially known profile URL
-processed_professors = 0
-for index, row in df.iterrows():
-    if processed_professors >= n_professors:
-        break  # Exit loop if the desired number of professors is reached
-    
-    full_name = row['Full Name']
-    if full_name not in visited:
-        profile_url = search_google_scholar(row['First Name'], row['Last Name'])  # Initial search to get the profile URL
-        if profile_url:  # Check if a profile URL is retrieved successfully
-            add_coauthors_to_graph(full_name, profile_url, G, df, visited)
-            processed_professors += 1
-            print(f"Finished processing {full_name} ({processed_professors}/{n_professors})")
+    # Extract ethnicity information from the DataFrame for processed professors
+    ethnicity_series = df.set_index('Full Name').loc[node_names, 'Actual']
+
+    # Assign ethnicity information to nodes in the graph
+    for node in node_names:
+        if node in ethnicity_series.index:
+            G.nodes[node]['Actual'] = ethnicity_series[node]
+        else:
+            # Handle case where ethnicity information is missing
+            G.nodes[node]['Actual'] = 'Unknown'
+
+    # Assign color to nodes based on ethnicity
+    node_colors = [ethnicity_color_map.get(ethnicity, 'lightgrey') for ethnicity in ethnicity_series]
+
+    print("Saving graph now...")
+    plt.figure(figsize=(12, 12))
+    # nx.draw(G, with_labels=True, node_color='lightblue', edge_color='#909090', node_size=500, font_size=9, alpha=0.6, linewidths=0.5)
+    nx.draw(G, with_labels=True, node_color=node_colors, edge_color='#909090', node_size=500, font_size=9, alpha=0.6, linewidths=0.5)
+
+    # Create a list of legend handles:
+    legend_handles = [mpatches.Patch(color=color, label=ethnicity) for ethnicity, color in ethnicity_color_map.items()]
+    # Add the legend to the plot
+    plt.legend(handles=legend_handles, title='Ethnicity')
+
+    plt.title('Co-Authorship Graph Among UC Professors')
+    # plt.savefig('co_authorship_graph.png')
+    plt.savefig(filename, format='pdf')
+    # plt.show()
+    plt.close()
 
 
-# Extracting node names as a list
-node_names = list(G.nodes())
+if __name__ == '__main__':
+ 
+  # Prepare dataset and graph
+  df = pd.read_csv('cleaned_modelResults.csv')
+  df['Full Name'] = df['First Name'] + ' ' + df['Last Name']  # Create a Full Name column to simplify searches
+  G = nx.Graph()
+  visited = set()
 
-# Extract ethnicity information from the DataFrame for processed professors
-ethnicity_series = df.set_index('Full Name').loc[node_names, 'Prediction']
+  # Mapping ethnicity to color
+  ethnicity_color_map = {
+      'White': 'lightblue',
+      'Asian': 'lightgreen',
+      'Black': 'lightcoral',
+      'Other': 'lightyellow',
+      'Unknown': 'lightgrey'  # Default color for unknown ethnicity
+  }
 
-# Assign ethnicity information to nodes in the graph
-for node in node_names:
-    if node in ethnicity_series.index:
-        G.nodes[node]['Prediction'] = ethnicity_series[node]
-    else:
-        # Handle case where ethnicity information is missing
-        G.nodes[node]['Prediction'] = 'Unknown'
+  ### ALL PROFESSOR IN DATASET
+  # Start the graph construction from each professor's initially known profile URL
+  processed_professors = 0
 
-# Assign color to nodes based on ethnicity
-node_colors = [ethnicity_color_map.get(ethnicity, 'lightgrey') for ethnicity in ethnicity_series]
+  for index, row in df.iterrows():
+      full_name = row['Full Name']
+      if full_name not in visited:
+          try:
+              profile_url = search_google_scholar(row['First Name'], row['Last Name'], row['School'])
+              if profile_url:
+                  add_coauthors_to_graph(full_name, profile_url, G, df, visited)
 
+                  processed_professors += 1
+                  print(f"Finished processing {full_name}")
 
-# Visualize the graph
-print("visualizing graph now...")
-plt.figure(figsize=(12, 12))
-# nx.draw(G, with_labels=True, node_color='lightblue', edge_color='#909090', node_size=500, font_size=9, alpha=0.6, linewidths=0.5)
-nx.draw(G, with_labels=True, node_color=node_colors, edge_color='#909090', node_size=500, font_size=9, alpha=0.6, linewidths=0.5)
-plt.title('Co-Authorship Graph Among UC Professors')
-# plt.savefig('co_authorship_graph.png')
-plt.show()
+                  # Sleep after every 10 requests with a random duration between 10 and 20 seconds
+                  if processed_professors % 10 == 0:
+                      sleep_time = random.uniform(10, 20)
+                      print(f"Sleeping for {sleep_time:.2f} seconds to avoid rate limiting.")
+                      time.sleep(sleep_time)
+
+          except requests.exceptions.RequestException as e:
+              print(f"Error fetching data for {full_name}: {e}")
+              continue  # Skip to the next professor
+          finally:
+              # Save the graph every 10 professors              
+              if (index + 1) % 10 == 0:
+                  save_graph(G, f"network_graph_{index + 1}.pdf")
