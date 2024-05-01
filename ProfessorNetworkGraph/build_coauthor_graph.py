@@ -1,7 +1,7 @@
 """
 # Creates a network graph of professors based on their co-authorship connections.
 # Created by Thien An Tran on 4/12/2024
-# Last modified on 4/27/2024
+# Last modified on 4/30/2024
 """
 
 import requests
@@ -28,7 +28,7 @@ def search_google_scholar(first_name, last_name, school):
     }
     response = requests.get(search_url, headers=headers)
     if response.status_code == 429:
-        print("Rate limit hit during coauthors retrieval, try again later")
+        print("Rate limit hit during query, try again later")
         return []
     
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -95,23 +95,32 @@ def save_graph(G, filename="network_graph.pdf"):
     node_names = list(G.nodes())
 
     # Extract ethnicity information from the DataFrame for processed professors
-    ethnicity_series = df.set_index('Full Name').loc[node_names, 'Actual']
+    ethnicity_series = df.set_index('Full Name')['Prediction'].to_dict()
 
     # Assign ethnicity information to nodes in the graph
     for node in node_names:
-        if node in ethnicity_series.index:
-            G.nodes[node]['Actual'] = ethnicity_series[node]
+        if node in ethnicity_series:
+            G.nodes[node]['Prediction'] = ethnicity_series[node]
         else:
             # Handle case where ethnicity information is missing
-            G.nodes[node]['Actual'] = 'Unknown'
+            G.nodes[node]['Prediction'] = 'Unknown'
+
+    # Mapping ethnicity to color
+    ethnicity_color_map = {
+        'White': 'lightblue',
+        'Asian': 'lightgreen',
+        'Black': 'lightcoral',
+        'Other': 'lightyellow',
+        'Unknown': 'lightgrey'  # Default color for unknown ethnicity
+    }
 
     # Assign color to nodes based on ethnicity
-    node_colors = [ethnicity_color_map.get(ethnicity, 'lightgrey') for ethnicity in ethnicity_series]
+    node_colors = [ethnicity_color_map.get(G.nodes[node].get('Prediction', 'Unknown'), 'lightgrey') for node in G.nodes()]
 
+    # Plot the graph
     print("Saving graph now...")
-    plt.figure(figsize=(12, 12))
-    # nx.draw(G, with_labels=True, node_color='lightblue', edge_color='#909090', node_size=500, font_size=9, alpha=0.6, linewidths=0.5)
-    nx.draw(G, with_labels=True, node_color=node_colors, edge_color='#909090', node_size=500, font_size=9, alpha=0.6, linewidths=0.5)
+    plt.figure(figsize=(50, 50))
+    nx.draw(G, with_labels=True, node_color=node_colors, edge_color='#909090', node_size=1000, font_size=9, alpha=0.6, linewidths=0.5)
 
     # Create a list of legend handles:
     legend_handles = [mpatches.Patch(color=color, label=ethnicity) for ethnicity, color in ethnicity_color_map.items()]
@@ -126,47 +135,39 @@ def save_graph(G, filename="network_graph.pdf"):
 
 
 if __name__ == '__main__':
- 
-  # Prepare dataset and graph
-  df = pd.read_csv('cleaned_modelResults.csv')
-  df['Full Name'] = df['First Name'] + ' ' + df['Last Name']  # Create a Full Name column to simplify searches
-  G = nx.Graph()
-  visited = set()
 
-  # Mapping ethnicity to color
-  ethnicity_color_map = {
-      'White': 'lightblue',
-      'Asian': 'lightgreen',
-      'Black': 'lightcoral',
-      'Other': 'lightyellow',
-      'Unknown': 'lightgrey'  # Default color for unknown ethnicity
-  }
+    # Prepare dataset and graph
+    df = pd.read_csv('updated_results.csv')
+    df['Full Name'] = df['First Name'] + ' ' + df['Last Name']  # Create a Full Name column to simplify searches
+    G = nx.Graph()
+    visited = set()
 
-  ### ALL PROFESSOR IN DATASET
-  # Start the graph construction from each professor's initially known profile URL
-  processed_professors = 0
+    ### ALL PROFESSOR IN DATASET
+    processed_professors = 0
 
-  for index, row in df.iterrows():
-      full_name = row['Full Name']
-      if full_name not in visited:
-          try:
-              profile_url = search_google_scholar(row['First Name'], row['Last Name'], row['School'])
-              if profile_url:
-                  add_coauthors_to_graph(full_name, profile_url, G, df, visited)
+    for index, row in df.iterrows():
+        full_name = row['Full Name']
+        if full_name not in visited:
+            try:
+                #   profile_url = search_google_scholar(row['First Name'], row['Last Name'], row['School'])
+                profile_url = row['Source']
+                if profile_url:
+                    add_coauthors_to_graph(full_name, profile_url, G, df, visited)
 
-                  processed_professors += 1
-                  print(f"Finished processing {full_name}")
+                    processed_professors += 1
+                    print(f"Finished processing {full_name}")
 
-                  # Sleep after every 10 requests with a random duration between 10 and 20 seconds
-                  if processed_professors % 10 == 0:
-                      sleep_time = random.uniform(10, 20)
-                      print(f"Sleeping for {sleep_time:.2f} seconds to avoid rate limiting.")
-                      time.sleep(sleep_time)
+                    # # Sleep after every 10 requests with a random duration between 10 and 20 seconds
+                    # if processed_professors % 10 == 0:
+                    #     sleep_time = random.uniform(30, 60)
+                    #     print(f"Sleeping for {sleep_time:.2f} seconds to avoid rate limiting.")
+                    #     time.sleep(sleep_time)
 
-          except requests.exceptions.RequestException as e:
-              print(f"Error fetching data for {full_name}: {e}")
-              continue  # Skip to the next professor
-          finally:
-              # Save the graph every 10 professors              
-              if (index + 1) % 10 == 0:
-                  save_graph(G, f"network_graph_{index + 1}.pdf")
+            except requests.exceptions.RequestException as e:
+                print(f"Error fetching data for {full_name}: {e}")
+                continue  # Skip to the next professor
+
+            finally:
+                # Save the graph every 10 professors processed
+                if (index + 1) % 10 == 0:
+                    save_graph(G, f"network_graph_{index + 1}.pdf")
