@@ -1,7 +1,7 @@
 """
 # Creates a network graph of professors based on their co-authorship connections.
 # Created by Thien An Tran on 4/12/2024
-# Last modified on 4/30/2024
+# Last modified on 5/20/2024
 """
 
 import requests
@@ -16,7 +16,9 @@ import random
 
 
 def search_google_scholar(first_name, last_name, school):
-    """ Search Google Scholar for the given professor's profile and return the profile URL. """
+    """ Search Google Scholar for the given professor's profile and return the profile URL. 
+    (only needed if the source of the professor is not provided in the dataset)
+    """
     query = f"{first_name} {last_name} {school}"
     base_url = "https://scholar.google.com/scholar?hl=en&q="
     search_url = base_url + "+".join(query.split())
@@ -41,6 +43,7 @@ def search_google_scholar(first_name, last_name, school):
 
 
 def get_coauthors(profile_url):
+    """ Retrieve the co-authors of a professor given their Google Scholar profile URL."""
     if profile_url is None:
         return []
     
@@ -68,12 +71,14 @@ def get_coauthors(profile_url):
 
 
 def add_coauthors_to_graph(full_name, profile_url, G, df, visited):
-    """ Recursively adds co-authors to the graph from a starting professor's Google Scholar profile. """
+    """ Recursively adds co-authors to the graph from a starting professor's Google Scholar profile if they are also in the dataset."""
     if full_name in visited:
         return
+
     visited.add(full_name)  # Mark this node as visited
     G.add_node(full_name) # Add the initial professor as a node (is it needed? In case there's a prof with no connections)
     coauthors = get_coauthors(profile_url)
+
     if not coauthors:  # If no coauthors, this is a terminal node
         return
 
@@ -84,26 +89,20 @@ def add_coauthors_to_graph(full_name, profile_url, G, df, visited):
                 print(coauthor_name)
                 add_coauthors_to_graph(coauthor_name, coauthor_url, G, df, visited)  # Recursive call using the direct URL
 
-        # # Add a sleep call here to pace the recursion
-        # sleep_time = random.uniform(0, 1)  # Shorter sleep times within deep recursion
-        # print(f"Sleeping for {sleep_time:.2f} seconds before processing next coauthor.")
-        # time.sleep(sleep_time)
-
 
 def save_graph(G, filename="network_graph.pdf"):
+    """ Save the network graph of professors to a PDF file. """
     # Extracting node names as a list
     node_names = list(G.nodes())
 
     # Extract ethnicity information from the DataFrame for processed professors
-    ethnicity_series = df.set_index('Full Name')['Prediction'].to_dict()
+    ethnicity_series = df.set_index('Full Name')['Actual'].to_dict()
 
-    # Assign ethnicity information to nodes in the graph
     for node in node_names:
         if node in ethnicity_series:
-            G.nodes[node]['Prediction'] = ethnicity_series[node]
+            G.nodes[node]['Actual'] = ethnicity_series[node]
         else:
-            # Handle case where ethnicity information is missing
-            G.nodes[node]['Prediction'] = 'Unknown'
+            G.nodes[node]['Actual'] = 'Unknown'
 
     # Mapping ethnicity to color
     ethnicity_color_map = {
@@ -115,11 +114,10 @@ def save_graph(G, filename="network_graph.pdf"):
     }
 
     # Assign color to nodes based on ethnicity
-    node_colors = [ethnicity_color_map.get(G.nodes[node].get('Prediction', 'Unknown'), 'lightgrey') for node in G.nodes()]
+    node_colors = [ethnicity_color_map.get(G.nodes[node].get('Actual', 'Unknown'), 'lightgrey') for node in G.nodes()]
 
-    # Plot the graph
     print("Saving graph now...")
-    plt.figure(figsize=(50, 50))
+    plt.figure(figsize=(100, 100))
     nx.draw(G, with_labels=True, node_color=node_colors, edge_color='#909090', node_size=1000, font_size=9, alpha=0.6, linewidths=0.5)
 
     # Create a list of legend handles:
@@ -128,7 +126,6 @@ def save_graph(G, filename="network_graph.pdf"):
     plt.legend(handles=legend_handles, title='Ethnicity')
 
     plt.title('Co-Authorship Graph Among UC Professors')
-    # plt.savefig('co_authorship_graph.png')
     plt.savefig(filename, format='pdf')
     # plt.show()
     plt.close()
@@ -137,37 +134,32 @@ def save_graph(G, filename="network_graph.pdf"):
 if __name__ == '__main__':
 
     # Prepare dataset and graph
-    df = pd.read_csv('updated_results.csv')
+    df = pd.read_csv('UC_first200_actual_cleaned.csv')
     df['Full Name'] = df['First Name'] + ' ' + df['Last Name']  # Create a Full Name column to simplify searches
-    G = nx.Graph()
-    visited = set()
 
-    ### ALL PROFESSOR IN DATASET
-    processed_professors = 0
+    G = nx.Graph()  # Undirected graph to represent co-authorship connections
+    visited = set() # Keep track of visited professors to avoid cycles
 
-    for index, row in df.iterrows():
-        full_name = row['Full Name']
-        if full_name not in visited:
-            try:
-                #   profile_url = search_google_scholar(row['First Name'], row['Last Name'], row['School'])
-                profile_url = row['Source']
-                if profile_url:
-                    add_coauthors_to_graph(full_name, profile_url, G, df, visited)
+    # Process each professor in the dataset
+    try:
+        for index, row in df.iterrows():
+            full_name = row['Full Name']
+            if full_name not in visited:
+                try:
+                    #   profile_url = search_google_scholar(row['First Name'], row['Last Name'], row['School'])
+                    profile_url = row['Source']
+                    if profile_url:
+                        add_coauthors_to_graph(full_name, profile_url, G, df, visited)
 
-                    processed_professors += 1
-                    print(f"Finished processing {full_name}")
+                        print(f"Finished processing {full_name}")
 
-                    # # Sleep after every 10 requests with a random duration between 10 and 20 seconds
-                    # if processed_professors % 10 == 0:
-                    #     sleep_time = random.uniform(30, 60)
-                    #     print(f"Sleeping for {sleep_time:.2f} seconds to avoid rate limiting.")
-                    #     time.sleep(sleep_time)
+                except requests.exceptions.RequestException as e:
+                    print(f"Error fetching data for {full_name}: {e}")
+                    continue  # Skip to the next professor
 
-            except requests.exceptions.RequestException as e:
-                print(f"Error fetching data for {full_name}: {e}")
-                continue  # Skip to the next professor
+    except Exception as e:
+        print(e)
 
-            finally:
-                # Save the graph every 10 professors processed
-                if (index + 1) % 10 == 0:
-                    save_graph(G, f"network_graph_{index + 1}.pdf")
+    finally:
+        save_graph(G, "UC_first200_network_graph.pdf")
+        print("Graph has been saved.")
