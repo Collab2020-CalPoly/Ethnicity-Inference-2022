@@ -1,7 +1,7 @@
 """
 # Creates a network graph of professors based on their co-authorship connections.
 # Created by Thien An Tran on 4/12/2024
-# Last modified on 5/20/2024
+# Last modified on 6/1/2024
 """
 
 import requests
@@ -13,6 +13,8 @@ import matplotlib.patches as mpatches
 import re
 import time
 import random
+import matplotlib.backends.backend_pdf
+import scipy as sp
 
 
 def search_google_scholar(first_name, last_name, school):
@@ -72,22 +74,28 @@ def get_coauthors(profile_url):
 
 def add_coauthors_to_graph(full_name, profile_url, G, df, visited):
     """ Recursively adds co-authors to the graph from a starting professor's Google Scholar profile if they are also in the dataset."""
-    if full_name in visited:
-        return
 
-    visited.add(full_name)  # Mark this node as visited
-    G.add_node(full_name) # Add the initial professor as a node (is it needed? In case there's a prof with no connections)
+    # Excluding the base case: algorithm doesn't prematurely stop exploring co-authors, allowing more connections (edges) to be made.
+    # When the base case is excluded, the function doesn't halt upon encountering a visited node. This continuation allows the function to explore all reachable nodes and their connections.
+    # It does lead to redundant processing though (e.g., revisiting nodes), but it ensures that all possible connections are made.
+    # if full_name in visited:
+    #     return  # Stop processing if this professor has been visited already
+
+    # Retrieve co-authors regardless of whether the current professor has been visited or not
     coauthors = get_coauthors(profile_url)
-
-    if not coauthors:  # If no coauthors, this is a terminal node
-        return
 
     for coauthor_name, coauthor_url in coauthors:
         if df['Full Name'].str.contains(re.escape(coauthor_name), regex=True, na=True).any():
-            if coauthor_name not in visited:  # Prevent cycles
-                G.add_edge(full_name, coauthor_name)  # Add an edge between the original professor and the co-author
-                print(coauthor_name)
-                add_coauthors_to_graph(coauthor_name, coauthor_url, G, df, visited)  # Recursive call using the direct URL
+            # Check if the edge already exists to prevent adding it twice
+            if not G.has_edge(full_name, coauthor_name):
+                G.add_edge(full_name, coauthor_name)  # Add an edge only if it does not already exist
+                print(f"Edge added between {full_name} and {coauthor_name}")
+            if coauthor_name not in visited:  # Check if co-author has been visited
+                visited.add(coauthor_name)  # Mark co-author as visited
+                add_coauthors_to_graph(coauthor_name, coauthor_url, G, df, visited)  # Recursive call for the co-author
+
+    # Mark the current professor as visited after all possible edges are added
+    visited.add(full_name)
 
 
 def save_graph(G, filename="network_graph.pdf"):
@@ -131,10 +139,28 @@ def save_graph(G, filename="network_graph.pdf"):
     plt.close()
 
 
+def filter_dataset_based_on_graph(G, original_df):
+    """ Filter the original DataFrame to include only professors who are part of a connected component in the graph. """
+    # Get all nodes in the connected components
+    connected_nodes = set()
+    
+    # for node in G.nodes:
+    #     if node not in nx.connected_components(G):
+    #         G.remove_node(node)
+
+    for component in nx.connected_components(G):
+        connected_nodes.update(component)
+
+    # Filter the DataFrame to include only these nodes
+    filtered_df = original_df[original_df['Full Name'].isin(connected_nodes)]
+    
+    return filtered_df
+
+
 if __name__ == '__main__':
 
     # Prepare dataset and graph
-    df = pd.read_csv('UC_first200_actual_cleaned.csv')
+    df = pd.read_csv('UCB_UCLA_first1000_results_actual.csv')
     df['Full Name'] = df['First Name'] + ' ' + df['Last Name']  # Create a Full Name column to simplify searches
 
     G = nx.Graph()  # Undirected graph to represent co-authorship connections
@@ -161,5 +187,12 @@ if __name__ == '__main__':
         print(e)
 
     finally:
-        save_graph(G, "UC_first200_network_graph.pdf")
+
+        # # Filter dataset based on connected components in the graph
+        # filtered_df = filter_dataset_based_on_graph(G, df)
+        # filtered_df.to_csv('Filtered_UCB_UCLA_1500_test.csv', index=False)  # Save the filtered dataset
+        # print("Filtered dataset has been saved.")
+
+        save_graph(G, "UCB_UCLA_first1000_results_actual_TEST.pdf")
         print("Graph has been saved.")
+        print(f"Graph has {len(G.nodes)} nodes and {len(G.edges)} edges.")
