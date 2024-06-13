@@ -1,7 +1,7 @@
 """
 # Creates a network graph of professors based on their co-authorship connections.
 # Created by Thien An Tran on 4/12/2024
-# Last modified on 6/1/2024
+# Last modified on 6/6/2024
 """
 
 import requests
@@ -19,7 +19,7 @@ import scipy as sp
 
 def search_google_scholar(first_name, last_name, school):
     """ Search Google Scholar for the given professor's profile and return the profile URL. 
-    (only needed if the source of the professor is not provided in the dataset)
+    NOTE: Only needed if the source of the professor is not provided in the dataset.
     """
     query = f"{first_name} {last_name} {school}"
     base_url = "https://scholar.google.com/scholar?hl=en&q="
@@ -78,6 +78,7 @@ def add_coauthors_to_graph(full_name, profile_url, G, df, visited):
     # Excluding the base case: algorithm doesn't prematurely stop exploring co-authors, allowing more connections (edges) to be made.
     # When the base case is excluded, the function doesn't halt upon encountering a visited node. This continuation allows the function to explore all reachable nodes and their connections.
     # It does lead to redundant processing though (e.g., revisiting nodes), but it ensures that all possible connections are made.
+
     # if full_name in visited:
     #     return  # Stop processing if this professor has been visited already
 
@@ -85,7 +86,7 @@ def add_coauthors_to_graph(full_name, profile_url, G, df, visited):
     coauthors = get_coauthors(profile_url)
 
     for coauthor_name, coauthor_url in coauthors:
-        if df['Full Name'].str.contains(re.escape(coauthor_name), regex=True, na=True).any():
+        if (df['Full Name'] == coauthor_name).any(): # Check if co-author is in the dataset (more accurate than using regex)
             # Check if the edge already exists to prevent adding it twice
             if not G.has_edge(full_name, coauthor_name):
                 G.add_edge(full_name, coauthor_name)  # Add an edge only if it does not already exist
@@ -131,22 +132,49 @@ def save_graph(G, filename="network_graph.pdf"):
     # Create a list of legend handles:
     legend_handles = [mpatches.Patch(color=color, label=ethnicity) for ethnicity, color in ethnicity_color_map.items()]
     # Add the legend to the plot
-    plt.legend(handles=legend_handles, title='Ethnicity')
+    plt.legend(handles=legend_handles, title='Ethnicity', prop={'size': 25}, title_fontsize=25, loc='upper right', bbox_to_anchor=(1, 1))
 
     plt.title('Co-Authorship Graph Among UC Professors')
     plt.savefig(filename, format='pdf')
     # plt.show()
     plt.close()
 
+    # Calculate collaborations
+    ethnicity_collaborations = calculate_ethnicity_collaborations(G)
+    print("Ethnicity Collaboration Percentages:")
+    for ethnicity, data in ethnicity_collaborations.items():
+        print(f"{ethnicity}: {data}")
+
+
+def calculate_ethnicity_collaborations(G):
+    """ Calculate the percentage of collaborations between professors of different ethnicities. """
+    ethnicity_counts = {ethnicity: {'total': 0, 'White': 0, 'Asian': 0, 'Black': 0, 'Other': 0} for ethnicity in ['White', 'Asian', 'Black', 'Other']}
+    
+    for node in G.nodes:
+        node_ethnicity = G.nodes[node].get('Actual', 'Unknown')
+        if node_ethnicity in ethnicity_counts:
+            # Count collaborations with each ethnicity
+            for neighbor in G.neighbors(node):
+                neighbor_ethnicity = G.nodes[neighbor].get('Actual', 'Unknown')
+                if neighbor_ethnicity in ethnicity_counts:
+                    ethnicity_counts[node_ethnicity][neighbor_ethnicity] += 1
+                    ethnicity_counts[node_ethnicity]['total'] += 1
+    
+    # Convert counts to percentages
+    for ethnicity in ethnicity_counts:
+        for other in ['White', 'Asian', 'Black', 'Other']:
+            if ethnicity_counts[ethnicity]['total'] > 0:
+                ethnicity_counts[ethnicity][other] = (ethnicity_counts[ethnicity][other] / ethnicity_counts[ethnicity]['total']) * 100
+
+    return ethnicity_counts
+
 
 def filter_dataset_based_on_graph(G, original_df):
-    """ Filter the original DataFrame to include only professors who are part of a connected component in the graph. """
+    """ Filter the original DataFrame to include only professors who are part of a connected component in the graph.
+    NOTE: Run this function when the actual ethnicity of the professors is unknown to filter the dataset based on only connected components in the graph.
+    """
     # Get all nodes in the connected components
     connected_nodes = set()
-    
-    # for node in G.nodes:
-    #     if node not in nx.connected_components(G):
-    #         G.remove_node(node)
 
     for component in nx.connected_components(G):
         connected_nodes.update(component)
@@ -190,9 +218,20 @@ if __name__ == '__main__':
 
         # # Filter dataset based on connected components in the graph
         # filtered_df = filter_dataset_based_on_graph(G, df)
-        # filtered_df.to_csv('Filtered_UCB_UCLA_1500_test.csv', index=False)  # Save the filtered dataset
+        # filtered_df.to_csv('Filtered_UCB_UCLA_1000_test.csv', index=False)  # Save the filtered dataset
         # print("Filtered dataset has been saved.")
 
-        save_graph(G, "UCB_UCLA_first1000_results_actual_TEST.pdf")
-        print("Graph has been saved.")
+        save_graph(G, "UCB_UCLA_first1000_network_graph.pdf")
         print(f"Graph has {len(G.nodes)} nodes and {len(G.edges)} edges.")
+
+
+        ### Debugging ###
+        # sometimes profs would have duplicate profiles under same school
+        print("Number of duplicates in the dataset:")
+        print(df['Full Name'].duplicated().sum())
+
+        # Check for unnconnected nodes in the graph; they won't be included in the graph though
+        dataset_names = set(df['Full Name'])
+        graph_nodes = set(G.nodes())
+        missing_nodes = dataset_names - graph_nodes
+        print(f"Names in dataset not in graph: {missing_nodes}")
